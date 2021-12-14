@@ -5,8 +5,8 @@ import {
   Switch,
 } from 'react-router-dom';
 
-import MainNavigation from './components/MainNavigation';
-import Footer from './components/Footer';
+import MainNavigation from './shared/components/MainNavigation';
+import Footer from './shared/components/Footer';
 
 const App = () => {
   const routes = (
