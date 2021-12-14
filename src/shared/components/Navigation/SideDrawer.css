@@ -1,0 +1,13 @@
+.side-drawer {
+  position: fixed;
+  top: 8vh;
+  right: 0;
+  z-index: 99;
+
+  height: 24vh;
+  width: 100%;
+
+  background: rgb(255, 255, 255, 0.8);
+  box-shadow: 0 7px 30px -10px rgba(150, 170, 180, 0.4);
+  backdrop-filter: blur(10px);
+}

@@ -1,0 +1,10 @@
+.main-header {
+  position: fixed;
+  z-index: 999;
+
+  height: 8vh;
+  width: 100%;
+
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+}

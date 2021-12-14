@@ -5,8 +5,8 @@ import {
   Switch,
 } from 'react-router-dom';
 
-import MainNavigation from './shared/components/MainNavigation';
-import Footer from './shared/components/Footer';
+import MainNavigation from './shared/components/Navigation/MainNavigation';
+import Footer from './shared/components/Footer/Footer';
 
 const App = () => {
   const routes = (
@@ -42,8 +42,9 @@ const App = () => {
   return (
     <Router>
       <MainNavigation />
-      {routes}
-      <Footer />
+      <main>{routes}</main>
+      {/* TODO ADD FOOTER */}
+      {/* <Footer /> */}
     </Router>
   );
 };
