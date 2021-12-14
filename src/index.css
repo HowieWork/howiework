@@ -1,0 +1,94 @@
+/* 
+--- NOTE 01 TYPOGRAPHY SYSTEM ---
+- FONT FAMILY 
+Nunito 
+
+- FONT SIZES (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- FONT WEIGHTS
+Extra-light: 200
+Light: 300
+Regular(Default): 400
+Medium: 500
+Semi-bold: 600
+Bold: 700
+Extra-bold: 900
+
+- LINE HEIGHTS
+Tiny: 1
+Small: 1.05
+Medium: 1.2
+Paragraph default: 1.6
+Large: 1.8
+
+- LETTER SPACING
+Tight: -0.5px
+Default: 0px
+Medium: 0.5px
+Large: 0.75px
+
+--- NOTE 02 COLORS ---
+*palette link: N/A
+- Reference
+#FBF5ED #CCC5B9 #403D39 #252422 #EB5E28
+
+- LIGHT MODE
+-- Body-background: #FBF5ED
+-- Font-color: #252422
+-- Primary: #EB5E28
+-- Tints: #FDEFEA #F7BFA9 #F18E69
+-- Shades: #BC4B20 #762F14 #2F1308
+-- Accents: N/A
+
+- DARK MODE
+-- Body-background: #252422
+-- Font-color: #FBF5ED 
+TODO UPDATE DARK MODE PALLETE
+-- Primary: #EB5E28
+-- Tints: #FDEFEA #F7BFA9 #F18E69
+-- Shades: #BC4B20 #762F14 #2F1308
+-- Accents: N/A
+
+GREYS
+#767676 (lightest grey allowed on #fff)
+#6f6f6f (lightest grey allowed on #fdf2e9)
+#fafafa (body background) #555 #333
+
+--- NOTE 03 SHADOWS ---
+Card: 0 7px 30px -10px rgba(150, 170, 180, 0.4);
+Card:hover: 0 7px 30px -10px rgba(150, 170, 180, 0.9);
+
+--- NOTE 04 BORDER-RADIUS ---
+Tiny: 4px || 0.4rem
+Small: 6px || 0.6rem
+Default: 9px || 0.9rem
+Medium: 11px || 1.1rem
+Large: 14px || 1.4rem
+
+--- NOTE 05 WHITESPACE ---
+- Spacing system (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 112 / 128
+
+--- NOTE 06 RESPONSIVE ---
+- Web 1024px || 64em
+- Tablet 768px || 48em 
+- Mobile 384px || 24em
+
+--- NOTE 07 COMPONENTS ---
+- BUTTON
+-- Primary #EB5E28 #FFF
+-- primary: hover #BC4B20 #FFF
+
+-- Secondary #403D39 (font & border color)
+-- Secondary: hover #252422 (font & border color)
+
+-- Danger
+#ff7675 (background and border color)
+
+-- Disabled
+#ccc (background and border color)
+ */
+
+/* GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;900&display=swap');
