@@ -19,6 +19,19 @@ const SelectedWorks = () => {
           <p>Read More</p>
         </div>
       </div>
+      <div className='center-flex-column small-gap project-container'>
+        <div className='project-title'>Museum</div>
+        <div className='center-flex-row project-image'>
+          <img src='' alt='museum app cover' />
+        </div>
+        <div className='center-flex-column tiny-gap project-description'>
+          <p>
+            A mobile app design for a museum. Its goal is to enhance visitors’
+            museum experience.
+          </p>
+          <p>Read More</p>
+        </div>
+      </div>
     </section>
   );
 };
