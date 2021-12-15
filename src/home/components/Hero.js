@@ -35,14 +35,21 @@ const Hero = () => {
 
       {/* HERO CTA */}
       {/* FIXME CHANGE TO CUSTOM BUTTON */}
-      <Button to='/portfolio' primary>
-        <div className='center-flex-row tiny-gap'>
-          Portfolio
-          <span className='center-flex-row'>
-            <MdKeyboardArrowRight />
-          </span>
-        </div>
-      </Button>
+      <div className='hero-cta'>
+        <Button to='/portfolio' primary>
+          <div className='center-flex-row tiny-gap'>
+            Portfolio
+            <span className='center-flex-row'>
+              <MdKeyboardArrowRight />
+            </span>
+          </div>
+        </Button>
+      </div>
+
+      {/* TODO UPDATE SCROLL */}
+      <div className='center-text hero-cta-scroll'>
+        PLEASE SCROLL PLACEHOLDER
+      </div>
     </section>
   );
 };

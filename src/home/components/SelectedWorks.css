@@ -1,1 +1,35 @@
+.section-works {
+  margin-bottom: 6.4rem;
+}
 
+.works-title {
+  font-size: 2rem;
+  font-weight: 600;
+
+  margin-bottom: 3.2rem;
+}
+
+.project-container {
+}
+
+.project-title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.project-image {
+  /* FIXME HOW PROJECT COVER IMAGE FIT INTO 100% WIDTH? */
+  width: 100%;
+  height: 18rem;
+
+  /* FIXME DELETE */
+  outline: 1px solid #403d39;
+  border-radius: 0.6rem;
+}
+
+.project-description {
+  font-size: 1.8rem;
+
+  /* OVERWRITE CENTERED ALIGN ITEMS*/
+  align-items: flex-start;
+}
