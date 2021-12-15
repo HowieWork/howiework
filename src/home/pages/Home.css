@@ -1,4 +1,6 @@
 .home-container {
   /* LEAVE TOP SPACE FOR FIXED MAIN NAVIGATION */
   padding-top: 8vh;
+
+  margin: auto;
 }

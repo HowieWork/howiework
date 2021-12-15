@@ -166,6 +166,23 @@ body {
   gap: 9.6rem;
 }
 
+/* RESPONSIVE WIDTH */
+.responsive-width {
+  width: 50%;
+}
+
+@media (max-width: 48em) {
+  .responsive-width {
+    width: 70%;
+  }
+}
+
+@media (max-width: 24em) {
+  .responsive-width {
+    width: 90%;
+  }
+}
+
 /* CSS TRANSITIONS */
 .slide-in-top-enter {
   transform: translateY(-100%);

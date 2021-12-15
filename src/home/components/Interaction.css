@@ -1,0 +1,23 @@
+.checkbox {
+  font-size: 1.2rem;
+  color: #252422;
+
+  height: 4vh;
+}
+
+.interactive-container {
+  width: 100%;
+  height: 88vh;
+}
+
+.interactive-content {
+  height: 84vh;
+
+  /* FIXME DELETE */
+  outline: 1px solid #403d39;
+  border-radius: 0.6rem;
+}
+
+.interactive-scroll {
+  height: 4vh;
+}
