@@ -7,12 +7,15 @@ import {
 
 import MainNavigation from './shared/components/Navigation/MainNavigation';
 import Footer from './shared/components/Footer/Footer';
+import Home from './home/pages/Home';
 
 const App = () => {
   const routes = (
     <Switch>
       {/* HOMEPAGE */}
-      <Route path='/' exact></Route>
+      <Route path='/' exact>
+        <Home />
+      </Route>
 
       {/* PORFOLIO */}
       <Route path='/portfolio' exact></Route>
