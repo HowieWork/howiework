@@ -168,18 +168,18 @@ body {
 
 /* RESPONSIVE WIDTH */
 .responsive-width {
-  width: 50%;
+  width: 50vw;
 }
 
 @media (max-width: 48em) {
   .responsive-width {
-    width: 70%;
+    width: 70vw;
   }
 }
 
 @media (max-width: 24em) {
   .responsive-width {
-    width: 90%;
+    width: 90vw;
   }
 }
 
