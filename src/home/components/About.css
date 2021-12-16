@@ -1,0 +1,39 @@
+.section-about {
+  margin-bottom: 6.4rem;
+}
+
+.about-title {
+  font-size: 2rem;
+  font-weight: 600;
+
+  margin-bottom: 3.2rem;
+
+  /* OVERWRITE CENTERED JUSTIFY CONTENT */
+  justify-content: flex-start;
+}
+
+.about-title div {
+  display: inline-block;
+  width: 0.6rem;
+  height: 2rem;
+  background-color: #eb5e28;
+}
+
+.about-container {
+  margin-bottom: 3.2rem;
+
+  /* OVERWRITE CENTERED ALIGN-ITEMS */
+  align-items: flex-start;
+}
+
+.about-text {
+  font-size: 1.8rem;
+  color: #252422;
+
+  /* OVERWRITE CENTERED ALIGN-ITEMS */
+  align-items: flex-start;
+}
+
+.about-text--year {
+  font-weight: 600;
+}

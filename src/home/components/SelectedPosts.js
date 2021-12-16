@@ -4,7 +4,7 @@ import './SelectedPosts.css';
 const SelectedPosts = () => {
   return (
     <section className='responsive-width section-posts'>
-      <div className='posts-title'>
+      <div className='center-flex-row tiny-gap posts-title'>
         <div></div> Thoughts & ideas
       </div>
       <div className='posts-container'>
