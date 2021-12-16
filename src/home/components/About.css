@@ -41,6 +41,12 @@
   font-weight: 600;
 }
 
+@media (max-width: 48em) {
+  .about-text {
+    gap: 1.6rem;
+  }
+}
+
 .interests-text {
   font-size: 1.8rem;
   color: #252422;
