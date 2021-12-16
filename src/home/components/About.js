@@ -9,7 +9,7 @@ const About = () => {
       {/* ABOUT ME */}
       <section className='responsive-width section-about'>
         <div className='center-flex-row tiny-gap about-title'>
-          <div></div> About
+          <div></div> About me
         </div>
 
         <div className='center-flex-column tiny-gap about-container'>
