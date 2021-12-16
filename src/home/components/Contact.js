@@ -1,4 +1,7 @@
 import { MdCallMade } from 'react-icons/md';
+
+import Button from '../../shared/components/FormElements/Button';
+
 import './Contact.css';
 
 const Contact = () => {
@@ -7,7 +10,11 @@ const Contact = () => {
       <div className='center-flex-row tiny-gap contact-title'>
         <div></div> Get in touch
       </div>
+
+      {/* TODO CHANGE DIV TO LINK */}
       <div className='center-flex-column small-gap contact-container '>
+        {/* FIXME BUTTON CSS STYLE AND TARGET BLANK */}
+        {/* <Button href='https://github.com/howiework'>GitHub</Button> */}
         <div className='center-flex-row tiny-gap contact-text'>
           GitHub <MdCallMade />
         </div>
