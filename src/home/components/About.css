@@ -1,8 +1,10 @@
-.section-about {
+.section-about,
+.section-interests {
   margin-bottom: 6.4rem;
 }
 
-.about-title {
+.about-title,
+.interests-title {
   font-size: 2rem;
   font-weight: 600;
 
@@ -12,7 +14,8 @@
   justify-content: flex-start;
 }
 
-.about-title div {
+.about-title div,
+.interests-title div {
   display: inline-block;
   width: 0.6rem;
   height: 2rem;
@@ -36,4 +39,13 @@
 
 .about-text--year {
   font-weight: 600;
+}
+
+.interests-text {
+  font-size: 1.8rem;
+  color: #252422;
+}
+
+.interests-text span {
+  color: #eb5e28;
 }
