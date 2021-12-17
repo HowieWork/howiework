@@ -1,3 +1,6 @@
+.section-interactive {
+}
+
 .checkbox {
   font-size: 1.2rem;
   color: #252422;
@@ -6,18 +9,89 @@
 }
 
 .interactive-container {
-  width: 100%;
   height: 88vh;
+
+  margin-bottom: 6.4rem;
 }
 
-.interactive-content {
+.interactive-chat {
   height: 84vh;
+  /* overflow: hidden; */
+  overflow-y: scroll;
+  overflow-x: hidden;
 
-  /* FIXME DELETE */
-  outline: 1px solid #403d39;
-  border-radius: 0.6rem;
+  /* IE and Edge */
+  -ms-overflow-style: none;
+  /* Firefox */
+  scrollbar-width: none;
+
+  display: flex;
+  flex-direction: column-reverse;
+
+  font-size: 1.6rem;
+  color: #252422;
+}
+
+/* HIDE VERTICAL SCROLL BAR */
+::-webkit-scrollbar {
+  width: 0px;
+  /* make scrollbar transparent */
+  background: transparent;
 }
 
 .interactive-scroll {
   height: 4vh;
+}
+
+.chat {
+  display: flex;
+  flex-direction: row-reverse;
+
+  /* NOTE SET UP ORIGIN FOR AN ELEMENT'S TRANSFORMATION */
+  transform-origin: 100% 100%;
+  padding-top: 0;
+  transform: scale(0);
+  max-height: 0;
+  overflow: hidden;
+
+  animation: message 0.15s ease-out 0s forwards;
+  animation-delay: var(--delay);
+
+  --bgcolor: #fff;
+  --radius: 0.6rem 0.6rem 0 0.6rem;
+}
+
+.chat__howie {
+  flex-direction: row;
+  /* text-align: right; */
+  /* align-self: flex-end; */
+
+  transform-origin: 0 100%;
+
+  --bgcolor: #ccc5b9;
+  --radius: 0.6rem 0.6rem 0.6rem 0;
+}
+
+.chat__content {
+  padding: 0.6rem 1.2rem;
+  /* flex: 0 1 auto; */
+
+  background: var(--bgcolor);
+  border-radius: var(--radius);
+}
+
+@keyframes message {
+  0% {
+    max-height: 100vmax;
+  }
+  80% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+    max-height: 100vmax;
+    overflow: visible;
+    /* overflow: scroll; */
+    padding-top: 1rem;
+  }
 }
