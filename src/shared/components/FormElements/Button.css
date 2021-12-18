@@ -19,17 +19,19 @@
   border: 1px solid #eb5e28;
 }
 
-.button--secondary {
-  background: transparent;
-  color: #252422;
-  border: 1px solid #252422;
-}
-
 .button--primary:hover,
 .button--primary:active,
 .button--primary:focus {
   background-color: #bc4b20;
   border-color: #bc4b20;
+}
+
+.button--secondary {
+  font-weight: 500;
+  font-size: 1.8rem;
+  color: #252422;
+
+  padding: 0;
 }
 
 .button--danger:hover,
@@ -49,10 +51,37 @@
   cursor: not-allowed;
 }
 
-/* DEFAULT: 1.8rem */
+/* NOTE ADD UNDERLINE WHEN HOVER*/
+.button--hoverUnderline:link,
+.button--hoverUnderline:visited,
+.button--hoverUnderline:hover,
+.button--hoverUnderline:active {
+  position: relative;
+}
+.button--hoverUnderline:link::after,
+.button--hoverUnderline:visited::after,
+.button--hoverUnderline:hover::after,
+.button--hoverUnderline:active::after {
+  position: absolute;
+  content: '';
+  height: 1px;
+  top: 100%;
+  left: 0;
+  background-color: #252422;
+
+  width: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.button--hoverUnderline:hover::after,
+.button--hoverUnderline:active::after {
+  width: 100%;
+}
+
 .button--small {
   font-size: 0.8rem;
 }
+/* BUTTON DEFAULT: 1.8rem */
 .button--medium {
   font-size: 2rem;
 }

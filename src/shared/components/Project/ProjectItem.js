@@ -1,3 +1,4 @@
+import Button from '../FormElements/Button';
 import './ProjectItem.css';
 
 const ProjectItem = ({ type, title, technologyList, description }) => {
@@ -18,8 +19,10 @@ const ProjectItem = ({ type, title, technologyList, description }) => {
         </div>
         <div className='project-description'>
           <p>{description}</p>
-          {/* FIXME CHANGE READ MORE TO ANCHOR, MAYBE BUTTON? */}
-          <p className='project-cta'>Read More</p>
+          {/* FIXME UPDATE MUSEUM PROJECT LINK */}
+          <Button to='#' secondary hoverUnderline>
+            Read More
+          </Button>
         </div>
       </div>
     );
@@ -41,8 +44,16 @@ const ProjectItem = ({ type, title, technologyList, description }) => {
         </div>
         <div className='project-description'>
           <p>{description}</p>
-          {/* FIXME CHANGE READ MORE TO ANCHOR, MAYBE BUTTON? */}
-          <p className='project-cta'>Demo | GitHub</p>
+          {/* FIXME UPDATE DEMO & GITHUB LINKS */}
+          <div className='project-cta'>
+            <Button href='#' secondary hoverUnderline targetBlank>
+              Demo
+            </Button>{' '}
+            |{' '}
+            <Button href='#' secondary hoverUnderline targetBlank>
+              GitHub
+            </Button>
+          </div>
         </div>
       </div>
     );

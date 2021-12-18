@@ -58,10 +58,6 @@
   gap: 0.8rem;
 }
 
-.project-cta {
-  font-weight: 600;
-}
-
 @media (max-width: 24em) {
   .project-sub-container {
     flex-direction: column;

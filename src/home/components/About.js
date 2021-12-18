@@ -46,8 +46,8 @@ const About = () => {
 
         {/* ABOUT CTA */}
         <div className='about-cta'>
-          {/* FIXME UPDATE TO */}
-          <Button to='/resume.pdf' primary>
+          {/* FIXME ADD RESUME PDF */}
+          <Button href='/resume.pdf' primary targetBlank>
             <div className='center-flex-row tiny-gap'>
               Resume
               <span className='center-flex-row'>
@@ -65,8 +65,14 @@ const About = () => {
         </div>
         <div className='interests-text'>
           {/* TODO CHANGE SPAN TO LINK */}
-          <span>Photography</span>, Art, <span>Drawing</span>, Meditation,
-          Hiking, Gaming, Travelling
+          <Button to='/photography' secondary hoverUnderline>
+            <span>Photography</span>
+          </Button>
+          , Art,{' '}
+          <Button to='/drawings' secondary hoverUnderline>
+            <span>Drawing</span>
+          </Button>
+          , Meditation, Hiking, Gaming, Travelling
         </div>
       </section>
     </Fragment>

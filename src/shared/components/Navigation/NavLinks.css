@@ -11,23 +11,31 @@
 }
 
 @media (min-width: 768px) {
+  .nav-links a:link,
+  .nav-links a:visited,
   .nav-links a:hover,
   .nav-links a:active {
     position: relative;
-    transition: all 0.3s;
   }
 
+  .nav-links a:link::after,
+  .nav-links a:visited:after,
   .nav-links a:hover::after,
   .nav-links a:active::after {
     position: absolute;
     content: '';
-    width: 50%;
-    height: 0.6rem;
-    top: 75%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-    z-index: -9;
-    background-color: #eb5e28;
+    height: 1px;
+    top: 90%;
+    left: 0;
+    background-color: #252422;
+
+    width: 0;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .nav-links a:hover::after,
+  .nav-links a:active::after {
+    width: 100%;
   }
 }
 

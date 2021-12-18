@@ -1,6 +1,6 @@
 import { MdCallMade } from 'react-icons/md';
 
-// import Button from '../../shared/components/FormElements/Button';
+import Button from '../../shared/components/FormElements/Button';
 
 import './Contact.css';
 
@@ -14,19 +14,46 @@ const Contact = () => {
       {/* TODO CHANGE DIV TO LINK */}
       <div className='center-flex-column small-gap contact-container '>
         {/* FIXME BUTTON CSS STYLE AND TARGET BLANK */}
-        {/* <Button href='https://github.com/howiework'>GitHub</Button> */}
-        <div className='center-flex-row tiny-gap contact-text'>
-          GitHub <MdCallMade />
-        </div>
-        <div className='center-flex-row tiny-gap contact-text'>
-          Instagram <MdCallMade />
-        </div>
-        <div className='center-flex-row tiny-gap contact-text'>
-          LinkedIn <MdCallMade />
-        </div>
-        <div className='center-flex-row tiny-gap contact-text'>
-          Email <MdCallMade />
-        </div>
+        <Button
+          href='https://github.com/howiework'
+          secondary
+          hoverUnderline
+          targetBlank
+        >
+          <div className='center-flex-row tiny-gap contact-text'>
+            GitHub <MdCallMade />
+          </div>
+        </Button>
+        <Button
+          href='https://www.instagram.com/howiework'
+          secondary
+          hoverUnderline
+          targetBlank
+        >
+          <div className='center-flex-row tiny-gap contact-text'>
+            Instagram <MdCallMade />
+          </div>
+        </Button>
+        <Button
+          href='https://www.linkedin.com/in/howiework'
+          secondary
+          hoverUnderline
+          targetBlank
+        >
+          <div className='center-flex-row tiny-gap contact-text'>
+            LinkedIn <MdCallMade />
+          </div>
+        </Button>
+        <Button
+          href='mailto:howiewang2020@gmail.com'
+          secondary
+          hoverUnderline
+          targetBlank
+        >
+          <div className='center-flex-row tiny-gap contact-text'>
+            Email <MdCallMade />
+          </div>
+        </Button>
       </div>
     </section>
   );
