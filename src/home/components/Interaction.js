@@ -23,7 +23,7 @@ const Interaction = () => {
       <Checkbox
         label='Interactive'
         onChange={checkboxChangeHandler}
-        className='center-flex-row tiny-gap checkbox'
+        className='center-flex-row tiny-gap checkbox-interactive'
         value={isChecked}
       />
 

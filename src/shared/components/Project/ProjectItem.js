@@ -11,11 +11,13 @@ const ProjectItem = ({ type, title, technologyList, description }) => {
           <div className='project-image'>
             <img src='' alt={`${title} Cover`} />
           </div>
-          <ul className='project-technology'>
-            {technologyList.map((tech) => (
-              <li key={tech}>{tech}</li>
-            ))}
-          </ul>
+          {technologyList && (
+            <ul className='project-technology'>
+              {technologyList.map((tech) => (
+                <li key={tech}>{tech}</li>
+              ))}
+            </ul>
+          )}
         </div>
         <div className='project-description'>
           <p>{description}</p>
@@ -36,11 +38,13 @@ const ProjectItem = ({ type, title, technologyList, description }) => {
           <div className='project-image'>
             <img src='' alt={`${title} Cover`} />
           </div>
-          <ul className='project-technology'>
-            {technologyList.map((tech) => (
-              <li key={tech}>{tech}</li>
-            ))}
-          </ul>
+          {technologyList && (
+            <ul className='project-technology'>
+              {technologyList.map((tech) => (
+                <li key={tech}>{tech}</li>
+              ))}
+            </ul>
+          )}
         </div>
         <div className='project-description'>
           <p>{description}</p>

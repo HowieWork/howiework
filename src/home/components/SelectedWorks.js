@@ -11,7 +11,7 @@ const SelectedWorks = () => {
       <ProjectItem
         type='app'
         title='Snap App'
-        technologyList={['Figma', 'React', 'Node', 'Express', 'MongoDB']}
+        technologyList={['React', 'Node', 'Express', 'MongoDB', 'Figma']}
         description='Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together.'
       />
       <ProjectItem

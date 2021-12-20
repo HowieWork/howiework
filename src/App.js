@@ -7,7 +7,9 @@ import {
 
 import MainNavigation from './shared/components/Navigation/MainNavigation';
 import Footer from './shared/components/Footer/Footer';
+
 import Home from './home/pages/Home';
+import Projects from './portfolio/pages/Projects';
 
 const App = () => {
   const routes = (
@@ -18,7 +20,9 @@ const App = () => {
       </Route>
 
       {/* PORFOLIO */}
-      <Route path='/portfolio' exact></Route>
+      <Route path='/portfolio' exact>
+        <Projects />
+      </Route>
       <Route path='/portfolio/app' exact></Route>
       <Route path='/portfolio/app/:projectTitle' exact></Route>
       <Route path='/portfolio/arch' exact></Route>
