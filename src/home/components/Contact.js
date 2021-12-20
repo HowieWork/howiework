@@ -6,7 +6,7 @@ import './Contact.css';
 
 const Contact = () => {
   return (
-    <section className='responsive-width section-contact'>
+    <section id='contact' className='responsive-width section-contact'>
       <div className='center-flex-row tiny-gap contact-title'>
         <div></div> Get in touch
       </div>

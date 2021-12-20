@@ -9,7 +9,15 @@
 }
 
 .interactive-container {
+  height: 0;
+  opacity: 0;
+
+  transition: all 0.6s ease-in-out;
+}
+
+.active {
   height: 88vh;
+  opacity: 1;
 
   margin-bottom: 6.4rem;
 }
@@ -41,6 +49,19 @@
 
 .interactive-scroll {
   height: 4vh;
+  opacity: 0;
+
+  animation: delayScroll 0.15s ease-out 0s forwards;
+  animation-delay: 20.3s;
+}
+
+@keyframes delayScroll {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .chat {
@@ -57,7 +78,7 @@
   animation: message 0.15s ease-out 0s forwards;
   animation-delay: var(--delay);
 
-  --bgcolor: #fff;
+  --bgcolor: #ccc5b9;
   --radius: 0.6rem 0.6rem 0 0.6rem;
 }
 
@@ -68,7 +89,7 @@
 
   transform-origin: 0 100%;
 
-  --bgcolor: #ccc5b9;
+  --bgcolor: #fff;
   --radius: 0.6rem 0.6rem 0.6rem 0;
 }
 
@@ -78,6 +99,18 @@
 
   background: var(--bgcolor);
   border-radius: var(--radius);
+}
+
+.chat__content a {
+  color: #eb5e28;
+  text-decoration: none;
+}
+
+.chat__content a:link::after,
+.chat__content a:visited::after,
+.chat__content a:hover::after,
+.chat__content a:active::after {
+  background-color: #eb5e28;
 }
 
 @keyframes message {

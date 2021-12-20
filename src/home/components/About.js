@@ -7,7 +7,7 @@ const About = () => {
   return (
     <Fragment>
       {/* ABOUT ME */}
-      <section className='responsive-width section-about'>
+      <section id='about' className='responsive-width section-about'>
         <div className='center-flex-row tiny-gap about-title'>
           <div></div> About me
         </div>
@@ -64,7 +64,6 @@ const About = () => {
           <div></div> Interests
         </div>
         <div className='interests-text'>
-          {/* TODO CHANGE SPAN TO LINK */}
           <Button to='/photography' secondary hoverUnderline>
             <span>Photography</span>
           </Button>

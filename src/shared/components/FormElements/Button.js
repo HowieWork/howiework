@@ -14,6 +14,7 @@ const Button = (props) => {
         } ${props.hoverUnderline && 'button--hoverUnderline'}`}
         href={props.href}
         target={props.targetBlank && '_blank'}
+        onClick={props.onClick}
       >
         {props.children}
       </a>
