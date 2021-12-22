@@ -15,7 +15,7 @@ const ProjectList = (props) => {
               view={props.view}
               title={app.title}
               description={app.description}
-              imageUrl={app.imageUrl}
+              imageSrc={app.imageSrc}
               demoUrl={app.demoUrl}
               gitHubUrl={app.gitHubUrl}
             />
@@ -35,7 +35,7 @@ const ProjectList = (props) => {
               view={props.view}
               title={app.title}
               description={app.description}
-              imageUrl={app.imageUrl}
+              imageSrc={app.imageSrc}
               readMoreUrl={app.demoUrl}
             />
           );

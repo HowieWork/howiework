@@ -11,11 +11,11 @@ const SelectedPosts = () => {
         {/* TODO UPDATE IMAGE URLS */}
         <PostItem
           title='What I learned from architecture and web?'
-          imageUrl='#'
+          imageSrc='#'
         />
-        <PostItem title='How I built my first MERN project?' imageUrl='#' />
-        <PostItem title='Tips for self-teach web development' imageUrl='#' />
-        <PostItem title='How to build a flexible React button?' imageUrl='#' />
+        <PostItem title='How I built my first MERN project?' imageSrc='#' />
+        <PostItem title='Tips for self-teach web development' imageSrc='#' />
+        <PostItem title='How to build a flexible React button?' imageSrc='#' />
       </div>
     </section>
   );

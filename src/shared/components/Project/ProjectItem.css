@@ -29,11 +29,18 @@
   justify-content: center;
   align-items: center;
 
-  object-fit: cover;
+  overflow: hidden;
 
-  /* FIXME DELETE */
-  outline: 1px solid #403d39;
+  /* FIXME BG COLOR WILL BE UPDATED BASED ON NEW COVER IMAGE */
+  background-color: #fff;
+  /* outline: 1px solid #403d39; */
   border-radius: 0.6rem;
+}
+
+.project-image--grid img {
+  width: auto;
+  height: 80%;
+  object-fit: cover;
 }
 
 .project-technology--grid {

@@ -5,8 +5,7 @@ export const APP_DATA = [
     technologyList: ['React', 'Node', 'Express', 'MongoDB', 'Figma'],
     description:
       'Snap App focus on creating a photo sharing platform for people who love architecture.',
-    // FIXME UPDATE IMAGE URL
-    imageUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-snap-cover.webp',
     demoUrl: 'https://howiework.github.io/snap-app/',
     gitHubUrl: 'https://github.com/HowieWork/snap-app',
   },
@@ -16,9 +15,9 @@ export const APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-modal-cover.webp',
+    demoUrl: 'https://howiework.github.io/modal/',
+    gitHubUrl: 'https://github.com/HowieWork/modal',
   },
 ];
 
@@ -28,8 +27,7 @@ export const TUTORIAL_APP_DATA = [
     title: 'Natours',
     technologyList: ['React', 'Node', 'Express', 'MongoDB', 'Figma'],
     description: 'Tours in North America',
-    // FIXME UPDATE IMAGE URL
-    imageUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-natours-cover.webp',
     demoUrl: 'https://natours-howie.herokuapp.com/',
     gitHubUrl: 'https://github.com/HowieWork/natours',
   },
@@ -39,9 +37,9 @@ export const TUTORIAL_APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-forkify-cover.webp',
+    demoUrl: 'https://forkify-howie.netlify.app/',
+    gitHubUrl: 'https://github.com/HowieWork/forkify',
   },
   {
     type: 'app',
@@ -49,9 +47,9 @@ export const TUTORIAL_APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-mapty-cover.webp',
+    demoUrl: 'https://howiework.github.io/mapty/',
+    gitHubUrl: 'https://github.com/HowieWork/mapty',
   },
   {
     type: 'app',
@@ -59,9 +57,9 @@ export const TUTORIAL_APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-bankist-cover.webp',
+    demoUrl: 'https://howiework.github.io/bankist/',
+    gitHubUrl: 'https://github.com/HowieWork/bankist',
   },
   {
     type: 'app',
@@ -69,9 +67,9 @@ export const TUTORIAL_APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-bankist-homepage-cover.webp',
+    demoUrl: 'https://howiework.github.io/bankist-homepage/',
+    gitHubUrl: 'https://github.com/HowieWork/bankist-homepage',
   },
   {
     type: 'app',
@@ -79,9 +77,9 @@ export const TUTORIAL_APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-guess-my-number-cover.webp',
+    demoUrl: 'https://howiework.github.io/guess-my-number/',
+    gitHubUrl: 'https://github.com/HowieWork/guess-my-number',
   },
   {
     type: 'app',
@@ -89,9 +87,9 @@ export const TUTORIAL_APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-pig-game-cover.webp',
+    demoUrl: 'https://howiework.github.io/pig-game/',
+    gitHubUrl: 'https://github.com/HowieWork/pig-game',
   },
   {
     type: 'app',
@@ -99,8 +97,8 @@ export const TUTORIAL_APP_DATA = [
     technologyList: ['React', 'Node'],
     description:
       'It integrates sharing, navigation, architecture information and tour planning together.',
-    imageUrl: 'PLACEHOLDER',
-    demoUrl: 'PLACEHOLDER',
-    gitHubUrl: 'PLACEHOLDER',
+    imageSrc: '/assets/app/app-monsters-rolodex-cover.webp',
+    demoUrl: 'https://howiework.github.io/monsters-rolodex/',
+    gitHubUrl: 'https://github.com/HowieWork/monsters-rolodex',
   },
 ];

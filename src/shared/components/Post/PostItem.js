@@ -1,10 +1,10 @@
 import './PostItem.css';
 
-const PostItem = ({ title, imageUrl }) => {
+const PostItem = ({ title, imageSrc }) => {
   return (
     <div className='post-container'>
       <div className='post-image'>
-        <img src={imageUrl} alt={`${title} Cover`} />
+        <img src={imageSrc} alt={`${title} Cover`} />
       </div>
       <div className='post-title'>{title}</div>
     </div>

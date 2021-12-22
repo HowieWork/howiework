@@ -1,5 +1,4 @@
 import ProjectItem from '../../shared/components/Project/ProjectItem';
-
 import './SelectedWorks.css';
 
 const SelectedWorks = () => {
@@ -14,8 +13,7 @@ const SelectedWorks = () => {
         title='Snap App'
         technologyList={['React', 'Node', 'Express', 'MongoDB', 'Figma']}
         description='Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together.'
-        // FIXME UPDATE IMAGE URL
-        imageUrl=''
+        imageSrc='/assets/app/app-snap-cover.webp'
         demoUrl='https://howiework.github.io/snap-app/'
         gitHubUrl='https://github.com/HowieWork/snap-app'
       />
