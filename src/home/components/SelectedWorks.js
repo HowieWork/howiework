@@ -9,16 +9,24 @@ const SelectedWorks = () => {
         <div></div> Some things I've built
       </div>
       <ProjectItem
+        view='grid'
         type='app'
         title='Snap App'
         technologyList={['React', 'Node', 'Express', 'MongoDB', 'Figma']}
         description='Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together.'
+        // FIXME UPDATE IMAGE URL
+        imageUrl=''
+        demoUrl='https://howiework.github.io/snap-app/'
+        gitHubUrl='https://github.com/HowieWork/snap-app'
       />
       <ProjectItem
+        view='grid'
         type='design'
         title='Museum'
         technologyList={['Adobe XD', 'Photoshop', 'Illustration']}
         description='A mobile app design for a museum. Its goal is to enhance visiting experience. It integrates multiple key features together.'
+        // FIXME UPDATE READ MORE URL
+        readMoreUrl='/portfolio'
       />
     </section>
   );

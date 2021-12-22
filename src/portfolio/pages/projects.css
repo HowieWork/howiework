@@ -34,3 +34,12 @@
   height: 2rem;
   background-color: #eb5e28;
 }
+
+.category-sub-title {
+  font-size: 1.6rem;
+
+  margin-bottom: 2.4rem;
+
+  /* OVERWRITE CENTERED JUSTIFY CONTENT */
+  justify-content: flex-start;
+}

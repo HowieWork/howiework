@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Checkbox from '../../shared/components/FormElements/Checkbox';
 import ProjectList from '../components/ProjectList';
+import { APP_DATA, TUTORIAL_APP_DATA } from '../../data/appData';
 
 import './Projects.css';
 
@@ -25,7 +26,19 @@ const Projects = () => {
         <div className='center-flex-row tiny-gap category-title'>
           <div></div> App
         </div>
-        <ProjectList />
+        <ProjectList
+          category='app'
+          view={isChecked ? 'list' : 'grid'}
+          data={APP_DATA}
+        />
+        <div className='center-flex-row tiny-gap category-sub-title'>
+          * Below is a collection of tutorial projects.
+        </div>
+        <ProjectList
+          category='app'
+          view={isChecked ? 'list' : 'grid'}
+          data={TUTORIAL_APP_DATA}
+        />
       </section>
 
       {/* DESIGN */}

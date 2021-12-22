@@ -1,4 +1,5 @@
-.project-container {
+/* VIEW IN GRID CSS STYLING */
+.project-container--grid {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -7,19 +8,20 @@
   margin-bottom: 4.8rem;
 }
 
-.project-sub-container {
-  width: 100%;
+.project-sub-container--grid {
   display: flex;
   gap: 2.4rem;
+
+  width: 100%;
 }
 
-.project-title {
+.project-title--grid {
   font-size: 2rem;
   font-weight: 700;
   color: #252422;
 }
 
-.project-image {
+.project-image--grid {
   width: 100%;
   height: 18rem;
 
@@ -34,7 +36,7 @@
   border-radius: 0.6rem;
 }
 
-.project-technology {
+.project-technology--grid {
   list-style: none;
 
   font-size: 1.6rem;
@@ -48,9 +50,11 @@
   gap: 0.8rem;
 }
 
-.project-description {
+.project-description--grid {
   font-size: 1.8rem;
   color: #252422;
+
+  width: 100%;
 
   display: flex;
   flex-direction: column;
@@ -59,19 +63,47 @@
 }
 
 @media (max-width: 24em) {
-  .project-sub-container {
+  .project-sub-container--grid {
     flex-direction: column;
     align-items: center;
   }
 
-  .project-image {
+  .project-image--grid {
     width: 100%;
   }
 
-  .project-technology {
+  .project-technology--grid {
     width: 100%;
 
     flex-direction: row;
     justify-content: flex-start;
   }
+}
+
+/* VIEW IN LIST CSS STYLING */
+.project-container--list {
+  display: flex;
+  flex-direction: column;
+  /* gap: 0.8rem; */
+
+  margin-bottom: 2.4rem;
+}
+
+.project-title--list {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #252422;
+}
+
+.project-cta--list a {
+  font-size: 1.6rem;
+  color: #403d39;
+  font-weight: 400;
+}
+
+.project-description--list {
+  font-size: 1.6rem;
+  color: #403d39;
+
+  width: 100%;
 }
