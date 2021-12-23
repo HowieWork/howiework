@@ -10,6 +10,7 @@ const ProjectList = (props) => {
         {props.data.map((app) => {
           return (
             <ProjectItem
+              /* FIXME NOT PASSING TECHNOLOGY LIST FOR AVOIDING LAYOUT ISSUE. BETTER SOLUTION? */
               key={app.title}
               type={app.type}
               view={props.view}

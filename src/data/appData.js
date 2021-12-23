@@ -14,7 +14,7 @@ export const APP_DATA = [
     title: 'Modal',
     technologyList: ['React', 'Node'],
     description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+      'Modal is a simple app introducing philosophy about Death and Living.',
     imageSrc: '/assets/app/app-modal-cover.webp',
     demoUrl: 'https://howiework.github.io/modal/',
     gitHubUrl: 'https://github.com/HowieWork/modal',
@@ -26,7 +26,8 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Natours',
     technologyList: ['React', 'Node', 'Express', 'MongoDB', 'Figma'],
-    description: 'Tours in North America',
+    description:
+      'A web app for helping people choose where to travel in North America',
     imageSrc: '/assets/app/app-natours-cover.webp',
     demoUrl: 'https://natours-howie.herokuapp.com/',
     gitHubUrl: 'https://github.com/HowieWork/natours',
@@ -35,8 +36,7 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Forkify',
     technologyList: ['React', 'Node'],
-    description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+    description: 'Search over 1,000,000 recipes',
     imageSrc: '/assets/app/app-forkify-cover.webp',
     demoUrl: 'https://forkify-howie.netlify.app/',
     gitHubUrl: 'https://github.com/HowieWork/forkify',
@@ -44,9 +44,9 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Mapty',
-    technologyList: ['React', 'Node'],
+    technologyList: ['OOP', 'Node'],
     description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+      'An app maps your workouts. Built with OOP, Geolocation API, Web Storage API.',
     imageSrc: '/assets/app/app-mapty-cover.webp',
     demoUrl: 'https://howiework.github.io/mapty/',
     gitHubUrl: 'https://github.com/HowieWork/mapty',
@@ -55,8 +55,7 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Bankist',
     technologyList: ['React', 'Node'],
-    description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+    description: 'A simple web tool for managing your bank account.',
     imageSrc: '/assets/app/app-bankist-cover.webp',
     demoUrl: 'https://howiework.github.io/bankist/',
     gitHubUrl: 'https://github.com/HowieWork/bankist',
@@ -65,8 +64,7 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Bankist Homepage',
     technologyList: ['React', 'Node'],
-    description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+    description: 'A homepage design for Bankist App',
     imageSrc: '/assets/app/app-bankist-homepage-cover.webp',
     demoUrl: 'https://howiework.github.io/bankist-homepage/',
     gitHubUrl: 'https://github.com/HowieWork/bankist-homepage',
@@ -75,8 +73,7 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Guess My Number',
     technologyList: ['React', 'Node'],
-    description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+    description: 'A guess number game. Built with DOM, JavaScript',
     imageSrc: '/assets/app/app-guess-my-number-cover.webp',
     demoUrl: 'https://howiework.github.io/guess-my-number/',
     gitHubUrl: 'https://github.com/HowieWork/guess-my-number',
@@ -85,8 +82,7 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Pig Game',
     technologyList: ['React', 'Node'],
-    description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+    description: 'A dice game. Built with DOM, JavaScript',
     imageSrc: '/assets/app/app-pig-game-cover.webp',
     demoUrl: 'https://howiework.github.io/pig-game/',
     gitHubUrl: 'https://github.com/HowieWork/pig-game',
@@ -95,8 +91,7 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Monster Rolodex',
     technologyList: ['React', 'Node'],
-    description:
-      'It integrates sharing, navigation, architecture information and tour planning together.',
+    description: 'A list of Monsters. Built with React',
     imageSrc: '/assets/app/app-monsters-rolodex-cover.webp',
     demoUrl: 'https://howiework.github.io/monsters-rolodex/',
     gitHubUrl: 'https://github.com/HowieWork/monsters-rolodex',
