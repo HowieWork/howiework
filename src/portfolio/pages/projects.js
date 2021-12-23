@@ -58,10 +58,18 @@ const Projects = () => {
       </section>
 
       {/* DESIGN */}
-      <section id='design'></section>
+      <section id='design' className='responsive-width'>
+        <div className='center-flex-row tiny-gap category-title'>
+          <div></div> Design
+        </div>
+      </section>
 
       {/* ARCHITECTURE */}
-      <section id='architecture'></section>
+      <section id='architecture' className='responsive-width'>
+        <div className='center-flex-row tiny-gap category-title'>
+          <div></div> Architecture
+        </div>
+      </section>
     </div>
   );
 };

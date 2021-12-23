@@ -48,7 +48,7 @@ const ProjectItem = (props) => {
           <div className='project-title--grid'>{props.title}</div>
           <div className='project-sub-container--grid'>
             <div className='project-image--grid'>
-              <img src='' alt={`${props.title} Cover`} />
+              <img src={props.imageSrc} alt={`${props.title} Cover`} />
             </div>
             {props.technologyList && (
               <ul className='project-technology--grid'>

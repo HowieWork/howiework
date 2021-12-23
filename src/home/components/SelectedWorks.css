@@ -21,5 +21,11 @@
 
 /* ENLARGE HOMEPAGE COVER IMAGES */
 .section-works img {
-  height: 140%;
+  height: 100%;
+}
+
+@media (max-width: 24em) {
+  .section-works img {
+    height: 100%;
+  }
 }
