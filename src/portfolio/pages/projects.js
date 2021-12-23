@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Checkbox from '../../shared/components/FormElements/Checkbox';
+import Button from '../../shared/components/FormElements/Button';
 import ProjectList from '../components/ProjectList';
 import { APP_DATA, TUTORIAL_APP_DATA } from '../../data/appData';
 
@@ -7,9 +8,14 @@ import './Projects.css';
 
 const Projects = () => {
   const [isChecked, setIsChecked] = useState(false);
+  const [isShowMoreClicked, setIsShowMoreClicked] = useState(false);
 
   const checkboxChangeHandler = () => {
     setIsChecked(!isChecked);
+  };
+
+  const onClickShowMoreHandler = () => {
+    setIsShowMoreClicked(!isShowMoreClicked);
   };
 
   return (
@@ -37,8 +43,18 @@ const Projects = () => {
         <ProjectList
           category='app'
           view={isChecked ? 'list' : 'grid'}
-          data={TUTORIAL_APP_DATA}
+          data={TUTORIAL_APP_DATA.slice(0, 4)}
         />
+        {isShowMoreClicked && (
+          <ProjectList
+            category='app'
+            view={isChecked ? 'list' : 'grid'}
+            data={TUTORIAL_APP_DATA.slice(-4)}
+          />
+        )}
+        <Button type='button' primary onClick={onClickShowMoreHandler}>
+          {isShowMoreClicked ? 'Show Less' : 'Show More'}
+        </Button>
       </section>
 
       {/* DESIGN */}

@@ -18,3 +18,8 @@
   height: 2rem;
   background-color: #eb5e28;
 }
+
+/* ENLARGE HOMEPAGE COVER IMAGES */
+.section-works img {
+  height: 140%;
+}

@@ -115,7 +115,7 @@ const Interaction = () => {
                   <p>
                     Then… expanded my interests into{' '}
                     <Button
-                      to='/portfolio/app'
+                      to='/portfolio/#app'
                       size='small'
                       secondary
                       hoverUnderline

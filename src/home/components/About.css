@@ -31,7 +31,7 @@
 
 .about-text {
   font-size: 1.8rem;
-  color: #252422;
+  color: var(--font-color--light);
 
   /* OVERWRITE CENTERED ALIGN-ITEMS */
   align-items: flex-start;
@@ -49,7 +49,7 @@
 
 .interests-text {
   font-size: 1.8rem;
-  color: #252422;
+  color: var(--font-color--light);
 }
 
 .interests-text span {

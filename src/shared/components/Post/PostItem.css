@@ -22,5 +22,5 @@
 .post-title {
   font-size: 1.8rem;
   /* font-weight: 700; */
-  color: #252422;
+  color: var(--font-color--light);
 }

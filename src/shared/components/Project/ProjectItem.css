@@ -18,7 +18,7 @@
 .project-title--grid {
   font-size: 2rem;
   font-weight: 700;
-  color: #252422;
+  color: var(--font-color--light);
 }
 
 .project-image--grid {
@@ -32,14 +32,14 @@
   overflow: hidden;
 
   /* FIXME BG COLOR WILL BE UPDATED BASED ON NEW COVER IMAGE */
-  background-color: #fff;
-  /* outline: 1px solid #403d39; */
+  /* background-color: #fff; */
+  /* outline: 1px solid #ccc5b9; */
   border-radius: 0.6rem;
 }
 
 .project-image--grid img {
   width: auto;
-  height: 80%;
+  height: 90%;
   object-fit: cover;
 }
 
@@ -48,7 +48,7 @@
 
   font-size: 1.6rem;
   font-weight: 600;
-  color: #252422;
+  color: var(--font-color--light);
 
   display: flex;
   flex-direction: column;
@@ -59,7 +59,7 @@
 
 .project-description--grid {
   font-size: 1.8rem;
-  color: #252422;
+  color: var(--font-color--light);
 
   width: 100%;
 
@@ -99,7 +99,7 @@
 .project-title--list {
   font-size: 2rem;
   font-weight: 700;
-  color: #252422;
+  color: var(--font-color--light);
 }
 
 .project-cta--list a {

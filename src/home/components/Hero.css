@@ -11,7 +11,7 @@
   margin-bottom: 3.2rem;
 
   /* FIXME DELETE */
-  outline: 1px solid #403d39;
+  outline: 1px solid #ccc5b9;
   border-radius: 0.6rem;
 }
 
@@ -19,7 +19,7 @@
   justify-content: space-between;
   margin-bottom: 3.2rem;
 
-  color: #252422;
+  color: var(--font-color--light);
 }
 
 .hero-title--text h2 {
@@ -42,13 +42,13 @@
   height: 12.8rem;
 
   /* FIXME DELETE */
-  outline: 1px solid #403d39;
+  outline: 1px solid #ccc5b9;
   border-radius: 999rem;
 }
 
 .hero-description {
   font-size: 1.8rem;
-  color: #252422;
+  color: var(--font-color--light);
 
   margin-bottom: 3.2rem;
 

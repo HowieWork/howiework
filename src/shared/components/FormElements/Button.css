@@ -29,7 +29,10 @@
 .button--secondary {
   font-weight: 500;
   font-size: 1.8rem;
-  color: #252422;
+  color: var(--font-color--light);
+
+  background-color: transparent;
+  border: none;
 
   padding: 0;
 }

@@ -31,7 +31,7 @@ Large: 0.75px
 --- NOTE 02 COLORS ---
 *palette link: N/A
 - Reference
-#FBF5ED #CCC5B9 #403D39 #252422 #EB5E28
+#FBF5ED #CCC5B9 #403D39 #252422 #EB5E28 #2C4A73
 
 - LIGHT MODE
 -- Body-background: #FBF5ED
@@ -93,6 +93,33 @@ Large: 14px || 1.4rem
 /* GOOGLE FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;900&display=swap');
 
+/* TODO CSS VARIABLES */
+
+/* 
+-- Body-background: #FBF5ED
+-- Font-color: #252422
+-- Primary: #EB5E28
+-- Tints: #FDEFEA #F7BFA9 #F18E69
+-- Shades: #BC4B20 #762F14 #2F1308 
+*/
+
+/* COLORS */
+:root {
+  /* LIGHT THEME */
+  --primary-color--light: #eb5e28;
+  --background-color--light: #fbf5ed;
+  --font-color--light: #252422;
+
+  /* TODO DARK THEME */
+}
+
+/* TYPOGRAPHY */
+:root {
+  --body-font: 'Nunito', sans-serif;
+  --font-size-normal-percentage: 62.5%;
+  --font-size-small-percentage: 56.25%;
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -100,8 +127,8 @@ Large: 14px || 1.4rem
 }
 
 html {
-  font-size: 62.5%;
-  font-family: 'Nunito', sans-serif;
+  font-size: var(--font-size-normal-percentage);
+  font-family: var(--body-font);
 }
 
 input,
@@ -112,13 +139,15 @@ button {
 
 body {
   display: block;
-  background: #fbf5ed;
+  background: var(--background-color--light);
+  /* OPTION: WHITE BACKGROUND */
+  /* background: #fff; */
 }
 
 /* RESPONSIVENESS */
 @media (max-width: 48em) {
   html {
-    font-size: 56.25%;
+    font-size: var(--font-size-small-percentage);
   }
 }
 
