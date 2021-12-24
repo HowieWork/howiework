@@ -10,6 +10,9 @@ import Footer from './shared/components/Footer/Footer';
 
 import Home from './home/pages/Home';
 import Projects from './portfolio/pages/Projects';
+// TODO IMPORT POSTS
+import Photos from './photography/pages/Photos';
+import Drawings from './drawing/pages/Drawings';
 
 const App = () => {
   const routes = (
@@ -33,10 +36,14 @@ const App = () => {
       <Route path='/posts/:postTitle' exact></Route>
 
       {/* PHOTOGRAPHY */}
-      <Route path='/photography' exact></Route>
+      <Route path='/photography' exact>
+        <Photos />
+      </Route>
 
       {/* DRAWINGS */}
-      <Route path='/drawings' exact></Route>
+      <Route path='/drawings' exact>
+        <Drawings />
+      </Route>
 
       {/* RESUME.PDF */}
       <Route path='/resume.pdf' exact></Route>

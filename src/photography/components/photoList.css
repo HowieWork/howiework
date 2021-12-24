@@ -1,0 +1,31 @@
+.photos-container--grid-1 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 4.8rem;
+}
+
+.photos-container--grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4.8rem;
+}
+
+.photos-container--grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2.4rem;
+}
+
+@media (max-width: 24em) {
+  .photos-container--grid-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.4rem;
+  }
+  .photos-container--grid-4 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.4rem;
+  }
+}

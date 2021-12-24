@@ -1,0 +1,18 @@
+.photos-container {
+  /* LEAVE TOP SPACE FOR FIXED MAIN NAVIGATION */
+  padding-top: 8vh;
+
+  margin-top: 2.4rem;
+
+  margin: auto;
+}
+
+.photos-container section {
+  margin-bottom: 6.4rem;
+}
+
+.container-gap {
+  height: 4vh;
+
+  margin-bottom: 2.4rem;
+}
