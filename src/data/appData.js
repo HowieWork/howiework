@@ -36,7 +36,8 @@ export const TUTORIAL_APP_DATA = [
     type: 'app',
     title: 'Forkify',
     technologyList: ['React', 'Node'],
-    description: 'Search over 1,000,000 recipes',
+    description:
+      'Search over 1,000,000 recipes. Find your favorite recipe and bookmark it.',
     imageSrc: '/assets/app/app-forkify-cover.webp',
     demoUrl: 'https://forkify-howie.netlify.app/',
     gitHubUrl: 'https://github.com/HowieWork/forkify',

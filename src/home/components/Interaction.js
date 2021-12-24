@@ -132,7 +132,7 @@ const Interaction = () => {
                   <p>
                     Yes. I worked in{' '}
                     <Button
-                      to='/portfolio/arch'
+                      to='/portfolio/#arch'
                       size='small'
                       secondary
                       hoverUnderline

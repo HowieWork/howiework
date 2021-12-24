@@ -1,6 +1,7 @@
 import { Fragment } from 'react/cjs/react.production.min';
 import { MdKeyboardArrowRight } from 'react-icons/md';
 import Button from '../../shared/components/FormElements/Button';
+import RESUME_PDF from '../../documents/resume-howie.pdf';
 import './About.css';
 
 const About = () => {
@@ -47,7 +48,7 @@ const About = () => {
         {/* ABOUT CTA */}
         <div className='about-cta'>
           {/* FIXME ADD RESUME PDF */}
-          <Button href='/resume.pdf' primary targetBlank>
+          <Button href={RESUME_PDF} primary targetBlank>
             <div className='center-flex-row tiny-gap'>
               Resume
               <span className='center-flex-row'>

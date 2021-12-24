@@ -12,7 +12,7 @@
   display: flex;
   gap: 2.4rem;
 
-  width: 80%;
+  width: 100%;
 }
 
 .project-title--grid {
@@ -39,7 +39,7 @@
 
 .project-image--grid img {
   width: auto;
-  height: 90%;
+  height: 100%;
   object-fit: cover;
 }
 

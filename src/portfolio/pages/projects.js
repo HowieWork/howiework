@@ -3,6 +3,8 @@ import Checkbox from '../../shared/components/FormElements/Checkbox';
 import Button from '../../shared/components/FormElements/Button';
 import ProjectList from '../components/ProjectList';
 import { APP_DATA, TUTORIAL_APP_DATA } from '../../data/appData';
+import { DESIGN_DATA } from '../../data/designData';
+import { ARCH_DATA } from '../../data/archData';
 
 import './Projects.css';
 
@@ -62,13 +64,23 @@ const Projects = () => {
         <div className='center-flex-row tiny-gap category-title'>
           <div></div> Design
         </div>
+        <ProjectList
+          category='design'
+          view={isChecked ? 'list' : 'grid'}
+          data={DESIGN_DATA}
+        />
       </section>
 
       {/* ARCHITECTURE */}
-      <section id='architecture' className='responsive-width'>
+      <section id='arch' className='responsive-width'>
         <div className='center-flex-row tiny-gap category-title'>
           <div></div> Architecture
         </div>
+        <ProjectList
+          category='arch'
+          view={isChecked ? 'list' : 'grid'}
+          data={ARCH_DATA}
+        />
       </section>
     </div>
   );

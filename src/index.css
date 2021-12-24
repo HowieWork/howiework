@@ -31,10 +31,10 @@ Large: 0.75px
 --- NOTE 02 COLORS ---
 *palette link: N/A
 - Reference
-#FBF5ED #CCC5B9 #403D39 #252422 #EB5E28 #2C4A73
+#fcf7f1 #CCC5B9 #403D39 #252422 #EB5E28 
 
 - LIGHT MODE
--- Body-background: #FBF5ED
+-- Body-background: #fcf7f1
 -- Font-color: #252422
 -- Primary: #EB5E28
 -- Tints: #FDEFEA #F7BFA9 #F18E69
@@ -43,9 +43,9 @@ Large: 0.75px
 
 - DARK MODE
 -- Body-background: #252422
--- Font-color: #FBF5ED 
+-- Font-color: #fcf7f1
 TODO UPDATE DARK MODE PALLETE
--- Primary: #EB5E28
+-- Primary: #2C4A73
 -- Tints: #FDEFEA #F7BFA9 #F18E69
 -- Shades: #BC4B20 #762F14 #2F1308
 -- Accents: N/A
@@ -96,7 +96,7 @@ Large: 14px || 1.4rem
 /* TODO CSS VARIABLES */
 
 /* 
--- Body-background: #FBF5ED
+-- Body-background: #fcf7f1
 -- Font-color: #252422
 -- Primary: #EB5E28
 -- Tints: #FDEFEA #F7BFA9 #F18E69
@@ -107,7 +107,7 @@ Large: 14px || 1.4rem
 :root {
   /* LIGHT THEME */
   --primary-color--light: #eb5e28;
-  --background-color--light: #fbf5ed;
+  --background-color--light: #fcf7f1;
   --font-color--light: #252422;
 
   /* TODO DARK THEME */

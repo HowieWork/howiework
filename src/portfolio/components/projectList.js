@@ -37,15 +37,41 @@ const ProjectList = (props) => {
               title={app.title}
               description={app.description}
               imageSrc={app.imageSrc}
-              readMoreUrl={app.demoUrl}
+              readMoreUrl={app.readMoreUrl}
             />
           );
         })}
       </Fragment>
     );
-  if (props.category === 'arch') appContent = '';
+  if (props.category === 'arch')
+    appContent = (
+      <Fragment>
+        {props.data.map((app) => {
+          return (
+            <ProjectItem
+              key={app.title}
+              type={app.type}
+              view={props.view}
+              title={app.title}
+              description={app.description}
+              imageSrc={app.imageSrc}
+              readMoreUrl={app.readMoreUrl}
+            />
+          );
+        })}
+      </Fragment>
+    );
 
-  return <div className={`app-container--${props.view}`}>{appContent}</div>;
+  return (
+    <Fragment>
+      {props.category !== 'arch' && (
+        <div className={`app-container--${props.view}`}>{appContent}</div>
+      )}
+      {props.category === 'arch' && (
+        <div className={`app-container--list`}>{appContent}</div>
+      )}
+    </Fragment>
+  );
 };
 
 export default ProjectList;
