@@ -23,10 +23,10 @@ const MainNavigation = () => {
   };
 
   // SYNC WITH SYSTEM COLOR THEME
-  // NOTE ISSYSTEMDARK RETURN TRUE/FALSE
   const isSystemDark = window.matchMedia('(prefers-color-scheme: dark)');
 
   isSystemDark.addEventListener('change', function (event) {
+    // NOTE .MATCHES RETURNS TRUE/FALSE
     event.matches ? setIsDarkTheme(true) : setIsDarkTheme(false);
   });
 
@@ -45,7 +45,6 @@ const MainNavigation = () => {
             <Link to='/'>Howie Hao Wang</Link>
           </h1>
           <div className='center-flex-row small-gap'>
-            {/* TODO DARK THEME SWITCH */}
             <div className='center-flex-row' onClick={toggleDarkTheme}>
               {isDarkTheme ? (
                 <MdOutlineLightMode size='1.8rem' />
