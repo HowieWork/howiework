@@ -29,7 +29,7 @@
 .button--secondary {
   font-weight: 500;
   font-size: 1.8rem;
-  color: var(--font-color--light);
+  color: var(--font-color);
 
   background-color: transparent;
   border: none;

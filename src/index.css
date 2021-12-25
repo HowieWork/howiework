@@ -106,11 +106,15 @@ Large: 14px || 1.4rem
 /* COLORS */
 :root {
   /* LIGHT THEME */
-  --primary-color--light: #eb5e28;
-  --background-color--light: #fcf7f1;
-  --font-color--light: #252422;
-
-  /* TODO DARK THEME */
+  --primary-color: #eb5e28;
+  --background-color: #fcf7f1;
+  --font-color: #252422;
+}
+/* TODO DARK THEME */
+.dark-theme {
+  --primary-color: #eb5e28;
+  --background-color: #252422;
+  --font-color: #fcf7f1;
 }
 
 /* TYPOGRAPHY */
@@ -139,7 +143,7 @@ button {
 
 body {
   display: block;
-  background: var(--background-color--light);
+  background: var(--background-color);
   /* OPTION: WHITE BACKGROUND */
   /* background: #fff; */
 }

@@ -57,7 +57,6 @@ const App = () => {
     <Router>
       <MainNavigation />
       <main>{routes}</main>
-      {/* TODO ADD FOOTER */}
       <Footer />
     </Router>
   );

@@ -19,7 +19,7 @@
   justify-content: space-between;
   margin-bottom: 3.2rem;
 
-  color: var(--font-color--light);
+  color: var(--font-color);
 }
 
 .hero-title--text h2 {
@@ -48,7 +48,7 @@
 
 .hero-description {
   font-size: 1.8rem;
-  color: var(--font-color--light);
+  color: var(--font-color);
 
   margin-bottom: 3.2rem;
 

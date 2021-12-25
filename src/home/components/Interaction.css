@@ -3,7 +3,7 @@
 
 .checkbox-interactive {
   font-size: 1.2rem;
-  color: var(--font-color--light);
+  color: var(--font-color);
 
   height: 4vh;
 }
@@ -37,7 +37,7 @@
   flex-direction: column-reverse;
 
   font-size: 1.6rem;
-  color: var(--font-color--light);
+  color: var(--font-color);
 }
 
 /* HIDE VERTICAL SCROLL BAR */

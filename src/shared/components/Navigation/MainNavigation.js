@@ -1,5 +1,6 @@
 import { Fragment, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { MdOutlineLightMode, MdDarkMode } from 'react-icons/md';
 
 import MainHeader from './MainHeader';
 import NavLinks from './NavLinks';
@@ -10,10 +11,29 @@ import './MainNavigation.css';
 
 const MainNavigation = () => {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+  const [isDarkTheme, setIsDarkTheme] = useState(false);
 
   const toggleDrawerHandler = () => {
     setIsDrawerOpen(!isDrawerOpen);
   };
+
+  const toggleDarkTheme = () => {
+    document.body.classList.toggle('dark-theme');
+    setIsDarkTheme(!isDarkTheme);
+  };
+
+  // SYNC WITH SYSTEM COLOR THEME
+  // NOTE ISSYSTEMDARK RETURN TRUE/FALSE
+  const isSystemDark = window.matchMedia('(prefers-color-scheme: dark)');
+
+  isSystemDark.addEventListener('change', function (event) {
+    event.matches ? setIsDarkTheme(true) : setIsDarkTheme(false);
+  });
+
+  // TOGGLE DARK THEME FOR BODY ELEMENT
+  isDarkTheme
+    ? document.body.classList.add('dark-theme')
+    : document.body.classList.remove('dark-theme');
 
   return (
     <Fragment>
@@ -25,8 +45,14 @@ const MainNavigation = () => {
             <Link to='/'>Howie Hao Wang</Link>
           </h1>
           <div className='center-flex-row small-gap'>
-            {/* TODO DARK MODE SWITCH */}
-            <div>DARK</div>
+            {/* TODO DARK THEME SWITCH */}
+            <div className='center-flex-row' onClick={toggleDarkTheme}>
+              {isDarkTheme ? (
+                <MdOutlineLightMode size='1.8rem' />
+              ) : (
+                <MdDarkMode size='1.8rem' />
+              )}
+            </div>
             {/* NAV LINKS */}
             <nav className='main-navigation__links'>
               <NavLinks />

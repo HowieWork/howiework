@@ -7,7 +7,7 @@
 
 .checkbox-list-view {
   font-size: 1.2rem;
-  color: var(--font-color--light);
+  color: var(--font-color);
 
   height: 4vh;
 
@@ -37,7 +37,7 @@
 
 .category-sub-title {
   font-size: 1.6rem;
-  color: var(--font-color--light);
+  color: var(--font-color);
 
   margin-bottom: 2.4rem;
 

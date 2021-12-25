@@ -18,7 +18,7 @@
 .project-title--grid {
   font-size: 2rem;
   font-weight: 700;
-  color: var(--font-color--light);
+  color: var(--font-color);
 }
 
 .project-image--grid {
@@ -48,7 +48,7 @@
 
   font-size: 1.6rem;
   font-weight: 600;
-  color: var(--font-color--light);
+  color: var(--font-color);
 
   display: flex;
   flex-direction: column;
@@ -59,7 +59,7 @@
 
 .project-description--grid {
   font-size: 1.8rem;
-  color: var(--font-color--light);
+  color: var(--font-color);
 
   width: 100%;
 
@@ -101,7 +101,7 @@
 .project-title--list {
   font-size: 2rem;
   font-weight: 700;
-  color: var(--font-color--light);
+  color: var(--font-color);
 }
 
 .project-cta--list a {
