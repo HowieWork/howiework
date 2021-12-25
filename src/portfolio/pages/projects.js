@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Checkbox from '../../shared/components/FormElements/Checkbox';
 import Button from '../../shared/components/FormElements/Button';
 import ProjectList from '../components/ProjectList';
@@ -19,6 +19,14 @@ const Projects = () => {
   const onClickShowMoreHandler = () => {
     setIsShowMoreClicked(!isShowMoreClicked);
   };
+
+  useEffect(() => {
+    // NAVIGATE TO TARGET HASHTAG FROM URL
+    const url = window.location.href.split('/');
+    const target = url[url.length - 1].slice(1).toLowerCase();
+    const element = document.getElementById(target);
+    element && element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }, []);
 
   return (
     <div className='center-flex-column responsive-width projects-container'>
