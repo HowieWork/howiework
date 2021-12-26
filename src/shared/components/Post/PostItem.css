@@ -15,7 +15,7 @@
   object-fit: cover;
 
   /* FIXME DELETE */
-  outline: 1px solid #403d39;
+  outline: 1px solid var(--font-color);
   border-radius: 0.6rem;
 }
 

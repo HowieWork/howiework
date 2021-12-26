@@ -48,7 +48,7 @@
 
   font-size: 1.6rem;
   font-weight: 600;
-  color: var(--font-color);
+  color: var(--font-color--secondary);
 
   display: flex;
   flex-direction: column;
@@ -59,7 +59,7 @@
 
 .project-description--grid {
   font-size: 1.8rem;
-  color: var(--font-color);
+  color: var(--font-color--secondary);
 
   width: 100%;
 
@@ -106,13 +106,13 @@
 
 .project-cta--list a {
   font-size: 1.6rem;
-  color: #403d39;
+  color: var(--font-color--secondary);
   font-weight: 400;
 }
 
 .project-description--list {
   font-size: 1.6rem;
-  color: #403d39;
+  color: var(--font-color--secondary);
 
   width: 100%;
 }

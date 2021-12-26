@@ -11,7 +11,7 @@
   margin-bottom: 3.2rem;
 
   /* FIXME DELETE */
-  outline: 1px solid #ccc5b9;
+  outline: 1px solid var(--font-color);
   border-radius: 0.6rem;
 }
 
@@ -25,6 +25,10 @@
 .hero-title--text h2 {
   font-size: 4.4rem;
   font-weight: 700;
+}
+
+.hero-description p {
+  color: var(--font-color--secondary);
 }
 
 @media (max-width: 48em) {

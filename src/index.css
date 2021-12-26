@@ -107,6 +107,7 @@ Large: 14px || 1.4rem
   --primary-color-shade--90: #170904;
   --background-color: #fcf7f1;
   --font-color: #252422;
+  --font-color--secondary: #403d39;
 
   /* MAIN NAVIGATION */
   /* rgb(255,255,255) */
@@ -127,6 +128,7 @@ Large: 14px || 1.4rem
   --primary-color-shade--90: #000d19;
   --background-color: #031423;
   --font-color: #d6def8;
+  --font-color--secondary: #969bae;
 
   /* MAIN NAVIGATION */
   /* rgb(27,55,80) */
