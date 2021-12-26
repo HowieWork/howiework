@@ -14,16 +14,16 @@
 }
 
 .button--primary {
-  background-color: #eb5e28;
+  background-color: var(--primary-color);
   color: #fff;
-  border: 1px solid #eb5e28;
+  border: 1px solid var(--primary-color);
 }
 
 .button--primary:hover,
 .button--primary:active,
 .button--primary:focus {
-  background-color: #bc4b20;
-  border-color: #bc4b20;
+  background-color: var(--primary-color-shade--30);
+  border-color: var(--primary-color-shade--30);
 }
 
 .button--secondary {
@@ -70,7 +70,7 @@
   height: 1px;
   top: 100%;
   left: 0;
-  background-color: #252422;
+  background-color: var(--font-color);
 
   width: 0;
   transition: all 0.3s ease-in-out;

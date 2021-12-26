@@ -46,8 +46,8 @@ Large: 0.75px
 -- Font-color: #fcf7f1
 TODO UPDATE DARK MODE PALLETE
 -- Primary: #2C4A73
--- Tints: #FDEFEA #F7BFA9 #F18E69
--- Shades: #BC4B20 #762F14 #2F1308
+-- Tints (adding white): #FDEFEA #F7BFA9 #F18E69
+-- Shades (adding black): #a5421c #5e2610 #170904 
 -- Accents: N/A
 
 GREYS
@@ -77,8 +77,8 @@ Large: 14px || 1.4rem
 
 --- NOTE 07 COMPONENTS ---
 - BUTTON
--- Primary #EB5E28 #FFF
--- primary: hover #BC4B20 #FFF
+-- Primary #eb5e28 #FFF
+-- primary: hover #a5421c #FFF
 
 -- Secondary #403D39 (font & border color)
 -- Secondary: hover #252422 (font & border color)
@@ -93,28 +93,48 @@ Large: 14px || 1.4rem
 /* GOOGLE FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;900&display=swap');
 
-/* TODO CSS VARIABLES */
-
-/* 
--- Body-background: #fcf7f1
--- Font-color: #252422
--- Primary: #EB5E28
--- Tints: #FDEFEA #F7BFA9 #F18E69
--- Shades: #BC4B20 #762F14 #2F1308 
-*/
+/* CSS VARIABLES */
 
 /* COLORS */
 :root {
   /* LIGHT THEME */
   --primary-color: #eb5e28;
+  --primary-color-tint--30: #f18e69;
+  --primary-color-tint--60: #f7bfa9;
+  --primary-color-tint--90: #fdefea;
+  --primary-color-shade--30: #a5421c;
+  --primary-color-shade--60: #5e2610;
+  --primary-color-shade--90: #170904;
   --background-color: #fcf7f1;
   --font-color: #252422;
+
+  /* MAIN NAVIGATION */
+  /* rgb(255,255,255) */
+  --nav-background-color: 255, 255, 255;
+
+  /* INTERACTION COLOR */
+  --interaction-background-color: #ccc5b9;
+  --interaction-background-color-hw: #fff;
 }
-/* TODO DARK THEME */
+
 .dark-theme {
-  --primary-color: #eb5e28;
-  --background-color: #252422;
-  --font-color: #fcf7f1;
+  --primary-color: #0085ff;
+  --primary-color-tint--30: #4daaff;
+  --primary-color-tint--60: #99ceff;
+  --primary-color-tint--90: #e6f3ff;
+  --primary-color-shade--30: #005db3;
+  --primary-color-shade--60: #003566;
+  --primary-color-shade--90: #000d19;
+  --background-color: #031423;
+  --font-color: #d6def8;
+
+  /* MAIN NAVIGATION */
+  /* rgb(27,55,80) */
+  --nav-background-color: 27, 55, 80;
+
+  /* INTERACTION COLOR */
+  --interaction-background-color: #002c55;
+  --interaction-background-color-hw: #1b3750;
 }
 
 /* TYPOGRAPHY */
@@ -131,21 +151,22 @@ Large: 14px || 1.4rem
 }
 
 html {
+  /* PERCENTAGE OF USER'S BROWSER FONT-SIZE SETTING */
   font-size: var(--font-size-normal-percentage);
+}
+
+body {
   font-family: var(--body-font);
+  color: var(--font-color);
+
+  display: block;
+  background: var(--background-color);
 }
 
 input,
 textarea,
 button {
   font-family: inherit;
-}
-
-body {
-  display: block;
-  background: var(--background-color);
-  /* OPTION: WHITE BACKGROUND */
-  /* background: #fff; */
 }
 
 /* RESPONSIVENESS */

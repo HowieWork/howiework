@@ -1,6 +1,4 @@
 .main-navigation {
-  width: 50%;
-
   /* OVERRIDE JUSTIFY-CONTENT */
   justify-content: space-between;
 }
@@ -34,7 +32,7 @@
   display: block;
   width: 2rem;
   height: 2px;
-  background: #252422;
+  background: var(--font-color);
 }
 
 .main-navigation__drawer-nav {

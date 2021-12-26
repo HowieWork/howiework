@@ -27,7 +27,7 @@
     height: 1px;
     top: 90%;
     left: 0;
-    background-color: #252422;
+    background-color: var(--font-color);
 
     width: 0;
     transition: all 0.3s ease-in-out;

@@ -39,7 +39,7 @@ const MainNavigation = () => {
     <Fragment>
       {/* 1. NON-SIDE-DRAWER NAVIGATION */}
       <MainHeader>
-        <div className='center-flex-row main-navigation'>
+        <div className='responsive-width center-flex-row main-navigation'>
           <h1 className='center-flex-row tiny-gap main-navigation__title'>
             <span>LOGO</span>
             <Link to='/'>Howie Hao Wang</Link>

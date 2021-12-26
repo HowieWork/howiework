@@ -3,7 +3,6 @@
 
 .checkbox-interactive {
   font-size: 1.2rem;
-  color: var(--font-color);
 
   height: 4vh;
 }
@@ -78,7 +77,7 @@
   animation: message 0.15s ease-out 0s forwards;
   animation-delay: var(--delay);
 
-  --bgcolor: #ccc5b9;
+  --bgcolor: var(--interaction-background-color);
   --radius: 0.6rem 0.6rem 0 0.6rem;
 }
 
@@ -89,8 +88,7 @@
 
   transform-origin: 0 100%;
 
-  /* --bgcolor: #fbf5ed; */
-  --bgcolor: #fff;
+  --bgcolor: var(--interaction-background-color-hw);
   --radius: 0.6rem 0.6rem 0.6rem 0;
 }
 
@@ -103,7 +101,7 @@
 }
 
 .chat__content a {
-  color: #eb5e28;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
@@ -111,7 +109,7 @@
 .chat__content a:visited::after,
 .chat__content a:hover::after,
 .chat__content a:active::after {
-  background-color: #eb5e28;
+  background-color: var(--primary-color);
 }
 
 @keyframes message {

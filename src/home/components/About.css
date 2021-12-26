@@ -19,7 +19,7 @@
   display: inline-block;
   width: 0.6rem;
   height: 2rem;
-  background-color: #eb5e28;
+  background-color: var(--primary-color);
 }
 
 .about-container {
@@ -53,12 +53,12 @@
 }
 
 .interests-text span {
-  color: #eb5e28;
+  color: var(--primary-color);
 }
 
 .interests-text a:link::after,
 .interests-text a:visited::after,
 .interests-text a:hover::after,
 .interests-text a:active::after {
-  background-color: #eb5e28;
+  background-color: var(--primary-color);
 }
