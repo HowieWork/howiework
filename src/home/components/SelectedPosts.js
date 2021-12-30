@@ -1,4 +1,5 @@
 import PostItem from '../../shared/components/Post/PostItem';
+import { Link } from 'react-router-dom';
 import { POST_DATA } from '../../data/postData';
 import './SelectedPosts.css';
 
@@ -8,12 +9,13 @@ const SelectedPosts = () => {
 
   // RENDER CONTENT
   const content = featuredPosts.map((post) => (
-    <PostItem
-      key={post.title}
-      type='featured-version'
-      title={post.title}
-      imageSrc={post.imageSrc}
-    />
+    <Link key={post.title} to={post.readMoreUrl}>
+      <PostItem
+        type='featured-version'
+        title={post.title}
+        imageSrc={post.imageSrc}
+      />
+    </Link>
   ));
 
   return (

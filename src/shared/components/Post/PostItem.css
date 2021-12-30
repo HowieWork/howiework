@@ -19,7 +19,13 @@
 .featured-post-title {
   font-size: 1.8rem;
   /* font-weight: 700; */
+  color: var(--font-color--secondary);
+}
+
+.featured-post-title:hover {
   color: var(--font-color);
+
+  transition: all 0.3s ease-in-out;
 }
 
 /* GENERAL POSTS STYLING */

@@ -19,6 +19,10 @@
   background-color: var(--primary-color);
 }
 
+.selected-posts-container a {
+  text-decoration: none;
+}
+
 @media (min-width: 768px) {
   .selected-posts-container {
     display: grid;
