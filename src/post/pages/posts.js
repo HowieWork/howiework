@@ -14,8 +14,22 @@ const Posts = () => {
         </div>
         <PostList category='programming' data={POST_DATA} />
       </section>
+
       {/* DESIGN */}
+      <section id='design' className='responsive-width'>
+        <div className='center-flex-row tiny-gap category-title'>
+          <div></div> Design
+        </div>
+        <PostList category='design' data={POST_DATA} />
+      </section>
+
       {/* ARCHITECTURE */}
+      <section id='architecture' className='responsive-width'>
+        <div className='center-flex-row tiny-gap category-title'>
+          <div></div> Architecture
+        </div>
+        <PostList category='architecture' data={POST_DATA} />
+      </section>
     </div>
   );
 };

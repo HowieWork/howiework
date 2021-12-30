@@ -71,9 +71,9 @@ const PostDetail = () => {
           </div>
           <div className='center-flex-row extra-tiny-gap post-detail-heading-sub-container'>
             <Fragment>
-              {postData.keywords.map((keyword) => {
+              {postData.keywords.map((keyword, index) => {
                 return (
-                  <span className='post-detail-heading--keyword'>
+                  <span key={index} className='post-detail-heading--keyword'>
                     {keyword}
                   </span>
                 );

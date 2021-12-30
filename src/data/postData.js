@@ -1,5 +1,7 @@
 // TODO HOW TO DYNAMICALLY IMPORT/EXTRACT ALL NEEDED DATA INFO FROM PUBLIC DOCUMENTS?
 /*
+CATEGORIES: programming; design; architecture
+
 NOTE POST DATA TEMPLATE
 {
   category: 'SOME CATEGORY',
@@ -14,7 +16,7 @@ NOTE POST DATA TEMPLATE
   readMoreUrl: 'SOME URL',
 }
 */
-// Categories: programming; design; architecture
+
 export const POST_DATA = [
   {
     category: 'programming',
@@ -43,7 +45,7 @@ export const POST_DATA = [
     isFeatured: true,
     imageSrc:
       '../../documents/post/image/how-i-built-my-first-mern-project/cover.webp',
-    readMoreUrl: 'SOME URL',
+    readMoreUrl: '/posts/how-i-built-my-first-mern-project',
   },
   {
     category: 'programming',
@@ -57,7 +59,7 @@ export const POST_DATA = [
     isFeatured: true,
     imageSrc:
       '../../documents/post/image/thoughts-about-self-teaching-web-development/cover.webp',
-    readMoreUrl: 'SOME URL',
+    readMoreUrl: '/posts/thoughts-about-self-teaching-web-development',
   },
   {
     category: 'programming',
@@ -71,7 +73,7 @@ export const POST_DATA = [
     isFeatured: true,
     imageSrc:
       '../../documents/post/image/how-to-build-a-flexible-react-button/cover.webp',
-    readMoreUrl: 'SOME URL',
+    readMoreUrl: '/posts/how-to-build-a-flexible-react-button',
   },
   {
     category: 'programming',
