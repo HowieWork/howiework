@@ -11,6 +11,8 @@ import Footer from './shared/components/Footer/Footer';
 import Home from './home/pages/Home';
 import Projects from './portfolio/pages/Projects';
 // TODO IMPORT POSTS
+import Posts from './post/pages/Posts';
+import PostDetail from './post/pages/PostDetail';
 import Photos from './photography/pages/Photos';
 import Drawings from './drawing/pages/Drawings';
 
@@ -32,8 +34,12 @@ const App = () => {
       <Route path='/portfolio/arch/:projectTitle' exact></Route>
 
       {/* POSTS */}
-      <Route path='/posts' exact></Route>
-      <Route path='/posts/:postTitle' exact></Route>
+      <Route path='/posts' exact>
+        <Posts />
+      </Route>
+      <Route path='/posts/:postTitle' exact>
+        <PostDetail />
+      </Route>
 
       {/* PHOTOGRAPHY */}
       <Route path='/photography' exact>
@@ -44,9 +50,6 @@ const App = () => {
       <Route path='/drawings' exact>
         <Drawings />
       </Route>
-
-      {/* RESUME.PDF */}
-      <Route path='/resume.pdf' exact></Route>
 
       {/* REDIRECT */}
       <Redirect to='/' />

@@ -18,29 +18,13 @@
   margin-bottom: 6.4rem;
 }
 
-.category-title {
-  font-size: 2rem;
-  font-weight: 600;
-
-  margin-bottom: 3.2rem;
+.category-sub-title {
+  color: var(--font-color--secondary);
+  font-size: 1.6rem;
+  font-style: italic;
 
   /* OVERWRITE CENTERED JUSTIFY CONTENT */
   justify-content: flex-start;
-}
-
-.category-title div {
-  display: inline-block;
-  width: 0.6rem;
-  height: 2rem;
-  background-color: var(--primary-color);
-}
-
-.category-sub-title {
-  font-size: 1.6rem;
-  color: var(--font-color);
 
   margin-bottom: 2.4rem;
-
-  /* OVERWRITE CENTERED JUSTIFY CONTENT */
-  justify-content: flex-start;
 }

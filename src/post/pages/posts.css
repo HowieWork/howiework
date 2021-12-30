@@ -1,0 +1,29 @@
+.posts-container {
+  /* LEAVE TOP SPACE FOR FIXED MAIN NAVIGATION */
+  padding-top: 8vh;
+
+  margin-top: 2.4rem;
+
+  margin: auto;
+}
+
+.posts-container section {
+  margin-bottom: 6.4rem;
+}
+
+.category-title {
+  font-size: 2rem;
+  font-weight: 600;
+
+  margin-bottom: 3.2rem;
+
+  /* OVERWRITE CENTERED JUSTIFY CONTENT */
+  justify-content: flex-start;
+}
+
+.category-title div {
+  display: inline-block;
+  width: 0.6rem;
+  height: 2rem;
+  background-color: var(--primary-color);
+}

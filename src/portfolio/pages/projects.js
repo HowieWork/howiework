@@ -48,7 +48,7 @@ const Projects = () => {
           data={APP_DATA}
         />
         <div className='center-flex-row tiny-gap category-sub-title'>
-          * Below is a collection of tutorial projects.
+          * Note: Below is a collection of tutorial projects.
         </div>
         <ProjectList
           category='app'

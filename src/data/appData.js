@@ -2,7 +2,7 @@ export const APP_DATA = [
   {
     type: 'app',
     title: 'Snap App',
-    technologyList: ['React', 'Node', 'Express', 'MongoDB', 'Figma'],
+    technologyList: ['React', 'Node', 'Express', 'MongoDB'],
     description:
       'Snap App focus on creating a photo sharing platform for people who love architecture.',
     imageSrc: '/assets/app/app-snap-cover.webp',
@@ -12,7 +12,7 @@ export const APP_DATA = [
   {
     type: 'app',
     title: 'Modal',
-    technologyList: ['React', 'Node'],
+    technologyList: ['HTML', 'CSS', 'JavaScript'],
     description:
       'Modal is a simple app introducing philosophy about Death and Living.',
     imageSrc: '/assets/app/app-modal-cover.webp',
@@ -25,7 +25,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Natours',
-    technologyList: ['React', 'Node', 'Express', 'MongoDB', 'Figma'],
+    technologyList: ['Node', 'Express', 'MongoDB'],
     description:
       'A web app for helping people choose where to travel in North America',
     imageSrc: '/assets/app/app-natours-cover.webp',

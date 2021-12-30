@@ -105,6 +105,15 @@ Large: 14px || 1.4rem
   --primary-color-shade--30: #a5421c;
   --primary-color-shade--60: #5e2610;
   --primary-color-shade--90: #170904;
+
+  /* --secondary-color: #66635d;
+  --secondary-color-tint--30: #94928e;
+  --secondary-color-tint--60: #c2c1be;
+  --secondary-color-tint--90: #f0efef;
+  --secondary-color-shade--30: #474541;
+  --secondary-color-shade--60: #292825;
+  --secondary-color-shade--90: #0a0a09; */
+
   --background-color: #fcf7f1;
   --font-color: #252422;
   --font-color--secondary: #403d39;
@@ -114,7 +123,7 @@ Large: 14px || 1.4rem
   --nav-background-color: 255, 255, 255;
 
   /* INTERACTION COLOR */
-  --interaction-background-color: #ccc5b9;
+  --interaction-background-color: #e6dfd3;
   --interaction-background-color-hw: #fff;
 }
 
@@ -126,6 +135,15 @@ Large: 14px || 1.4rem
   --primary-color-shade--30: #005db3;
   --primary-color-shade--60: #003566;
   --primary-color-shade--90: #000d19;
+
+  /* --secondary-color: #001f3b;
+  --secondary-color-tint--30: #4d6276;
+  --secondary-color-tint--60: #99a5b1;
+  --secondary-color-tint--90: #e6e9eb;
+  --secondary-color-shade--30: #001629;
+  --secondary-color-shade--60: #000c18;
+  --secondary-color-shade--90: #000306; */
+
   --background-color: #031423;
   --font-color: #d6def8;
   --font-color--secondary: #969bae;
@@ -219,6 +237,10 @@ button {
 }
 .large-gap {
   gap: 9.6rem;
+}
+/* BELOW IS FOR SIMILAR VIEW IN DRAWING/PHOTO/POST PAGES THE SAME AS PORTFOLIO PAGE */
+.container-gap {
+  height: 4vh;
 }
 
 /* RESPONSIVE WIDTH */

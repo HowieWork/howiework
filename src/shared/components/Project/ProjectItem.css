@@ -1,4 +1,4 @@
-/* VIEW IN GRID CSS STYLING */
+/* VIEW IN GRID */
 .project-container--grid {
   display: flex;
   flex-direction: column;
@@ -8,11 +8,9 @@
   margin-bottom: 4.8rem;
 }
 
-.project-sub-container--grid {
-  display: flex;
-  gap: 2.4rem;
-
-  width: 100%;
+.project-content-container--grid {
+  /* OVERWRITE CENTERED ALIGN ITEMS */
+  align-items: flex-start;
 }
 
 .project-title--grid {
@@ -51,10 +49,20 @@
   color: var(--font-color--secondary);
 
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 0.8rem;
+  /* flex-direction: column; */
+  /* align-items: flex-start; */
+  /* justify-content: center; */
+  gap: 0.4rem;
+}
+
+.project-technology--grid li {
+  color: var(--font-color);
+  font-size: 1.2rem;
+  font-weight: 500;
+
+  background-color: var(--interaction-background-color);
+  padding: 2px 8px;
+  border-radius: 4px;
 }
 
 .project-description--grid {
@@ -89,13 +97,21 @@
   }
 }
 
-/* VIEW IN LIST CSS STYLING */
+/* VIEW IN LIST */
 .project-container--list {
   display: flex;
   flex-direction: column;
-  /* gap: 0.8rem; */
+  gap: 0.4rem;
 
+  padding: 0.4rem 0.8rem;
   margin-bottom: 2.4rem;
+}
+
+.project-container--list:hover {
+  background-color: var(--interaction-background-color);
+  border-radius: 0.6rem;
+
+  transition: all 0.3s;
 }
 
 .project-title--list {

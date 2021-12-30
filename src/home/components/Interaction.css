@@ -40,7 +40,7 @@
 }
 
 /* HIDE VERTICAL SCROLL BAR */
-::-webkit-scrollbar {
+.interactive-chat::-webkit-scrollbar {
   width: 0px;
   /* make scrollbar transparent */
   background: transparent;

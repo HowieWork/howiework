@@ -1,22 +1,29 @@
 import PostItem from '../../shared/components/Post/PostItem';
+import { POST_DATA } from '../../data/postData';
 import './SelectedPosts.css';
 
 const SelectedPosts = () => {
+  // GET FEATURED POSTS DATA
+  const featuredPosts = POST_DATA.filter((post) => post.isFeatured === true);
+
+  // RENDER CONTENT
+  const content = featuredPosts.map((post) => {
+    return (
+      <PostItem
+        key={post.title}
+        type='featured-version'
+        title={post.title}
+        imageSrc={post.imageSrc}
+      />
+    );
+  });
+
   return (
     <section className='responsive-width section-posts'>
       <div className='center-flex-row tiny-gap posts-title'>
         <div></div> Thoughts & ideas
       </div>
-      <div className='posts-container'>
-        {/* TODO UPDATE IMAGE URLS */}
-        <PostItem
-          title='What I learned from architecture and web?'
-          imageSrc='#'
-        />
-        <PostItem title='How I built my first MERN project?' imageSrc='#' />
-        <PostItem title='Tips for self-teach web development' imageSrc='#' />
-        <PostItem title='How to build a flexible React button?' imageSrc='#' />
-      </div>
+      <div className='selected-posts-container'>{content}</div>
     </section>
   );
 };

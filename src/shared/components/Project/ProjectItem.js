@@ -9,10 +9,10 @@ const ProjectItem = (props) => {
       return (
         <div className='project-container--grid'>
           <div className='project-title--grid'>{props.title}</div>
-          <div className='project-sub-container--grid'>
-            <div className='project-image--grid'>
-              <img src={props.imageSrc} alt={`${props.title} Cover`} />
-            </div>
+          <div className='project-image--grid'>
+            <img src={props.imageSrc} alt={`${props.title} Cover`} />
+          </div>
+          <div className='center-flex-column tiny-gap project-content-container--grid'>
             {props.technologyList && (
               <ul className='project-technology--grid'>
                 {props.technologyList.map((tech) => (
@@ -20,22 +20,27 @@ const ProjectItem = (props) => {
                 ))}
               </ul>
             )}
-          </div>
-          <div className='project-description--grid'>
-            <p>{props.description}</p>
-            <div className='project-cta--grid'>
-              <Button href={props.demoUrl} secondary hoverUnderline targetBlank>
-                Demo
-              </Button>{' '}
-              |{' '}
-              <Button
-                href={props.gitHubUrl}
-                secondary
-                hoverUnderline
-                targetBlank
-              >
-                GitHub
-              </Button>
+            <div className='project-description--grid'>
+              <p>{props.description}</p>
+              <div className='project-cta--grid'>
+                <Button
+                  href={props.demoUrl}
+                  secondary
+                  hoverUnderline
+                  targetBlank
+                >
+                  Demo
+                </Button>{' '}
+                |{' '}
+                <Button
+                  href={props.gitHubUrl}
+                  secondary
+                  hoverUnderline
+                  targetBlank
+                >
+                  GitHub
+                </Button>
+              </div>
             </div>
           </div>
         </div>
@@ -46,10 +51,12 @@ const ProjectItem = (props) => {
       return (
         <div className='project-container--grid'>
           <div className='project-title--grid'>{props.title}</div>
-          <div className='project-sub-container--grid'>
-            <div className='project-image--grid'>
-              <img src={props.imageSrc} alt={`${props.title} Cover`} />
-            </div>
+
+          <div className='project-image--grid'>
+            <img src={props.imageSrc} alt={`${props.title} Cover`} />
+          </div>
+
+          <div className='center-flex-column tiny-gap project-content-container--grid'>
             {props.technologyList && (
               <ul className='project-technology--grid'>
                 {props.technologyList.map((tech) => (
@@ -57,28 +64,28 @@ const ProjectItem = (props) => {
                 ))}
               </ul>
             )}
-          </div>
-          <div className='project-description--grid'>
-            <p>{props.description}</p>
-            {/* FIXME UPDATE MUSEUM PROJECT LINK */}
-            {props.readMoreUrl && (
-              <Button to={props.readMoreUrl} secondary hoverUnderline>
-                Read More
-              </Button>
-            )}
+            <div className='project-description--grid'>
+              <p>{props.description}</p>
+              {/* FIXME UPDATE MUSEUM PROJECT LINK */}
+              {props.readMoreUrl && (
+                <Button to={props.readMoreUrl} secondary hoverUnderline>
+                  Read More
+                </Button>
+              )}
+            </div>
           </div>
         </div>
       );
 
-    // TODO 3) ARCHITECTURE
+    // 3) ARCHITECTURE
     if (props.type === 'arch')
       return (
         <div className='project-container--grid'>
           <div className='project-title--grid'>{props.title}</div>
-          <div className='project-sub-container--grid'>
-            <div className='project-image--grid'>
-              <img src={props.imageSrc} alt={`${props.title} Cover`} />
-            </div>
+          <div className='project-image--grid'>
+            <img src={props.imageSrc} alt={`${props.title} Cover`} />
+          </div>
+          <div className='project-content-container--grid'>
             {props.technologyList && (
               <ul className='project-technology--grid'>
                 {props.technologyList.map((tech) => (
@@ -86,19 +93,19 @@ const ProjectItem = (props) => {
                 ))}
               </ul>
             )}
-          </div>
-          <div className='project-description--grid'>
-            <p>{props.description}</p>
-            {/* FIXME UPDATE MUSEUM PROJECT LINK */}
-            {props.readMoreUrl && (
-              <Button to={props.readMoreUrl} secondary hoverUnderline>
-                Read More
-              </Button>
-            )}
+            <div className='project-description--grid'>
+              <p>{props.description}</p>
+              {props.readMoreUrl && (
+                <Button to={props.readMoreUrl} secondary hoverUnderline>
+                  Read More
+                </Button>
+              )}
+            </div>
           </div>
         </div>
       );
   }
+
   // LIST VIEW
   if (props.view === 'list') {
     // 1) APPS

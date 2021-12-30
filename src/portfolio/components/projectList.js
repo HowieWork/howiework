@@ -12,9 +12,10 @@ const ProjectList = (props) => {
             <ProjectItem
               /* FIXME NOT PASSING TECHNOLOGY LIST FOR AVOIDING LAYOUT ISSUE. BETTER SOLUTION? */
               key={app.title}
-              type={app.type}
               view={props.view}
+              type={app.type}
               title={app.title}
+              technologyList={app.technologyList}
               description={app.description}
               imageSrc={app.imageSrc}
               demoUrl={app.demoUrl}
