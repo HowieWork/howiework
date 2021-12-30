@@ -54,9 +54,11 @@
 }
 
 .post-detail-heading--keyword {
-  color: #fff;
+  color: var(--font-color);
+  font-size: 1.2rem;
   font-weight: 500;
-  background-color: var(--primary-color);
+
+  background-color: var(--interaction-background-color);
 
   padding: 2px 8px;
   border-radius: 4px;

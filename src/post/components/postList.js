@@ -3,21 +3,25 @@ import PostItem from '../../shared/components/Post/PostItem';
 import './PostList.css';
 
 const PostList = (props) => {
-  let postContent;
-  // TODO CATEGORIES
-  postContent = (
-    <Fragment>
-      {props.data.map((post) => {
-        return (
-          <PostItem
-            key={post.title}
-            type='normal-version'
-            readMoreUrl={post.readMoreUrl}
-          />
-        );
-      })}
-    </Fragment>
+  // GET POSTS BELONG TO CERTAIN CATEGORIES
+  const targetPosts = props.data.filter(
+    (post) => post.category === props.category
   );
+
+  // RENDER TARGET POSTS
+  const postContent = targetPosts.map((post) => (
+    <PostItem
+      key={post.title}
+      type='normal-version'
+      title={post.title}
+      date={post.date}
+      duration={post.duration}
+      excerpt={post.excerpt}
+      imageSrc={post.imageSrc}
+      readMoreUrl={post.readMoreUrl}
+    />
+  ));
+
   return <Fragment>{postContent}</Fragment>;
 };
 

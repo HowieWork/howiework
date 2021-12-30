@@ -47,12 +47,6 @@
   font-size: 1.6rem;
   font-weight: 600;
   color: var(--font-color--secondary);
-
-  display: flex;
-  /* flex-direction: column; */
-  /* align-items: flex-start; */
-  /* justify-content: center; */
-  gap: 0.4rem;
 }
 
 .project-technology--grid li {
@@ -61,6 +55,7 @@
   font-weight: 500;
 
   background-color: var(--interaction-background-color);
+
   padding: 2px 8px;
   border-radius: 4px;
 }

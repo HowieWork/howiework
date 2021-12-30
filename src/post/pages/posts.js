@@ -7,13 +7,15 @@ const Posts = () => {
     <div className='center-flex-column responsive-width posts-container'>
       {/* BELOW IS FOR SIMILAR VIEW AS PORTFOLIO PAGE */}
       <div className='responsive-width container-gap'></div>
-      {/* FIXME XXX POST CATEGORY */}
-      <section id='FIXME XXX POST' className='responsive-width'>
+      {/* PROGRAMMING */}
+      <section id='programming' className='responsive-width'>
         <div className='center-flex-row tiny-gap category-title'>
-          <div></div> XXX Post
+          <div></div> Programming
         </div>
-        <PostList data={POST_DATA} />
+        <PostList category='programming' data={POST_DATA} />
       </section>
+      {/* DESIGN */}
+      {/* ARCHITECTURE */}
     </div>
   );
 };

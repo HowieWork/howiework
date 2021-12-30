@@ -7,16 +7,14 @@ const SelectedPosts = () => {
   const featuredPosts = POST_DATA.filter((post) => post.isFeatured === true);
 
   // RENDER CONTENT
-  const content = featuredPosts.map((post) => {
-    return (
-      <PostItem
-        key={post.title}
-        type='featured-version'
-        title={post.title}
-        imageSrc={post.imageSrc}
-      />
-    );
-  });
+  const content = featuredPosts.map((post) => (
+    <PostItem
+      key={post.title}
+      type='featured-version'
+      title={post.title}
+      imageSrc={post.imageSrc}
+    />
+  ));
 
   return (
     <section className='responsive-width section-posts'>

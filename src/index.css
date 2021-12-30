@@ -223,6 +223,9 @@ button {
 }
 
 /* GAPS */
+.extra-tiny-gap {
+  gap: 0.4rem;
+}
 .tiny-gap {
   gap: 0.8rem;
 }

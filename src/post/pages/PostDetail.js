@@ -64,12 +64,12 @@ const PostDetail = () => {
             }}
           />
           <div className='post-detail-heading--title'>{postData.title}</div>
-          <div className='center-flex-row tiny-gap post-detail-heading-sub-container'>
+          <div className='center-flex-row extra-tiny-gap post-detail-heading-sub-container'>
             <div>{postData.date}</div>
             <div>·</div>
             <div>{postData.duration}</div>
           </div>
-          <div className='center-flex-row tiny-gap post-detail-heading-sub-container'>
+          <div className='center-flex-row extra-tiny-gap post-detail-heading-sub-container'>
             <Fragment>
               {postData.keywords.map((keyword) => {
                 return (

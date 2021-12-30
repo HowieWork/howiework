@@ -14,7 +14,7 @@ const ProjectItem = (props) => {
           </div>
           <div className='center-flex-column tiny-gap project-content-container--grid'>
             {props.technologyList && (
-              <ul className='project-technology--grid'>
+              <ul className='center-flex-row extra-tiny-gap project-technology--grid'>
                 {props.technologyList.map((tech) => (
                   <li key={tech}>{tech}</li>
                 ))}

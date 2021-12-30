@@ -1,4 +1,5 @@
-.post-container {
+/* FEATURED POSTS STYLING */
+.featured-post-container {
   width: 100%;
 
   display: flex;
@@ -6,7 +7,7 @@
   gap: 0.8rem;
 }
 
-.post-image {
+.featured-post-image {
   width: 100%;
   height: 8rem;
 
@@ -15,8 +16,50 @@
   border-radius: 0.6rem;
 }
 
-.post-title {
+.featured-post-title {
   font-size: 1.8rem;
   /* font-weight: 700; */
   color: var(--font-color);
+}
+
+/* GENERAL POSTS STYLING */
+.post-link {
+  text-decoration: none;
+}
+
+.post-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+
+  color: var(--font-color);
+
+  padding: 0.4rem 0.8rem;
+  margin-bottom: 2.4rem;
+}
+
+.post-container:hover {
+  background-color: var(--interaction-background-color);
+  border-radius: 0.6rem;
+
+  transition: all 0.3s;
+}
+
+.post-title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+/* SUB CONTAINER CONTAIN DATE AND DURATION */
+.post-sub-container {
+  font-size: 1.4rem;
+  color: var(--font-color--secondary);
+
+  /* OVERWRITE JUSTIFY CONTENT CENTER */
+  justify-content: flex-start;
+}
+
+.post-description {
+  font-size: 1.6rem;
+  color: var(--font-color--secondary);
 }

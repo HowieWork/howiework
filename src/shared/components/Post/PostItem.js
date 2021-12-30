@@ -1,5 +1,5 @@
 import { Fragment } from 'react/cjs/react.production.min';
-import Button from '../FormElements/Button';
+import { Link } from 'react-router-dom';
 import './PostItem.css';
 
 const PostItem = (props) => {
@@ -8,13 +8,13 @@ const PostItem = (props) => {
   // FIXME UPDATE SHORTER VERSION FOR FEATURED POSTS
   if (props.type === 'featured-version') {
     content = (
-      <div className='post-container'>
+      <div className='featured-post-container'>
         <img
           src={props.imageSrc}
           alt={`${props.title} Cover`}
-          className='post-image'
+          className='featured-post-image'
         />
-        <div className='post-title'>{props.title}</div>
+        <div className='featured-post-title'>{props.title}</div>
       </div>
     );
   }
@@ -22,12 +22,17 @@ const PostItem = (props) => {
   // FIXME UPDATE NORMAL VERSION FOR POSTS
   if (props.type === 'normal-version') {
     content = (
-      <div>
-        <div>NORMAL VERSION</div>
-        <Button to={props.readMoreUrl} secondary hoverUnderline>
-          Read More
-        </Button>
-      </div>
+      <Link to={props.readMoreUrl} className='post-link'>
+        <div className='post-container'>
+          <div className='post-title'>{props.title}</div>
+          <div className='center-flex-row extra-tiny-gap post-sub-container'>
+            <div>{props.date}</div>
+            <div>·</div>
+            <div>{props.duration}</div>
+          </div>
+          <div className='post-description'>{props.excerpt}</div>
+        </div>
+      </Link>
     );
   }
   return <Fragment>{content}</Fragment>;
