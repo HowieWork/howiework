@@ -58,7 +58,7 @@ const ProjectItem = (props) => {
 
           <div className='center-flex-column tiny-gap project-content-container--grid'>
             {props.technologyList && (
-              <ul className='project-technology--grid'>
+              <ul className='center-flex-row extra-tiny-gap project-technology--grid'>
                 {props.technologyList.map((tech) => (
                   <li key={tech}>{tech}</li>
                 ))}
@@ -85,14 +85,7 @@ const ProjectItem = (props) => {
           <div className='project-image--grid'>
             <img src={props.imageSrc} alt={`${props.title} Cover`} />
           </div>
-          <div className='project-content-container--grid'>
-            {props.technologyList && (
-              <ul className='project-technology--grid'>
-                {props.technologyList.map((tech) => (
-                  <li key={tech}>{tech}</li>
-                ))}
-              </ul>
-            )}
+          <div className='center-flex-column tiny-gap project-content-container--grid'>
             <div className='project-description--grid'>
               <p>{props.description}</p>
               {props.readMoreUrl && (
@@ -135,13 +128,13 @@ const ProjectItem = (props) => {
           <div className='project-title--list'>{props.title}</div>
           <div className='project-description--list'>
             <p>{props.description}</p>
-            <div className='project-cta--list'>
-              {props.readMoreUrl && (
-                <Button to={props.readMoreUrl} secondary hoverUnderline>
-                  Read More
-                </Button>
-              )}
-            </div>
+          </div>
+          <div className='project-cta--list'>
+            {props.readMoreUrl && (
+              <Button to={props.readMoreUrl} secondary hoverUnderline>
+                Read More
+              </Button>
+            )}
           </div>
         </div>
       );
@@ -153,13 +146,13 @@ const ProjectItem = (props) => {
           <div className='project-title--list'>{props.title}</div>
           <div className='project-description--list'>
             <p>{props.description}</p>
-            <div className='project-cta--list'>
-              {props.readMoreUrl && (
-                <Button to={props.readMoreUrl} secondary hoverUnderline>
-                  Read More
-                </Button>
-              )}
-            </div>
+          </div>
+          <div className='project-cta--list'>
+            {props.readMoreUrl && (
+              <Button to={props.readMoreUrl} secondary hoverUnderline>
+                Read More
+              </Button>
+            )}
           </div>
         </div>
       );

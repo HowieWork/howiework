@@ -2,6 +2,7 @@ export const APP_DATA = [
   {
     type: 'app',
     title: 'Snap App',
+    slug: 'snap-app',
     technologyList: ['React', 'Node', 'Express', 'MongoDB'],
     description:
       'Snap App focus on creating a photo sharing platform for people who love architecture.',
@@ -12,6 +13,7 @@ export const APP_DATA = [
   {
     type: 'app',
     title: 'Modal',
+    slug: 'modal',
     technologyList: ['HTML', 'CSS', 'JavaScript'],
     description:
       'Modal is a simple app introducing philosophy about Death and Living.',
@@ -25,6 +27,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Natours',
+    slug: 'natours',
     technologyList: ['Node', 'Express', 'MongoDB'],
     description:
       'A web app for helping people choose where to travel in North America',
@@ -35,6 +38,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Forkify',
+    slug: 'forkify',
     technologyList: ['React', 'Node'],
     description:
       'Search over 1,000,000 recipes. Find your favorite recipe and bookmark it.',
@@ -45,6 +49,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Mapty',
+    slug: 'mapty',
     technologyList: ['OOP', 'Node'],
     description:
       'An app maps your workouts. Built with OOP, Geolocation API, Web Storage API.',
@@ -55,6 +60,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Bankist',
+    slug: 'bankist',
     technologyList: ['React', 'Node'],
     description: 'A simple web tool for managing your bank account.',
     imageSrc: '/assets/app/app-bankist-cover.webp',
@@ -64,6 +70,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Bankist Homepage',
+    slug: 'bankist-homepage',
     technologyList: ['React', 'Node'],
     description: 'A homepage design for Bankist App',
     imageSrc: '/assets/app/app-bankist-homepage-cover.webp',
@@ -73,6 +80,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Guess My Number',
+    slug: 'guess-my-number',
     technologyList: ['React', 'Node'],
     description: 'A guess number game. Built with DOM, JavaScript',
     imageSrc: '/assets/app/app-guess-my-number-cover.webp',
@@ -82,6 +90,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Pig Game',
+    slug: 'pig-game',
     technologyList: ['React', 'Node'],
     description: 'A dice game. Built with DOM, JavaScript',
     imageSrc: '/assets/app/app-pig-game-cover.webp',
@@ -91,6 +100,7 @@ export const TUTORIAL_APP_DATA = [
   {
     type: 'app',
     title: 'Monster Rolodex',
+    slug: 'monster-rolodex',
     technologyList: ['React', 'Node'],
     description: 'A list of Monsters. Built with React',
     imageSrc: '/assets/app/app-monsters-rolodex-cover.webp',

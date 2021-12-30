@@ -6,8 +6,7 @@ export const DESIGN_DATA = [
     description:
       'A mobile app design for a museum. Its goal is to enhance visiting experience. It integrates multiple key features together.',
     imageSrc: '/assets/design/design-museum-cover.webp',
-    // TODO UPDATE READ MORE URL
-    readMoreUrl: '/portfolio/design/museum',
+    readMoreUrl: '/posts/museum',
   },
   {
     type: 'design',

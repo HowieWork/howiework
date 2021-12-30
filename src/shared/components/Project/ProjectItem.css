@@ -121,6 +121,10 @@
   font-weight: 400;
 }
 
+.project-cta--list a:hover {
+  color: var(--font-color);
+}
+
 .project-description--list {
   font-size: 1.6rem;
   color: var(--font-color--secondary);
