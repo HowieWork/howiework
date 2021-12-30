@@ -169,15 +169,15 @@ export const POST_DATA = [
   {
     category: 'architecture',
     title: 'Urban Resilience',
-    slug: 'redefine-edge',
+    slug: 'urban-resilience',
     date: 'Dec 29, 2021',
     duration: 'X min read',
     keywords: ['KEYWORD', 'KEYWORD', 'KEYWORD'],
     excerpt:
       'An innovative, urban-scale interpretive at a defunct Urban Village, also known as "Village in City" in developing countries. Investigate breathing new life into a pressing social issue. Portray a fresh, down-to-earth community life among high-density residential buildings',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/redefine-edge/cover.webp',
-    readMoreUrl: 'posts/redefine-edge',
+    imageSrc: '../../documents/post/image/urban-resilience/cover.webp',
+    readMoreUrl: 'posts/urban-resilience',
   },
   {
     category: 'architecture',
