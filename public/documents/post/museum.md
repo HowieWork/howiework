@@ -2,10 +2,10 @@
 category: 'design'
 title: 'Museum'
 slug: 'museum'
-date: 'Jan XX, 2020'
-duration: 'X min read'
+date: 'Jan 1, 2020'
+duration: '14 min read'
 keywords: ['UI/UX', 'App', 'Design', 'Museum']
-excerpt: 'A mobile app design for a museum. Its goal is to enhance visiting experience. It integrates multiple key features together.'
+excerpt: 'I have been working on a museum app during the past month. This post documents the working process from research to wireframming to prototyping in great detail.'
 isFeatured: false
 imageSrc: '../../documents/post/image/museum/cover.webp'
 readMoreUrl: 'posts/museum'
