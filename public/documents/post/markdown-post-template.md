@@ -83,6 +83,24 @@ Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
 Image: 100% width.
 
 ![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+**image caption**
+
+Image groups
+
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+**Image group**
+
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+**Image group**
+
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+**Image group**
 
 ### 10. Horizontal Rule
 

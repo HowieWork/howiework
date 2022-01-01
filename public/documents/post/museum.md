@@ -2,112 +2,282 @@
 category: 'design'
 title: 'Museum'
 slug: 'museum'
-date: 'Dec 29, 2021'
+date: 'Jan XX, 2020'
 duration: 'X min read'
-keywords: ['UI/UX', 'App', 'Design']
+keywords: ['UI/UX', 'App', 'Design', 'Museum']
 excerpt: 'A mobile app design for a museum. Its goal is to enhance visiting experience. It integrates multiple key features together.'
 isFeatured: false
 imageSrc: '../../documents/post/image/museum/cover.webp'
 readMoreUrl: 'posts/museum'
 ---
 
-_This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it._
+_Over the past month, I have been working on a museum app redesign for the Natinal Museum of African American History and Culture (aka. NMAAHC). This post documents the working process from research to wireframming to prototyping. It focuses on the research part explaining why I made certain design decisions in detail._
 
-**UPDATE 12/29/2021:** Initial post commit. Update will give audience the latest update of this post. What has been changed or what links has been added. For example, [an empty helpful link](https://www.example.com).
+**UPDATE 12/31/2021:** Review original post and make some narrating and formatting changes.
 
-## Basic Syntax
+## Intro
 
-This part lists the elements supported by all Markdown applications.
+Project is a mobile app redesign for NMAAHC. The goal is to enhance visitors' museum experience. This is an unsolicited project. The views from it are my own. I am not affiliated with NMAAHC in any capacity.
 
-### 1. Headings
+## Background and challenges
 
-Usage: for post titles, subtitles.
+### 1. Two challenges
 
-## I am Heading 2
+(1) Meet current app's prospects:
 
-### No. I am Heading 3
+- A complement to your onsite museum experience
+- A way to discover stories found in our collection
+- An integration of multiple features to enhance your museum experience
 
-### 2. Paragraph
+(2) More broadly, this app should reflect the museum's own vision - 'the Four Pillars':
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. **Some strong fonts.** Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Explore history through interactive exhibitions
+- See Americans' stories through the globe lens
+- Share American values like resiliency, optimism, and spirituality
+- Engage new audiences outside DC area.
 
-### 3. Ordered List
+### 2. Defining scope of the work
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
+I planned four weeks to finish this project: one week for research; one week for design; the rest if for prototype and testing. Final package will also include one app poster for marketing.
 
-### 4. Unordered List
+### 3. Understanding users
 
-- Serrae enim Etruscam aquis
-- Et premis et flumine frontem minatur oppressos
-- Inquam rector Icarus possum vim tumulo propiusque
+First, let's take a look at how the current app performs. Statistics from the App Store/Google Play (until Jan 14, 2020): App store - total 42 people reviewed, 12 left comments. Average rating is 3.9/5.0; Google play - total 148 people reviewed, 55 left comments. Average rating is 4.4/5.0.
 
-### 5. Blockquote
+**"Museum is a must-see"** is mentioned 7 times. The **audio feature** is appreciated by 4 users. One user mentioned the bad quality of the audio feature. **"Helpful to plan a visit"** was mentioned 4 times. **"Content takes a long time to load"** was mentioned 3 times. 10 users expressed their pride in their history and culture. Among a total of 13 users who rated one star, 12 of them stated **"the app didn't work"**.
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
+During a weekend, I interviewed 31 visitors. Below are main discoveries:
 
-### 6. Footnote
+(1) **Top 3 reasons of choosing the app**: "The audio feature is very helpful. I can listen while visiting"; "Search and find things I am truly interested in (e.g. exhibition). So I can plan my visit while waiting in line"; "Handy information about upcoming exhibits, museum hours and speaker series".
 
-Here's a sentence with a footnote. [^1]
+(2) **Top 3 reasons of not choosing the app**: "I don't know its existence"; "I grabbed a map from the reception area and that is enough for me"; "Download the app is time-consuming".
 
-[^1]: This is the footnote.
+(3) **App features popularity ranking**: Audio, Explore (exhibitions, tours, and events), Interaction, Search, Share, Map, General Information (museum, café and gift shop), Inclusiveness (language and larger text).
 
-### 7. Code Snippet
+(4) **Content I wish could see**: Incorporate more content from the museum's collection; Recent events and news; Images of food Sweet home café provided; Exact price information of food, not just price range; Images of gifts museum shop provided.
 
-Inline code example: `<inline code>`; Below is two language examples for code block:
+(5) **Feature I wish could exist**: More interactive map, not just zoom in/out; A more intuitive interaction system comparing to the current "Reaction" system; A feature can customize my visit according to my interest; Create a community for history museum lovers.
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+## Personas
 
-```js
-// THIS IS A COMMENT EXAMPLE
-function createClassNameString(classNames) {
-  return classNames.join(' ');
-}
-```
+### 1. Persona types
 
-### 8. Link
+Based on behavioral variables, three types of visitors are hypothesized as following:
 
-Haec Praepes [Link Title](https://www.example.com), in egisse de. Caecisque termanus.
+(1) **Primary**: visitors use the app throughout their visit and believe the necessity and rationality of its existence, though they might feel odd while using it.
 
-Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
+(2) **Secondary**: visitors are willing to try the app but they give up after using it for a while.
 
-### 9. Image
+(3) **Negative**: visitors don't think a mobile app would enhance their museum experience or show no interest at all.
 
-Image: 100% width.
+### 2. Personas and their stories
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+**Primary - Chris**
 
-### 10. Horizontal Rule
+- **Bio**: 43; Theatre manager in DC.
+- **Attributes**: Work in a mid-sized local theatre for more than 10 years; Appreciate rapid change of technology and how it affects daily life; Visionary and willing to try new technology; Love visiting museum in DC; Detail-oriented, organized and focus on the life quality.
+- **Goals**: Use app to plan his visit ahead; Get museum special exhibitions, events and tours notification; Share his memories to other medium.
 
-Usage: dividing certain sections.
+![user jouney chris](../../documents/post/image/museum/chris-story.webp)
+**User journey - Chris**
 
----
+**Primary - Alex**
 
-## Extended Syntax
+- **Bio**: 24; Graduate student from Seattle.
+- **Attributes**: Major in education and history; Love technology and dedicate his efforts to combine his profession and technology in the future; Adventurous and love travelling; Social and proactive in community.
+- **Goals**: Enhance his museum experience not limited to a comprehensive understanding of history through multiple mediums; Find like-minded people through the app.
 
-This part lists the elements which extend the basic syntax by adding more features. Note: some elements are not supported by certain Markdown applications.
+![user journey alex](../../documents/post/image/museum/alex-story.webp)
+**User journey - Alex**
 
-### 1. Task list
+**Secondary - Jennifer**
 
-- [ ] to do
-- [x] done
+- **Bio**: 35; Housewife living in Toronto.
+- **Attributes**: Spend most of her time taking care of her kids; Not interested in technology but care about how technology is shaping education; Explore local museums is always on her to-do-list while travelling; Thoughtful and plan things ahead of time.
 
-### 2. Strikethrough
+**Negative - Earl**
 
-~~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Some texts need to be strikethrough. Duis aute irure dolor in reprehenderit in dolore eu fugiat nulla pariatur.~~
+- **Bio**: 52; Veteran living in Philadelphia currently works as a librarian.
+- **Attributes**: Has been working for a community library since he was discharged; Not interested in technology at all.
 
-### 3. Table
+### 3. Results
 
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
+Personas and their stories put me in users' shoes and help me to understand their experience with the app. Here are some results:
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+(1) Four experience principles:
+
+- **Be Substantial**
+  - Cover the museum's exhibitions, events and tours comprehensively
+  - Integrate various practical functions intellectually
+  - Provide users with general information including café and gift shop.
+- **Be Simple**
+  - Assist users in navigating through the museum easily
+  - Let users find their interests effectively
+  - Provide language options and larger text inclusively
+- **Be Personalized**
+  - Define a personalized system based on users' needs
+  - Let users create profiles, reserve weekend passes, add their interests and history
+- **Create a sense of community**
+  - Build a platform of expressing own feelings and hearing others' thoughts
+  - Open up a new channel to outside community for sharing values and engaging new audiences.
+
+(2) Key attributes: Audio, Explore, Search, Map, Interaction ("Reaction" system), Information, Inclusiveness, Community (profile, interests and share).
+
+## User flow
+
+### 1. Information architecture
+
+App features on museum's official website and mobile app appear to be different. Sketch below contains current common features and my comments about revising some features.
+
+![ia sketch before](../../documents/post/image/museum/ia-sketch-before.webp)
+**Information architecture (before)**
+
+Information architecture sketch after revising:
+
+![ia sketch after](../../documents/post/image/museum/ia-sketch-after.webp)
+**Information architecture (after)**
+
+### 2. Alex's user flow
+
+User Flow below is based on Alex's story. It depicts main actions new users need to take when they first use this app. It helps me to identify the key screens, which need to be focused on for the next design phase.
+
+![user-flow](../../documents/post/image/museum/user-flow.webp)
+**User flow**
+
+## Wireframes
+
+![wireframe ideation](../../documents/post/image/museum/wireframe-ideation.webp)
+**Wireframe ideation**
+
+### 1. Home & menu
+
+Guides: Main features should be clear and visible; Navigation can be easily done by one hand; Interface layout needs to be simple.
+
+Menu is substantial and concise; For each submenu, content should be tailored appropriately and shown clearly; Icons are easily understood ; Users' goals should be easily fulfilled by one hand.
+
+![home menu wireframe before 1](../../documents/post/image/museum/home-menu-before-1.png)
+![home menu wireframe before 2](../../documents/post/image/museum/home-menu-before-2.png)
+![home menu wireframe after 1](../../documents/post/image/museum/home-menu-after-1.png)
+![home menu wireframe after 2](../../documents/post/image/museum/home-menu-after-2.png)
+**Wireframe before (left 2) and after**
+
+Animated home and menu: [before ↗](../../documents/post/image/museum/home-menu-before.gif) | [after ↗](../../documents/post/image/museum/home-menu-after.gif)
+
+### 2. Search & map
+
+Guides: Provide suggestions for users' search; Suggestions should be categorized based on museum's content.
+
+Maps need to be simple and accurate; Easily zoom in/out; Show marks when profiled users add things to their "Liked".
+
+![search map wireframe before 1](../../documents/post/image/museum/search-map-before-1.png)
+![search map wireframe before 2](../../documents/post/image/museum/search-map-before-2.png)
+![search map wireframe after 1](../../documents/post/image/museum/search-map-after-1.png)
+![search map wireframe after 2](../../documents/post/image/museum/search-map-after-2.png)
+**Wireframe before (left 2) and after**
+
+Animated search map: [before ↗](../../documents/post/image/museum/search-map-before.gif) | [after ↗](../../documents/post/image/museum/search-map-after.gif)
+
+### 3. Explore
+
+Guides: Categories are shown orderly; Each artwork shows location, brief, audio (if it has) and "like/share"; Simple interface and easy navigation.
+
+![explore after wireframe before 1](../../documents/post/image/museum/explore-before-1.png)
+![explore after wireframe before 2](../../documents/post/image/museum/explore-before-2.png)
+![explore after wireframe after 1](../../documents/post/image/museum/explore-after-1.png)
+![explore after wireframe after 2](../../documents/post/image/museum/explore-after-2.png)
+**Wireframe before (left 2) and after**
+
+Animated explore: [before ↗](../../documents/post/image/museum/explore-before.gif) | [after ↗](../../documents/post/image/museum/explore-after.gif)
+
+### 4. Welcome
+
+Guides: Let users decide whether they want to join the community; Provide multiple ways of signing up; Assist users in creating their profile step by step; Reflect the characteristics of the museum.
+
+![welcome wireframe 1](../../documents/post/image/museum/welcome-1.png)
+![welcome wireframe 2](../../documents/post/image/museum/welcome-2.png)
+![welcome wireframe 3](../../documents/post/image/museum/welcome-3.png)
+![welcome wireframe 4](../../documents/post/image/museum/welcome-4.png)
+**Wireframe**
+
+[Animated welcome ↗](../../documents/post/image/museum/welcome.gif)
+
+### 5. Profile
+
+Guides: Direct users to Welcome section if they haven't signed up; Information is shown clearly and orderly; Easily retrieve history for users; Provide access to get help and submit feedback; Enhance personal experience by community feature; Connect to a larger community.
+
+![profile wireframe 1](../../documents/post/image/museum/profile-1.png)
+![profile wireframe 2](../../documents/post/image/museum/profile-2.png)
+![profile wireframe 3](../../documents/post/image/museum/profile-3.png)
+![profile wireframe 4](../../documents/post/image/museum/profile-4.png)
+**Wireframe**
+
+[Animated profile ↗](../../documents/post/image/museum/profile.gif)
+
+## Prototyping
+
+### 1. Design system
+
+![design system](../../documents/post/image/museum/design-system.png)
+**Design system**
+
+### 2. UI elements and basic interactions
+
+![ui elements](../../documents/post/image/museum/ui-elements.png)
+**UI elements**
+
+![interaction 1](../../documents/post/image/museum/interaction-1.gif)
+![interaction 2](../../documents/post/image/museum/interaction-2.gif)
+![interaction 3](../../documents/post/image/museum/interaction-3.gif)
+**Interaction examples**
+
+### 3. Prototype
+
+![welcome prototype 1](../../documents/post/image/museum/welcome-prototype-1.png)
+![welcome prototype 2](../../documents/post/image/museum/welcome-prototype-2.png)
+![welcome prototype 3](../../documents/post/image/museum/welcome-prototype-3.png)
+![welcome prototype 4](../../documents/post/image/museum/welcome-prototype-4.png)
+**Welcome**
+
+[Animated welcome ↗](../../documents/post/image/museum/welcome-prototype.gif)
+
+![home and menu prototype 1](../../documents/post/image/museum/home-menu-prototype-1.png)
+![home and menu prototype 2](../../documents/post/image/museum/home-menu-prototype-2.png)
+![home and menu prototype 3](../../documents/post/image/museum/home-menu-prototype-3.png)
+![home and menu prototype 4](../../documents/post/image/museum/home-menu-prototype-4.png)
+**Home and menu**
+
+[Animated home and menu ↗](../../documents/post/image/museum/home-menu-prototype.gif)
+
+![search and map prototype 1](../../documents/post/image/museum/search-map-prototype-1.png)
+![search and map prototype 2](../../documents/post/image/museum/search-map-prototype-2.png)
+![search and map prototype 3](../../documents/post/image/museum/search-map-prototype-3.png)
+![search and map prototype 4](../../documents/post/image/museum/search-map-prototype-4.png)
+**Search and map**
+
+[Animated search and map ↗](../../documents/post/image/museum/search-map-prototype.gif)
+
+![explore prototype 1](../../documents/post/image/museum/explore-prototype-1.png)
+![explore prototype 2](../../documents/post/image/museum/explore-prototype-2.png)
+![explore prototype 3](../../documents/post/image/museum/explore-prototype-3.png)
+![explore prototype 4](../../documents/post/image/museum/explore-prototype-4.png)
+**Explore**
+
+[Animated explore ↗](../../documents/post/image/museum/explore-prototype.gif)
+
+![profile and community prototype 1](../../documents/post/image/museum/profile-community-prototype-1.png)
+![profile and community prototype 2](../../documents/post/image/museum/profile-community-prototype-2.png)
+![profile and community prototype 3](../../documents/post/image/museum/profile-community-prototype-3.png)
+![profile and community prototype 4](../../documents/post/image/museum/profile-community-prototype-4.png)
+**Profile**
+
+[Animated profile and community ↗](../../documents/post/image/museum/profile-community-prototype.gif)
+
+## Reflections
+
+Looking back the whole progress, here are some key takeaways:
+
+- Stick with users. Most of the hard problems could be solved.
+- Keep tracking your working progress.
+- Plan ahead. The actual process may take more time than you thought.
+- A "big" deadline is not enough. Set a "small" deadline for each design phase.
+- Keep in mind: simple, functional, then beautiful.

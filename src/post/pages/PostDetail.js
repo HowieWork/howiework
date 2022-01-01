@@ -49,6 +49,33 @@ const PostDetail = () => {
         return <code children={children} className='inline-code' />;
       }
     },
+    p(p) {
+      const { children, className, node } = p;
+
+      // COUNT NUMBER OF IMAGE ELEMENTS
+      let imgElNum = 0;
+      node.children.forEach((el) => {
+        el.tagName === 'img' && imgElNum++;
+      });
+
+      // 1) AT MOST ONE IMAGE
+      if (imgElNum <= 1) {
+        return <p children={children} className={className} />;
+      }
+
+      // 2) MORE THAN TWO IMAGES
+      if (imgElNum >= 2) {
+        return (
+          <Fragment>
+            <div
+              children={children.slice(0, -1)}
+              className={`image-group--${imgElNum < 5 ? imgElNum : 4}`}
+            />
+            {children.slice(-1)}
+          </Fragment>
+        );
+      }
+    },
   };
 
   return (
