@@ -2,29 +2,49 @@
 category: 'architecture'
 title: 'Redefine Edge'
 slug: 'redefine-edge'
-date: 'Dec 29, 2021'
-duration: 'X min read'
-keywords: ['KEYWORD', 'KEYWORD', 'KEYWORD']
+date: 'Spring, 2012'
+duration: '4 min read'
+keywords: ['boundary', 'edge', 'preservation']
 excerpt: 'A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature.'
 isFeatured: false
 imageSrc: '../../documents/post/image/redefine-edge/cover.webp'
 readMoreUrl: 'posts/redefine-edge'
 ---
 
-_This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it._
+_A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature._
 
-**UPDATE 12/29/2021:** Initial post commit. Update will give audience the latest update of this post. What has been changed or what links has been added. For example, [an empty helpful link](https://www.example.com).
+**UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.
 
 ## Site
 
 ### 1. Diagram
 
+![site-diagram](../../documents/post/image/redefine-edge/site-diagram.webp)
+**Site diagram**
+
 ### 2. Plan
+
+![site-plan](../../documents/post/image/redefine-edge/site-plan.webp)
+**Site plan**
 
 ## Design
 
 ### 1. Plan
 
+![design-plan](../../documents/post/image/redefine-edge/design-plan.webp)
+**Design plan**
+
 ### 2. Section
 
+![design-section-detail](../../documents/post/image/redefine-edge/design-section-detail.webp)
+**Design section detail**
+
+![design-section-diagram](../../documents/post/image/redefine-edge/design-section-diagram.webp)
+**Design section diagram**
+
 ## Render
+
+![render](../../documents/post/image/redefine-edge/render.webp)
+**Render**
+
+Note: First Prize of the 1st Jiangsu Province Architect Cup Architecture Design Scheme Competition
