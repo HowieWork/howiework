@@ -7,7 +7,6 @@ const SelectedWorks = () => {
       <div className='center-flex-row tiny-gap works-title'>
         <div></div> Some things I've built
       </div>
-      {/* TODO WORK WITH APP/DESIGN DATA INSTEAD */}
       <ProjectItem
         view='grid'
         type='app'
@@ -25,7 +24,6 @@ const SelectedWorks = () => {
         technologyList={['Adobe XD', 'Photoshop', 'Illustration']}
         description='A mobile app design for a museum. Its goal is to enhance visiting experience. It integrates multiple key features together.'
         imageSrc='/assets/design/design-museum-cover.webp'
-        // FIXME UPDATE READ MORE URL
         readMoreUrl='/posts/museum'
       />
     </section>

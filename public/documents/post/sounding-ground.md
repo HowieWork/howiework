@@ -2,112 +2,105 @@
 category: 'architecture'
 title: 'Sounding Ground'
 slug: 'sounding-ground'
-date: 'Dec 29, 2021'
-duration: 'X min read'
-keywords: ['KEYWORD', 'KEYWORD', 'KEYWORD']
+date: 'Fall, 2017'
+duration: '12 min read'
+keywords: ['park', 'history', 'sound', 'arch']
 excerpt: 'A redesign for Market Street Park, a public park in Charlottesville after the proposed removal of the Robert Edward Lee sculpture on the site by the city council'
 isFeatured: false
 imageSrc: '../../documents/post/image/sounding-ground/cover.webp'
 readMoreUrl: 'posts/sounding-ground'
 ---
 
-_This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it._
+_A redesign for Market Street Park, a public park in Charlottesville after the proposed removal of the Robert Edward Lee sculpture on the site by the city council._
 
-**UPDATE 12/29/2021:** Initial post commit. Update will give audience the latest update of this post. What has been changed or what links has been added. For example, [an empty helpful link](https://www.example.com).
+**UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.
 
-## Basic Syntax
+## Research
 
-This part lists the elements supported by all Markdown applications.
+### 1. History
 
-### 1. Headings
+![research-history-1](../../documents/post/image/sounding-ground/research-history-1.webp)
+![research-history-2](../../documents/post/image/sounding-ground/research-history-2.webp)
+**Historical arch**
 
-Usage: for post titles, subtitles.
+![research-history-3](../../documents/post/image/sounding-ground/research-history-3.webp)
+**Arch study**
 
-## I am Heading 2
+### 2. Sound
 
-### No. I am Heading 3
+![research-sound-2](../../documents/post/image/sounding-ground/research-sound-2.webp)
+**Drawing sound I**
 
-### 2. Paragraph
+![research-sound-1](../../documents/post/image/sounding-ground/research-sound-1.webp)
+**Drawing sound II**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. **Some strong fonts.** Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![research-sound-3](../../documents/post/image/sounding-ground/research-sound-3.webp)
+**Sound study**
 
-### 3. Ordered List
+## Design
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
+A new park design for Emancipation Park in Charlottesville.
 
-### 4. Unordered List
+The site is developed as a new surface above the existing with access to both the lower levels of park along Market Street.
 
-- Serrae enim Etruscam aquis
-- Et premis et flumine frontem minatur oppressos
-- Inquam rector Icarus possum vim tumulo propiusque
+Walking along Market Street, the site lies behind an open cloister-like facade with a main entrance leading to programs, an entrance/exit to the park, and a preserved tree oriented rest area.
 
-### 5. Blockquote
+This new opening stretches up gentle slopes, which responds to topography and the site's surrounding buildings.
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
+![design-sketch-1](../../documents/post/image/sounding-ground/design-sketch-1.webp)
+**Design sketch 1**
 
-### 6. Footnote
+![design-sketch-2](../../documents/post/image/sounding-ground/design-sketch-2.webp)
+**Design sketch 2**
 
-Here's a sentence with a footnote. [^1]
+![design-sketch-3](../../documents/post/image/sounding-ground/design-sketch-3.webp)
+**Design sketch 3**
 
-[^1]: This is the footnote.
+![design-sketch-4](../../documents/post/image/sounding-ground/design-sketch-4.webp)
+**Design sketch 4**
 
-### 7. Code Snippet
+![design-sketch-5](../../documents/post/image/sounding-ground/design-sketch-5.webp)
+**Design sketch 5**
 
-Inline code example: `<inline code>`; Below is two language examples for code block:
+## Detail
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+![detail-sketch-1](../../documents/post/image/sounding-ground/detail-sketch-1.webp)
+**Detail sketch 1**
 
-```js
-// THIS IS A COMMENT EXAMPLE
-function createClassNameString(classNames) {
-  return classNames.join(' ');
-}
-```
+![detail-sketch-2](../../documents/post/image/sounding-ground/detail-sketch-2.webp)
+**Detail sketch 2**
 
-### 8. Link
+![detail-sketch-3](../../documents/post/image/sounding-ground/detail-sketch-3.webp)
+**Detail sketch 3**
 
-Haec Praepes [Link Title](https://www.example.com), in egisse de. Caecisque termanus.
+![detail-sketch-4](../../documents/post/image/sounding-ground/detail-sketch-4.webp)
+**Detail sketch 4**
 
-Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
+## Model
 
-### 9. Image
+![paper-model-1](../../documents/post/image/sounding-ground/paper-model-1.webp)
+**Paper model 1**
 
-Image: 100% width.
+![paper-model-2](../../documents/post/image/sounding-ground/paper-model-2.webp)
+**Paper model 2**
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+## Rendering
 
-### 10. Horizontal Rule
+### 1. Site plan
 
-Usage: dividing certain sections.
+![topography diagram](../../documents/post/image/sounding-ground/topography-diagram.webp)
+**Topography diagram**
 
----
+![site plan](../../documents/post/image/sounding-ground/site-plan-render.webp)
+**Site plan**
 
-## Extended Syntax
+### 2. Scenes
 
-This part lists the elements which extend the basic syntax by adding more features. Note: some elements are not supported by certain Markdown applications.
+![render 1 above ground](../../documents/post/image/sounding-ground/render-1-above-ground.webp)
+**Above ground**
 
-### 1. Task list
+![render 2 underground](../../documents/post/image/sounding-ground/render-2-underground.webp)
+**Underground**
 
-- [ ] to do
-- [x] done
-
-### 2. Strikethrough
-
-~~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Some texts need to be strikethrough. Duis aute irure dolor in reprehenderit in dolore eu fugiat nulla pariatur.~~
-
-### 3. Table
-
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![render 3 entrances](../../documents/post/image/sounding-ground/render-3-entrances.webp)
+**Entrances**

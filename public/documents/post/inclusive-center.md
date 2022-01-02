@@ -2,7 +2,7 @@
 category: 'architecture'
 title: 'Inclusive Center'
 slug: 'inclusive-center'
-date: 'Dec 29, 2021'
+date: 'Fall, 2016'
 duration: 'X min read'
 keywords: ['KEYWORD', 'KEYWORD', 'KEYWORD']
 excerpt: 'A proposal to build a new student center connecting a variety of academic and recreational functions & re-connecting existing buildings. Aim to engage more audience with physical disabilities by setting a fully integrated barrier-free system.'
@@ -15,99 +15,35 @@ _This article will provide a template for most future posts on this site. The go
 
 **UPDATE 12/29/2021:** Initial post commit. Update will give audience the latest update of this post. What has been changed or what links has been added. For example, [an empty helpful link](https://www.example.com).
 
-## Basic Syntax
+## Site
 
-This part lists the elements supported by all Markdown applications.
+### 1. Site photos
 
-### 1. Headings
+![render 1 above ground](../../documents/post/image/sounding-ground/render-1-above-ground.webp)
+**Above ground**
 
-Usage: for post titles, subtitles.
+### 2. Mapping
 
-## I am Heading 2
+### 3. Analysis
 
-### No. I am Heading 3
+### 4. Accessibility
 
-### 2. Paragraph
+## Design
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. **Some strong fonts.** Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 1. Program
 
-### 3. Ordered List
+### 2. Plan
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
+### 3. Section
 
-### 4. Unordered List
+## Structure
 
-- Serrae enim Etruscam aquis
-- Et premis et flumine frontem minatur oppressos
-- Inquam rector Icarus possum vim tumulo propiusque
+### 1. Diagram
 
-### 5. Blockquote
+### 2. Model
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
+## Render
 
-### 6. Footnote
+### 1. Scenes
 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### 7. Code Snippet
-
-Inline code example: `<inline code>`; Below is two language examples for code block:
-
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-```js
-// THIS IS A COMMENT EXAMPLE
-function createClassNameString(classNames) {
-  return classNames.join(' ');
-}
-```
-
-### 8. Link
-
-Haec Praepes [Link Title](https://www.example.com), in egisse de. Caecisque termanus.
-
-Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
-
-### 9. Image
-
-Image: 100% width.
-
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-
-### 10. Horizontal Rule
-
-Usage: dividing certain sections.
-
----
-
-## Extended Syntax
-
-This part lists the elements which extend the basic syntax by adding more features. Note: some elements are not supported by certain Markdown applications.
-
-### 1. Task list
-
-- [ ] to do
-- [x] done
-
-### 2. Strikethrough
-
-~~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Some texts need to be strikethrough. Duis aute irure dolor in reprehenderit in dolore eu fugiat nulla pariatur.~~
-
-### 3. Table
-
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 2. Whole site

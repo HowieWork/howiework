@@ -105,9 +105,9 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Sounding Ground',
     slug: 'sounding-ground',
-    date: 'Dec 29, 2021',
-    duration: 'X min read',
-    keywords: ['KEYWORD', 'KEYWORD', 'KEYWORD'],
+    date: 'Fall, 2017',
+    duration: '12 min read',
+    keywords: ['park', 'history', 'sound', 'arch'],
     excerpt:
       'A redesign for Market Street Park, a public park in Charlottesville after the proposed removal of the Robert Edward Lee sculpture on the site by the city council',
     isFeatured: false,
