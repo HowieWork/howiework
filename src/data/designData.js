@@ -15,7 +15,7 @@ export const DESIGN_DATA = [
     description:
       'My challenge was to develop a distinctive brand that would reflect the organization’s values. New design language was inspired by its unique architectural form.',
     imageSrc: '/assets/design/design-NMAAHC-cover.webp',
-    readMoreUrl: null,
+    readMoreUrl: '/posts/nmaahc',
   },
   {
     type: 'design',
