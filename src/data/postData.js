@@ -131,9 +131,9 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Talking to History',
     slug: 'talking-to-history',
-    date: 'Dec 29, 2021',
-    duration: 'X min read',
-    keywords: ['KEYWORD', 'KEYWORD', 'KEYWORD'],
+    date: 'Fall, 2013',
+    duration: '6 min read',
+    keywords: ['history', 'preservation', 'expansion'],
     excerpt:
       'An expansion of a historical building built during the Republic of China. A project brings a balance between historical heritage and contemporary architectural technics.',
     isFeatured: false,
