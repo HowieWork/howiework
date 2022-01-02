@@ -104,3 +104,5 @@ This new opening stretches up gentle slopes, which responds to topography and th
 
 ![render 3 entrances](../../documents/post/image/sounding-ground/render-3-entrances.webp)
 **Entrances**
+
+Note: Work was on display at CitySpace in downtown Charlottesville for the month of February.

@@ -43,3 +43,5 @@ Historical Resilience can be understood as Relative Innovation coming from class
 
 ![model-2](../../documents/post/image/talking-to-history/model-2.webp)
 **Model 2**
+
+Note: Received “Excellent Award” of 2013 Autodesk Revit Cup National Sustainable Architecture Design Competition for College Students
