@@ -17,6 +17,8 @@ _A new park mediates two distinct typologies - a field and a lake, inspired by t
 
 ## Site
 
+As one of the social and environmental issues, Coastal Resilience is brought to architects attention. The project not only mediates between two distinct typologies close to the site – a field and a lake, but also creates a dialogue to the factory across from the site. The project demonstrates both the relationships between typology and water and the connection between architectural form and structure.
+
 ### 1. Diagram
 
 ![site-diagram](../../documents/post/image/redefine-edge/site-diagram.webp)
