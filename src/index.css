@@ -155,6 +155,8 @@ Large: 14px || 1.4rem
   /* INTERACTION COLOR */
   --interaction-background-color: #002c55;
   --interaction-background-color-hw: #1b3750;
+
+  transition: all 0.3s ease-in-out;
 }
 
 /* TYPOGRAPHY */
