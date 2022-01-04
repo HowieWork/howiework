@@ -128,7 +128,7 @@ Large: 14px || 1.4rem
 }
 
 .dark-theme {
-  --primary-color: rgb(0, 133, 255);
+  --primary-color: #0085ff;
   --primary-color-tint--30: #4daaff;
   --primary-color-tint--60: #99ceff;
   --primary-color-tint--90: #e6f3ff;

@@ -54,10 +54,10 @@ const Hero = () => {
         </Button>
       </div>
 
-      {/* TODO UPDATE SCROLL */}
-      <div className='center-text hero-cta-scroll'>
-        PLEASE SCROLL PLACEHOLDER
-      </div>
+      {/* TODO UPDATE SCROLL CURRENTLY DISABLED*/}
+      {/* <div className='center-text hero-cta-scroll'>
+        <div className='scroll-down'></div>
+      </div> */}
     </section>
   );
 };
