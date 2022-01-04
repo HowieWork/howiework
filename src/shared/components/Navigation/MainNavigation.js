@@ -1,4 +1,4 @@
-import { Fragment, useState } from 'react';
+import { Fragment, useState, useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { MdOutlineLightMode, MdDarkMode } from 'react-icons/md';
 
@@ -6,34 +6,17 @@ import MainHeader from './MainHeader';
 import NavLinks from './NavLinks';
 import SideDrawer from './SideDrawer';
 import Backdrop from '../UIElements/Backdrop';
+import { ThemeContext } from '../../context/theme-context';
 
 import './MainNavigation.css';
 
 const MainNavigation = () => {
+  const themeContext = useContext(ThemeContext);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
-  const [isDarkTheme, setIsDarkTheme] = useState(false);
 
   const toggleDrawerHandler = () => {
     setIsDrawerOpen(!isDrawerOpen);
   };
-
-  const toggleDarkTheme = () => {
-    document.body.classList.toggle('dark-theme');
-    setIsDarkTheme(!isDarkTheme);
-  };
-
-  // SYNC WITH SYSTEM COLOR THEME
-  const isSystemDark = window.matchMedia('(prefers-color-scheme: dark)');
-
-  isSystemDark.addEventListener('change', function (event) {
-    // NOTE .MATCHES RETURNS TRUE/FALSE
-    event.matches ? setIsDarkTheme(true) : setIsDarkTheme(false);
-  });
-
-  // TOGGLE DARK THEME FOR BODY ELEMENT
-  isDarkTheme
-    ? document.body.classList.add('dark-theme')
-    : document.body.classList.remove('dark-theme');
 
   return (
     <Fragment>
@@ -45,8 +28,11 @@ const MainNavigation = () => {
             <Link to='/'>Howie Hao Wang</Link>
           </h1>
           <div className='center-flex-row small-gap'>
-            <div className='center-flex-row' onClick={toggleDarkTheme}>
-              {isDarkTheme ? (
+            <div
+              className='center-flex-row'
+              onClick={themeContext.toggleDarkThemeHandler}
+            >
+              {themeContext.isDarkTheme ? (
                 <MdOutlineLightMode size='1.8rem' />
               ) : (
                 <MdDarkMode size='1.8rem' />

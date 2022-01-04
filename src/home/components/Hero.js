@@ -1,16 +1,16 @@
+import { useContext } from 'react';
 import { MdKeyboardArrowRight } from 'react-icons/md';
+
 import Button from '../../shared/components/FormElements/Button';
+import { ThemeContext } from '../../shared/context/theme-context';
+
 import './Hero.css';
 
 const Hero = () => {
+  const themeContext = useContext(ThemeContext);
+
   return (
     <section className='section-hero'>
-      {/* HERO COVER IMAGE */}
-      {/* TODO UPDATE IMAGE SRC */}
-      <div className='center-flex-row hero-image'>
-        <img src='' alt='howie wang cover' />
-      </div>
-
       {/* HERO TITLE */}
       <div className='center-flex-row hero-title'>
         <div className='hero-title--text'>
@@ -19,22 +19,26 @@ const Hero = () => {
         </div>
         <div className='center-flex-row hero-title--image'>
           {/* TODO UPDATE IMAGE SRC */}
-          <img src='' alt='howie wang' />
+          <img src='/assets/headshot-light.png' alt='howie wang' />
         </div>
       </div>
 
       {/* HERO DESCRIPTION */}
       <div className='center-flex-column tiny-gap hero-description'>
         <p>
-          Howie is a front-end focused developer based in US with a background
-          of architecture. He loves design and technologies. He belives “There
-          are no boundaries between medium.”
+          Howie is a front-end focused web developer based in US with a
+          background of architecture. He loves design and technologies. He
+          belives “There are no boundaries between medium.”
+        </p>
+        <p>
+          Howie self-taught web development. His current focus includes React,
+          Next.js and Node.js. His diverse background equips him with both
+          design and develop skills.
         </p>
         <p>Currently, he is working on his own product called Snap App.</p>
       </div>
 
       {/* HERO CTA */}
-      {/* FIXME CHANGE TO CUSTOM BUTTON */}
       <div className='hero-cta'>
         <Button to='/portfolio' primary>
           <div className='center-flex-row tiny-gap'>

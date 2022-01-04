@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import {
   BrowserRouter as Router,
   Route,
@@ -7,6 +8,7 @@ import {
 
 import MainNavigation from './shared/components/Navigation/MainNavigation';
 import Footer from './shared/components/Footer/Footer';
+import { ThemeContext } from './shared/context/theme-context';
 
 import Home from './home/pages/Home';
 import Projects from './portfolio/pages/Projects';
@@ -17,6 +19,26 @@ import Photos from './photography/pages/Photos';
 import Drawings from './drawing/pages/Drawings';
 
 const App = () => {
+  const [isDarkTheme, setIsDarkTheme] = useState(false);
+
+  const toggleDarkTheme = () => {
+    document.body.classList.toggle('dark-theme');
+    setIsDarkTheme(!isDarkTheme);
+  };
+
+  // SYNC WITH SYSTEM COLOR THEME
+  const isSystemDark = window.matchMedia('(prefers-color-scheme: dark)');
+
+  isSystemDark.addEventListener('change', function (event) {
+    // NOTE .MATCHES RETURNS TRUE/FALSE
+    event.matches ? setIsDarkTheme(true) : setIsDarkTheme(false);
+  });
+
+  // TOGGLE DARK THEME FOR BODY ELEMENT
+  isDarkTheme
+    ? document.body.classList.add('dark-theme')
+    : document.body.classList.remove('dark-theme');
+
   const routes = (
     <Switch>
       {/* HOMEPAGE */}
@@ -57,11 +79,18 @@ const App = () => {
   );
 
   return (
-    <Router>
-      <MainNavigation />
-      <main>{routes}</main>
-      <Footer />
-    </Router>
+    <ThemeContext.Provider
+      value={{
+        isDarkTheme: isDarkTheme,
+        toggleDarkThemeHandler: toggleDarkTheme,
+      }}
+    >
+      <Router>
+        <MainNavigation />
+        <main>{routes}</main>
+        <Footer />
+      </Router>
+    </ThemeContext.Provider>
   );
 };
 
