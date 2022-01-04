@@ -18,8 +18,12 @@ const Hero = () => {
           <p>Developer / Designer</p>
         </div>
         <div className='center-flex-row hero-title--image'>
-          {/* TODO UPDATE IMAGE SRC */}
-          <img src='/assets/headshot-light.png' alt='howie wang' />
+          <img
+            src={`/assets/headshot-${
+              themeContext.isDarkTheme ? 'dark' : 'light'
+            }.png`}
+            alt='howie wang'
+          />
         </div>
       </div>
 
