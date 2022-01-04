@@ -93,6 +93,7 @@
 }
 
 /* BELOW ARE SCROLL DOWN STYLING, CURRENTLY DISABLED */
+/*
 .scroll-down {
   position: absolute;
   left: 50%;
@@ -117,7 +118,6 @@
   animation: fade_move_down 2s ease-in-out infinite;
 }
 
-/*animated scroll arrow animation*/
 @-webkit-keyframes fade_move_down {
   0% {
     -webkit-transform: translate(0, -15px) rotate(45deg);
@@ -157,3 +157,4 @@
     opacity: 0;
   }
 }
+*/
