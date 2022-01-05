@@ -8,10 +8,12 @@ import './PostDetail.css';
 
 const PostDetail = () => {
   const [postData, setPostData] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
   const [postContent, setPostContent] = useState('');
 
   // DYNAMICALLY LOAD MARKDOWN FILES INTO REACT
   useEffect(() => {
+    setIsLoading(true);
     const url = window.location.href.split('/');
     const fileName = url[url.length - 1].concat('.md');
 
@@ -21,11 +23,12 @@ const PostDetail = () => {
         const { data, content } = matter(res);
         setPostData(data);
         setPostContent(content);
+        setIsLoading(false);
       })
       .catch((err) => {
         console.log(err);
       });
-  });
+  }, []);
 
   const customRenderers = {
     code(code) {
@@ -77,6 +80,8 @@ const PostDetail = () => {
       }
     },
   };
+
+  if (isLoading) return <p>loading...</p>;
 
   return (
     <div className='center-flex-column responsive-width post-detail-container'>

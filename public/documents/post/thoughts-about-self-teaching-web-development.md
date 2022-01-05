@@ -11,103 +11,34 @@ imageSrc: '../../documents/post/image/thoughts-about-self-teaching-web-developme
 readMoreUrl: '/posts/thoughts-about-self-teaching-web-development'
 ---
 
-_This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it._
+_I share my toughts about self-teching web development in this post. It will be updated based on my learning progress._
 
-**UPDATE 12/29/2021:** Initial post commit. Update will give audience the latest update of this post. What has been changed or what links has been added. For example, [an empty helpful link](https://www.example.com).
+**UPDATE 01/04/2022:** Draft initial post skeleton.
 
-## Basic Syntax
+## Intro
 
-This part lists the elements supported by all Markdown applications.
+I have delved myself into web development for almost a year. I would like to share some lessons I learned along the way.
 
-### 1. Headings
+## MOOC
 
-Usage: for post titles, subtitles.
+MOOC, Massive open online course, has been the main tool I implement during my study.
 
-## I am Heading 2
+### Keep a log
 
-### No. I am Heading 3
+## Find communities
 
-### 2. Paragraph
+Usually you can find online communities if you are enrolled in some online courses. I highly recommend those. You can find a lot like-minded people, who share the same goal and are willing to help.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. **Some strong fonts.** Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Additionally, some communities post trivial questions frequently. It is a good time to test knowledge you learned from the course.
 
-### 3. Ordered List
+Also, Twitter is a good place to visit. I followed my instructors and community public account. And I get to know what are new trends and what technology has been updated. However, keep in mind: balance well with your study time and your social media time. Otherwise, it can easily chip away your time.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
+## Reading and listening
 
-### 4. Unordered List
+Books and podcasts are good supplement while learning web development. Though, I have to admit learning programing through reading books is hard and seems outdated. I find it helpful to sometimes switch the medium a bit. Mainly I choose product design topics as reading during my casual time.
 
-- Serrae enim Etruscam aquis
-- Et premis et flumine frontem minatur oppressos
-- Inquam rector Icarus possum vim tumulo propiusque
+Also, some theory books introduce how programming develops are a good choice.
 
-### 5. Blockquote
+I also recommend some podcasts to entertain your ears. A big advantage is to let your eyes away from the screen for a while.
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
-
-### 6. Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### 7. Code Snippet
-
-Inline code example: `<inline code>`; Below is two language examples for code block:
-
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-```js
-// THIS IS A COMMENT EXAMPLE
-function createClassNameString(classNames) {
-  return classNames.join(' ');
-}
-```
-
-### 8. Link
-
-Haec Praepes [Link Title](https://www.example.com), in egisse de. Caecisque termanus.
-
-Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
-
-### 9. Image
-
-Image: 100% width.
-
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-
-### 10. Horizontal Rule
-
-Usage: dividing certain sections.
-
----
-
-## Extended Syntax
-
-This part lists the elements which extend the basic syntax by adding more features. Note: some elements are not supported by certain Markdown applications.
-
-### 1. Task list
-
-- [ ] to do
-- [x] done
-
-### 2. Strikethrough
-
-~~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Some texts need to be strikethrough. Duis aute irure dolor in reprehenderit in dolore eu fugiat nulla pariatur.~~
-
-### 3. Table
-
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Practice, practice, practice

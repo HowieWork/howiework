@@ -11,103 +11,67 @@ imageSrc: '../../documents/post/image/what-ive-learned-about-architecture-and-we
 readMoreUrl: '/posts/what-ive-learned-about-architecture-and-web-development'
 ---
 
-_This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it._
+_With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts._
 
-**UPDATE 12/29/2021:** Initial post commit. Update will give audience the latest update of this post. What has been changed or what links has been added. For example, [an empty helpful link](https://www.example.com).
+**UPDATE 01/04/2022:** Complete initial post narration.
 
-## Basic Syntax
+## Intro
 
-This part lists the elements supported by all Markdown applications.
+I devoted seven years in studying architectural design with a Bachelor and Master of Architecture degrees. While at graduate school, I worked as a Graphic Designer for the University of Virginia Athletics and a Research Assistant for Beta-field (Alterior Office). I have worked for a global architectural, urban planning, and engineering firm - SOM and an American commercial real estate company - WeWork.
 
-### 1. Headings
+I have assisted senior staff with all aspects of architecture, from schematic design to construction documents. I conceived and drafted iterations of renovations in CAD/Revit based on the architects' sketches.
 
-Usage: for post titles, subtitles.
+## The school life
 
-## I am Heading 2
+Usually, architecture students devote more time than others in school. Since we have our own classroom called Studio.
 
-### No. I am Heading 3
+During studio time, we sketch a lot. Sketching is a way of thinking and it works well for showing your working process. There is no limit on ways of presenting your design ideas. It could be a "fancy" model, or as simple as a paper model. Most valuable lessons I learned about design are not from final/mid-term presentations but fragmented studio critics. So review the working process constantly matters. School is a place not only for study, but also to grow my future network.
 
-### 2. Paragraph
+## A fast-pace giant unicorn
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. **Some strong fonts.** Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It was challenging to work in a high-tech, new age unicorn (WeWork) as a recent graduate from a tranditional education background. I have to admit it opens a whole new world in front of me. And I feel there is so much potential with the skills I have learned outside architecture.
 
-### 3. Ordered List
+Though my title as architectural designer, technically, WeWork should not be considered as an architecture firm. They adopt a whole new approach driven by data. Rapidly updating design based on numbers makes it more meaningful and efficient. Also, It is important for designer to work with people from different backgrounds. Sometimes, it will crash different and unexpected spark.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
+Make good design a part of the business strategy appears crucial in reaching your clients in a memorable way and creating a better experience for your customers. There is no such thing called "comfort zone" for designers working for a fast-paced tech unicorn.
 
-### 4. Unordered List
+## International cooperation
 
-- Serrae enim Etruscam aquis
-- Et premis et flumine frontem minatur oppressos
-- Inquam rector Icarus possum vim tumulo propiusque
+Future seems to be settled if you find a position in an international cooperation as an architect. Seniors will tell those young newcomers to learn to be patient in company. Be patient and keep learning is the essence if you want to make a way out of architecture. Below are some hard lessons I learned:
 
-### 5. Blockquote
+1. Fulfill a comprehensive understanding of the design process from strategy phase to architecture design, to construction & development through practice.
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
+2. Cross-disciplinary collaboration not only accelerates the work-flow but also brings so much fun.
 
-### 6. Footnote
+3. The ability to craft a good design is not enough, one has to be able to "sell" the ideas to the team and stakeholders.
 
-Here's a sentence with a footnote. [^1]
+4. Communicate proactively with PM and understand project performance through financial metrics can avoid over-design and make the designer's life easier. A designer who can think business "wins".
 
-[^1]: This is the footnote.
+## Transition into tech industry
 
-### 7. Code Snippet
+"Howie is super creative, graphically articulate concepts beautifully, and is a lot of fun to work with." said my former supervisor also my mentor - Jason DeChambeau, who was Associate Director at SOM.
 
-Inline code example: `<inline code>`; Below is two language examples for code block:
+We worked on an interior project together. Jason was super supportive when we had the idea of creating virtual experiences using VR as a part of our presentation for the client. After a quick analysis, learning precedents, and several iterations with colleagues, it turned out quite well. I was thrilled with the client's positive reactions. This is just one of those examples when I gradually realize my true interest in design.
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+Though architecture projects take way more time than digital products, I am still fascinated by how those tech-side trends "intrude" into the traditional strategy phase for architecture. For example, Design Sprint highly affects the way how architects propose their concepts at the strategy phase. New artifacts and interfaces broaden architects' horizon of how to present projects more humanely.
 
-```js
-// THIS IS A COMMENT EXAMPLE
-function createClassNameString(classNames) {
-  return classNames.join(' ');
-}
-```
+Besides, architects start with analysis, which cares more about the large context than the user. Personally, understanding the context is crucial; but how to leverage the role as a user is one issue I care more about.
 
-### 8. Link
+After a few years in architecture, I soon found myself needing a change and a desire to find a more creative outlet for myself.
 
-Haec Praepes [Link Title](https://www.example.com), in egisse de. Caecisque termanus.
+## Web development
 
-Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
+My interests in web development starts with product design. It appeals to me because it embodies many elements of architecture design including empathy, usability (function) & aesthetic (form), and understanding the context in different scales. Also, there's a tendency that the ability to think like a designer needs to be highly valued in the tech industry.
 
-### 9. Image
+It is a challenge for me to identify and understand commons/differences between the two industries. But I believe the drawbacks I experienced in the past are those triggers, encouraging me to explore more outside architecture.
 
-Image: 100% width.
+So, I decided to immerse myself, learning as efficiently as possible and working on side projects as many as I can.
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+## Skills in common
 
-### 10. Horizontal Rule
+As I complete a couple of projects in web development, I gradually find some skills shared in common between architecture and web development.
 
-Usage: dividing certain sections.
+### Design phase
 
----
-
-## Extended Syntax
-
-This part lists the elements which extend the basic syntax by adding more features. Note: some elements are not supported by certain Markdown applications.
-
-### 1. Task list
-
-- [ ] to do
-- [x] done
-
-### 2. Strikethrough
-
-~~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Some texts need to be strikethrough. Duis aute irure dolor in reprehenderit in dolore eu fugiat nulla pariatur.~~
-
-### 3. Table
-
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You probably will argue why to include design phase.
+For me, having a full grasp of product design is crucial for developers. It usually answers how and why we code that way and make our design system more intuitive and flexible.
