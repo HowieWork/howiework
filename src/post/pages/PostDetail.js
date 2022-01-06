@@ -17,6 +17,7 @@ const PostDetail = () => {
     const url = window.location.href.split('/');
     const fileName = url[url.length - 1].concat('.md');
 
+    // NOTE ALTERNATIVE: useSWR CUSTOM HOOK BY NEXTJS TEAM
     fetch(`${process.env.PUBLIC_URL}/documents/post/${fileName}`)
       .then((res) => res.text())
       .then((res) => {
@@ -26,6 +27,7 @@ const PostDetail = () => {
         setIsLoading(false);
       })
       .catch((err) => {
+        // FIXME HANDLE ERROR
         console.log(err);
       });
   }, []);
@@ -81,7 +83,10 @@ const PostDetail = () => {
     },
   };
 
-  if (isLoading) return <p>loading...</p>;
+  // TODO STYLING LOADING AND NO DATA YET
+  if (isLoading) return <p>Loading...</p>;
+
+  if (!postData || !postContent) return <p>No data yet.</p>;
 
   return (
     <div className='center-flex-column responsive-width post-detail-container'>

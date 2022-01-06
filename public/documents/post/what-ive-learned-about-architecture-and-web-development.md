@@ -2,10 +2,10 @@
 category: 'programming'
 title: "What I've learned about architecture and web development"
 slug: 'what-ive-learned-about-architecture-and-web-development'
-date: 'Dec 29, 2021'
-duration: 'X min read'
-keywords: ['web', 'development', 'architecture', 'study']
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+date: 'Jan 6, 2022'
+duration: '12 min read'
+keywords: ['web', 'development', 'architecture']
+excerpt: 'With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts.'
 isFeatured: true
 imageSrc: '../../documents/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp'
 readMoreUrl: '/posts/what-ive-learned-about-architecture-and-web-development'
@@ -13,7 +13,7 @@ readMoreUrl: '/posts/what-ive-learned-about-architecture-and-web-development'
 
 _With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts._
 
-**UPDATE 01/04/2022:** Complete initial post narration.
+**UPDATE 01/06/2022:** Complete first post draft.
 
 ## Intro
 
@@ -29,7 +29,7 @@ During studio time, we sketch a lot. Sketching is a way of thinking and it works
 
 ## A fast-pace giant unicorn
 
-It was challenging to work in a high-tech, new age unicorn (WeWork) as a recent graduate from a tranditional education background. I have to admit it opens a whole new world in front of me. And I feel there is so much potential with the skills I have learned outside architecture.
+It was challenging to work in a high-tech, new age unicorn (WeWork) as a recent graduate from a traditional education background. I have to admit it opens a whole new world in front of me. And I feel there is so much potential with the skills I have learned outside architecture.
 
 Though my title as architectural designer, technically, WeWork should not be considered as an architecture firm. They adopt a whole new approach driven by data. Rapidly updating design based on numbers makes it more meaningful and efficient. Also, It is important for designer to work with people from different backgrounds. Sometimes, it will crash different and unexpected spark.
 
@@ -71,7 +71,33 @@ So, I decided to immerse myself, learning as efficiently as possible and working
 
 As I complete a couple of projects in web development, I gradually find some skills shared in common between architecture and web development.
 
-### Design phase
+### Design and communication
 
-You probably will argue why to include design phase.
+You probably will argue why to include design.
 For me, having a full grasp of product design is crucial for developers. It usually answers how and why we code that way and make our design system more intuitive and flexible.
+
+Working in web development requires understanding of creative thinking and design concepts. So we can better code font-end applications. They all work together. Lack of design knowledge can often times make you less confident of what you are coding.
+
+Communication between designer and developer is a crucial part for products. It is true for a group of developers working together. Not only follow professional rules, we also find people with good communication skills tend to get promoted more often. I understand there is a developer prototype out there. But generally speaking, in order to produce some products can be accepted by more audience, we need to craft our communication skills. Have own Youtube channels, Twitter account, your personal blog are all good platforms to communicate with your audience.
+
+### Analytical and problem-solving
+
+Design thinking, abstraction, and integration are three essential skills in architecture. I find in web development, having these skills also help you to organize your projects and collaborate with others.
+
+Design thinking is all about re-iteration. We need constantly rethink our previous work, make some improvements and generate the next. In web development, it is called Version control. I wish I could know Git during my architecture, so I can always go back to my previous work without creating a bunch of files.
+
+Abstraction is how you can abstract certain concepts into simple, easy understand ideas. Integration is to combine different fields of work systematically. In web development, it is all about abstraction of knowledge. As an early learner, we have to grasp those concepts quickly. Then integrate what we have learned and build our own system, or library. So based on various situations, we can simply pick and apply.
+
+### Business knowledge
+
+It is still arguable whether business knowledge helps. But there is a saying 'Nowadays, designer/developer know business wins.' I agree with it. Even you may not be an ambitious designer/developer, still understanding how business work help you progress along your career.
+
+Not speaking, a chunk of developers' job is to analyse how products perform in the market. I learned this hard lesson from my working experience with WeWork in New York City. During group meeting, Developers and designers in the team need to understand what is really going on in the business market how it will guide their future work.
+
+Specifically, data analysis, business plans, scheduling, project management and market research. I know these are a lot. But even simply scratch the surface will help us better understand what we are working on and how we can improve it along the way.
+
+## Conclusion
+
+2021 is the year I really start to think making my career change and take actions to learn web development. Also, I got time to reflect my previous experiences and think about what is the right path for me.
+
+Architecture prepares me with patient and hard-working spirits while web development encourages me to step outside my comfort zone and see what is really changing our world daily. What I need to know life is about balance. I need to balance well the things I learned. Keep learning, moving forward and never forget what is my true passion.

@@ -5,13 +5,13 @@ slug: 'thoughts-about-self-teaching-web-development'
 date: 'Dec 29, 2021'
 duration: 'X min read'
 keywords: ['markdown', 'CSS', 'template']
-excerpt: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+excerpt: 'I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress.'
 isFeatured: true
 imageSrc: '../../documents/post/image/thoughts-about-self-teaching-web-development/cover.webp'
 readMoreUrl: '/posts/thoughts-about-self-teaching-web-development'
 ---
 
-_I share my toughts about self-teching web development in this post. It will be updated based on my learning progress._
+_I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress._
 
 **UPDATE 01/04/2022:** Draft initial post skeleton.
 
