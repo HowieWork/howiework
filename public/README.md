@@ -24,22 +24,18 @@
   <h3>TITLE / SUBTITLE</h3>
 
   <p>
-   A photo sharing platform for people who love architecture!
+   APPLICATION DESCRIPTION
   </p>
 
   <br />
 
   <!-- PROJECT LINKS -->
   <div align="center">
-    <a href="https://howiework.github.io/snap-app/" target="_blank"><strong>Demo</strong></a>
+    <a href="#" target="_blank"><strong>Demo</strong></a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template" target="_blank"><strong>GitHub</strong></a>
+    <a href="#" target="_blank"><strong>GitHub</strong></a>
     ·
     <a href="#contact"><strong>Contact</strong></a>
-    <!-- 
-    ·
-    <a href="#"><strong>REPORT/REQUEST</strong></a> 
-    -->
   </div>
   <br />
 </div>
@@ -73,20 +69,16 @@
 <br />
 
 <div align="center">
-  <img src="assets/site-screenshot.webp" width="720" >
+  <img src="#" width="720" alt="APP SCREENSHOT">
 </div>
 
 <br />
 
-Remember saw some inspiring architecture photos, but have no idea where it is?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Want to share your photos with like-mined people?
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-Trying to learn more about specific architecture?
-
-Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together.
-
-Snap aims to create a community and encourage audience get inspired and live a better life.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br />
 
@@ -100,42 +92,22 @@ Snap aims to create a community and encourage audience get inspired and live a b
 
 ## Features
 
-### Share
+### Feature 1
 
-Upload a snap and share with others
+FEATURE 1 DESCRIPTION
 
 <div align="center">
-  <img src="assets/share-screenshot.webp" width="720" align="center">
+  <img src="#" width="720" align="center">
 </div>
 
 <br />
 
-### Navigate
+### Feature 2
 
-Pick one snap interests you. See where it is.
-
-<div align="center">
-  <img src="assets/navigate-screenshot.webp" width="720" align="center">
-</div>
-
-<br />
-
-### Architecture
-
-Delve into unique architecture around the world. Be inspired.
+FEATURE 2 DESCRIPTION
 
 <div align="center">
-  <img src="assets/architecture-screenshot.webp" width="720" align="center">
-</div>
-
-<br />
-
-### Plan
-
-Explore selected tons of tours. Plan a visit.
-
-<div align="center">
-  <img src="assets/plan-screenshot.webp" width="720" align="center">
+  <img src="#" width="720" align="center">
 </div>
 
 <br />
