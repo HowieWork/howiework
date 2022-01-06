@@ -1,5 +1,5 @@
 ---
-category: 'tutorial'
+category: 'programming'
 title: 'Markdown Post Template'
 slug: 'markdown-post-template'
 date: 'Dec 29, 2021'

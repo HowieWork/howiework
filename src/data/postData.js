@@ -22,11 +22,11 @@ export const POST_DATA = [
     category: 'programming',
     title: "What I've learned about architecture and web development",
     slug: 'what-ive-learned-about-architecture-and-web-development',
-    date: 'Dec 29, 2021',
-    duration: 'X min read',
-    keywords: ['web', 'development', 'architecture', 'study'],
+    date: 'Jan 6, 2022',
+    duration: '12 min read',
+    keywords: ['web', 'development', 'architecture'],
     excerpt:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts.',
     isFeatured: true,
     imageSrc:
       '../../documents/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp',
@@ -39,9 +39,9 @@ export const POST_DATA = [
     slug: 'how-i-built-my-first-mern-project',
     date: 'Dec 29, 2021',
     duration: 'X min read',
-    keywords: ['markdown', 'CSS', 'template'],
+    keywords: ['fullstack', 'MERN', 'app'],
     excerpt:
-      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'This post documents how I built my first MERN project - Snap App. It is a photo sharing platform for people who love architecture. It will focus on the general process and key concepts.',
     isFeatured: true,
     imageSrc:
       '../../documents/post/image/how-i-built-my-first-mern-project/cover.webp',
@@ -51,18 +51,18 @@ export const POST_DATA = [
     category: 'programming',
     title: 'Thoughts about self-teaching web development',
     slug: 'thoughts-about-self-teaching-web-development',
-    date: 'Dec 29, 2021',
-    duration: 'X min read',
-    keywords: ['markdown', 'CSS', 'template'],
+    date: 'Jan 6, 2022',
+    duration: '8 min read',
+    keywords: ['self-teach', 'web', 'development', 'programming'],
     excerpt:
-      'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
+      'I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress.',
     isFeatured: true,
     imageSrc:
       '../../documents/post/image/thoughts-about-self-teaching-web-development/cover.webp',
     readMoreUrl: '/posts/thoughts-about-self-teaching-web-development',
   },
   {
-    category: 'programming',
+    category: 'PLACEHOLDER',
     title: 'How to build a flexible React button',
     slug: 'how-to-build-a-flexible-react-button',
     date: 'Dec 29, 2021',
@@ -70,7 +70,7 @@ export const POST_DATA = [
     keywords: ['markdown', 'CSS', 'template'],
     excerpt:
       'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    isFeatured: true,
+    isFeatured: false,
     imageSrc:
       '../../documents/post/image/how-to-build-a-flexible-react-button/cover.webp',
     readMoreUrl: '/posts/how-to-build-a-flexible-react-button',
@@ -80,11 +80,11 @@ export const POST_DATA = [
     title: 'Markdown Post Template',
     slug: 'markdown-post-template',
     date: 'Dec 29, 2021',
-    duration: 'X min read',
-    keywords: ['markdown', 'CSS', 'template'],
+    duration: '2 min read',
+    keywords: ['markdown', 'CSS', 'template', 'tutorial'],
     excerpt:
-      'Diam sit amet nisl suscipit adipiscing bibendum. In hendrerit gravida rutrum quisque non tellus orci ac auctor. Justo nec ultrices dui sapien eget mi proin. Velit egestas dui id ornare arcu odio ut sem.',
-    isFeatured: false,
+      'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.',
+    isFeatured: true,
     imageSrc: '../../documents/post/image/markdown-post-template/cover.webp',
     readMoreUrl: 'posts/markdown-post-template',
   },
@@ -100,6 +100,19 @@ export const POST_DATA = [
     isFeatured: false,
     imageSrc: '../../documents/post/image/museum/cover.webp',
     readMoreUrl: 'posts/museum',
+  },
+  {
+    category: 'design',
+    title: 'NMAAHC',
+    slug: 'nmaahc',
+    date: 'Jan 1, 2020',
+    duration: '5 min read',
+    keywords: ['Branding', 'Design', 'Museum'],
+    excerpt:
+      'I have been working on a museum app during the past month. This post documents the branding pard of this project.',
+    isFeatured: false,
+    imageSrc: '../../documents/post/image/nmaahc/cover.webp',
+    readMoreUrl: 'posts/nmaahc',
   },
   {
     category: 'architecture',
