@@ -23,7 +23,7 @@ const App = () => {
 
   const toggleDarkTheme = () => {
     document.body.classList.toggle('dark-theme');
-    setIsDarkTheme(!isDarkTheme);
+    setIsDarkTheme((prevState) => !prevState);
   };
 
   // SYNC WITH SYSTEM COLOR THEME

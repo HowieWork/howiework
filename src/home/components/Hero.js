@@ -32,14 +32,14 @@ const Hero = () => {
         <p>
           Howie is a front-end focused web developer based in US with a
           background of architecture. He loves design and technologies. He
-          belives “There are no boundaries between medium.”
+          believes “There are no boundaries between medium.”
         </p>
         <p>
           Howie self-taught web development. His current focus includes React,
           Next.js and Node.js. His diverse background equips him with both
           design and develop skills.
         </p>
-        <p>Currently, he is working on his own product called Snap App.</p>
+        <p>Currently, he is working on his own product called Lunch Break.</p>
       </div>
 
       {/* HERO CTA */}
