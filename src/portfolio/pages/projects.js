@@ -13,7 +13,7 @@ const Projects = () => {
   const [isShowMoreClicked, setIsShowMoreClicked] = useState(false);
 
   const checkboxChangeHandler = () => {
-    setIsChecked(!isChecked);
+    setIsChecked((prevState) => !prevState);
   };
 
   const onClickShowMoreHandler = () => {

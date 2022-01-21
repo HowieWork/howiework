@@ -7,7 +7,7 @@ const Interaction = () => {
   const [isChecked, setIsChecked] = useState(true);
 
   const checkboxChangeHandler = () => {
-    setIsChecked(!isChecked);
+    setIsChecked((prevState) => !prevState);
   };
 
   const scrollToContactSection = (event) => {
