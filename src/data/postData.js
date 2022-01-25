@@ -20,6 +20,20 @@ NOTE POST DATA TEMPLATE
 export const POST_DATA = [
   {
     category: 'programming',
+    title: 'Build a more advanced blog site',
+    slug: 'build-a-more-advanced-blog-site',
+    date: 'Jan 24, 2022',
+    duration: '7 min read',
+    keywords: ['next.js', 'react', 'blog', 'fullstack'],
+    excerpt:
+      'I have been rethinking a better way of building blog site. Lunch Break is a more advanced blog site built with Next.js. It will include features like authentication (user sign up and log in), newsletter subscription feature, show all/featured posts, filter posts, comments etc.',
+    isFeatured: true,
+    imageSrc:
+      '../../documents/post/image/build-a-more-advanced-blog-site/cover.webp',
+    readMoreUrl: '/posts/build-a-more-advanced-blog-site',
+  },
+  {
+    category: 'programming',
     title: "What I've learned about architecture and web development",
     slug: 'what-ive-learned-about-architecture-and-web-development',
     date: 'Jan 6, 2022',
@@ -32,20 +46,6 @@ export const POST_DATA = [
       '../../documents/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp',
     readMoreUrl:
       '/posts/what-ive-learned-about-architecture-and-web-development',
-  },
-  {
-    category: 'programming',
-    title: 'How I built my first MERN project',
-    slug: 'how-i-built-my-first-mern-project',
-    date: 'Dec 29, 2021',
-    duration: 'X min read',
-    keywords: ['fullstack', 'MERN', 'app'],
-    excerpt:
-      'This post documents how I built my first MERN project - Snap App. It is a photo sharing platform for people who love architecture. It will focus on the general process and key concepts.',
-    isFeatured: true,
-    imageSrc:
-      '../../documents/post/image/how-i-built-my-first-mern-project/cover.webp',
-    readMoreUrl: '/posts/how-i-built-my-first-mern-project',
   },
   {
     category: 'programming',
@@ -62,6 +62,34 @@ export const POST_DATA = [
     readMoreUrl: '/posts/thoughts-about-self-teaching-web-development',
   },
   {
+    category: 'programming',
+    title: 'Markdown Post Template',
+    slug: 'markdown-post-template',
+    date: 'Dec 29, 2021',
+    duration: '2 min read',
+    keywords: ['markdown', 'CSS', 'template', 'tutorial'],
+    excerpt:
+      'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.',
+    isFeatured: true,
+    imageSrc: '../../documents/post/image/markdown-post-template/cover.webp',
+    readMoreUrl: 'posts/markdown-post-template',
+  },
+  {
+    category: 'TODOPLACEHOLDER',
+    title: 'How I built my first MERN project',
+    slug: 'how-i-built-my-first-mern-project',
+    date: 'Dec 29, 2021',
+    duration: 'X min read',
+    keywords: ['fullstack', 'MERN', 'app'],
+    excerpt:
+      'This post documents how I built my first MERN project - Snap App. It is a photo sharing platform for people who love architecture. It will focus on the general process and key concepts.',
+    isFeatured: false,
+    imageSrc:
+      '../../documents/post/image/how-i-built-my-first-mern-project/cover.webp',
+    readMoreUrl: '/posts/how-i-built-my-first-mern-project',
+  },
+
+  {
     category: 'PLACEHOLDER',
     title: 'How to build a flexible React button',
     slug: 'how-to-build-a-flexible-react-button',
@@ -75,19 +103,7 @@ export const POST_DATA = [
       '../../documents/post/image/how-to-build-a-flexible-react-button/cover.webp',
     readMoreUrl: '/posts/how-to-build-a-flexible-react-button',
   },
-  {
-    category: 'programming',
-    title: 'Markdown Post Template',
-    slug: 'markdown-post-template',
-    date: 'Dec 29, 2021',
-    duration: '2 min read',
-    keywords: ['markdown', 'CSS', 'template', 'tutorial'],
-    excerpt:
-      'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.',
-    isFeatured: true,
-    imageSrc: '../../documents/post/image/markdown-post-template/cover.webp',
-    readMoreUrl: 'posts/markdown-post-template',
-  },
+
   {
     category: 'design',
     title: 'Museum',
@@ -113,6 +129,19 @@ export const POST_DATA = [
     isFeatured: false,
     imageSrc: '../../documents/post/image/nmaahc/cover.webp',
     readMoreUrl: 'posts/nmaahc',
+  },
+  {
+    category: 'design',
+    title: 'Lunch Break',
+    slug: 'lunch-break',
+    date: 'Spring, 2019',
+    duration: '5 min read',
+    keywords: ['Branding', 'Design', 'Blog'],
+    excerpt:
+      'A product that helps people to kill the time during their lunch break.',
+    isFeatured: false,
+    imageSrc: '../../documents/post/image/lunch-break/cover.webp',
+    readMoreUrl: '/posts/lunch-break',
   },
   {
     category: 'architecture',

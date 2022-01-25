@@ -33,6 +33,6 @@ export const DESIGN_DATA = [
     description:
       'A product that helps people to kill the time during their lunch break.',
     imageSrc: '/assets/design/design-lunchbreak-cover.webp',
-    readMoreUrl: null,
+    readMoreUrl: '/posts/lunch-break',
   },
 ];

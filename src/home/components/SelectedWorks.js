@@ -17,6 +17,7 @@ const SelectedWorks = () => {
         demoUrl='https://howiework.github.io/snap-app/'
         gitHubUrl='https://github.com/HowieWork/snap-app'
       />
+      {/* TODO ADD LUNCH BREAK */}
       <ProjectItem
         view='grid'
         type='design'
