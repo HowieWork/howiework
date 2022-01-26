@@ -51,7 +51,7 @@ Future seems to be settled if you find a position in an international cooperatio
 
 "Howie is super creative, graphically articulate concepts beautifully, and is a lot of fun to work with." said my former supervisor also my mentor - Jason DeChambeau, who was Associate Director at SOM.
 
-We worked on an interior project together. Jason was super supportive when we had the idea of creating virtual experiences using VR as a part of our presentation for the client. After a quick analysis, learning precedents, and several iterations with colleagues, it turned out quite well. I was thrilled with the client's positive reactions. This is just one of those examples when I gradually realize my true interest in design.
+We worked on an interior project together. Jason was super supportive when we had the idea of creating virtual experiences using VR as a part of our presentation for the client. After a quick analysis, learning precedents, and several iterations with colleagues, it turned out quite well. I was thrilled with the client's positive reactions. This is just one of those examples when I gradually realize my true interest in tech industry.
 
 Though architecture projects take way more time than digital products, I am still fascinated by how those tech-side trends "intrude" into the traditional strategy phase for architecture. For example, Design Sprint highly affects the way how architects propose their concepts at the strategy phase. New artifacts and interfaces broaden architects' horizon of how to present projects more humanely.
 

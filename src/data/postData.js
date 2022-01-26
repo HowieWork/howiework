@@ -70,9 +70,22 @@ export const POST_DATA = [
     keywords: ['markdown', 'CSS', 'template', 'tutorial'],
     excerpt:
       'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.',
-    isFeatured: true,
+    isFeatured: false,
     imageSrc: '../../documents/post/image/markdown-post-template/cover.webp',
     readMoreUrl: 'posts/markdown-post-template',
+  },
+  {
+    category: 'programming',
+    title: 'How I learn Next.js',
+    slug: 'how-i-learn-nextjs',
+    date: 'Jan 23, 2022',
+    duration: '17 min read',
+    keywords: ['next', 'framework', 'react', 'tutorial'],
+    excerpt:
+      'This post documents my progress of learning Next.js from start to end. It includes roadmap, key concepts, multiple side project and final personal project.',
+    isFeatured: true,
+    imageSrc: '../../documents/post/image/how-i-learn-nextjs/cover.webp',
+    readMoreUrl: 'posts/how-i-learn-nextjs',
   },
   {
     category: 'TODOPLACEHOLDER',

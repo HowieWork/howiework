@@ -19,11 +19,11 @@ _I have been rethinking a better way of building blog site. Lunch Break is a mor
 
 Two short stories inspire me of creating a more advanced blog site called LunchBreak.
 
-Initially, LunchBreak is a personal WeChat Official Account (aka. OA) I created and have been managing since the end of 2018. While still working as a full-time architectural designer, I came up with the idea of creating a blog site during my lunch breaks. It aims to help people to grow a positive mindset and live a better life by sharing design and psychology knowledge. I also posted [full story of LunchBreak](FIXMEFULLSTORYOFLUNCHBREAK.COM).
+Initially, LunchBreak is a personal WeChat Official Account (aka. OA) I created and have been managing since the end of 2018. While still working as a full-time architectural designer, I came up with the idea of creating a blog site during my lunch breaks. It aims to help people to grow a positive mindset and live a better life by sharing design and psychology knowledge. I also posted [full story of LunchBreak](/posts/lunch-break).
 
-Near the end of 2021, I added a blog feature to [my newly updated portfolio site - howiework](FIXMEHOWIBUILTMYPORTFOLIOSITE.COM). That was the time when I am not familiar with Next.js and haven't built anything personal using this framework. Heard a lot of awesome features like file-based routing system, built-in server-side rendering.
+Near the end of 2021, I added a blog feature to [my newly updated portfolio site - howiework](/). That was the time when I am not familiar with Next.js and haven't built anything personal using this framework. Heard a lot of awesome features like file-based routing system, built-in server-side rendering.
 
-After all, I decide to bring my own design to the web and code my own platform using Next.js. This project starts with prepared content. The main challenge is to how to create the 'shell'. Meanwhile, I am taking [a complete Next.js course](FIXMEHOWILEARNNEXTJS.COM) and having a goal of building something personal while taking online courses could be very beneficial.
+After all, I decide to bring my own design to the web and code my own platform using Next.js. This project starts with prepared content. The main challenge is to how to create the 'shell'. Meanwhile, I am taking [a complete Next.js course](/posts/how-i-learn-nextjs) and having a goal of building something personal while taking online courses could be very beneficial.
 
 ### Ideation
 
