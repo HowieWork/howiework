@@ -1,6 +1,9 @@
 import { useState } from 'react';
+import { MdKeyboardArrowDown } from 'react-icons/md';
+
 import Checkbox from '../../shared/components/FormElements/Checkbox';
 import Button from '../../shared/components/FormElements/Button';
+
 import './Interaction.css';
 
 const Interaction = () => {
@@ -176,7 +179,7 @@ const Interaction = () => {
             </div>
 
             <div className='center-flex-row interactive-scroll'>
-              PLEASE SCROLL
+              <MdKeyboardArrowDown size='2.4rem' />
             </div>
           </div>
         )}

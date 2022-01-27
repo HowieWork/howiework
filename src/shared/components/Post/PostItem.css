@@ -14,6 +14,12 @@
   object-fit: cover;
 
   border-radius: 0.6rem;
+
+  transition: transform 0.3s ease-in-out;
+}
+
+.featured-post-image:hover {
+  transform: scale(1.02);
 }
 
 .featured-post-title {

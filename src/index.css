@@ -55,7 +55,11 @@ GREYS
 #6f6f6f (lightest grey allowed on #fdf2e9)
 #fafafa (body background) #555 #333
 
---- NOTE 03 SHADOWS ---
+IMPORTANT UPDATING COLOR SCHEME
+#e7ece6
+#dce4e6
+#e7d6c3
+
 Card: 0 7px 30px -10px rgba(150, 170, 180, 0.4);
 Card:hover: 0 7px 30px -10px rgba(150, 170, 180, 0.9);
 

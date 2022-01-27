@@ -12,15 +12,27 @@ export const APP_DATA = [
   },
   {
     type: 'app',
-    title: 'Modal',
-    slug: 'modal',
-    technologyList: ['HTML', 'CSS', 'JavaScript'],
+    title: 'Lunch Break',
+    slug: 'lunch-break',
+    technologyList: ['Next', 'React', 'MongoDB', 'Vercel'],
     description:
-      'Modal is a simple app introducing philosophy about Death and Living.',
-    imageSrc: '/assets/app/app-modal-cover.webp',
-    demoUrl: 'https://howiework.github.io/modal/',
-    gitHubUrl: 'https://github.com/HowieWork/modal',
+      'A blog site focus on work-life balance. Its content is around three topics: design, psychology and community.',
+    imageSrc: '/assets/app/app-lunch-break-cover.webp',
+    demoUrl: 'https://lunch-break.vercel.app/',
+    gitHubUrl: 'https://github.com/HowieWork/lunch-break/',
   },
+  // TODO BRING MODAL UPDATED PROJECT BACK
+  // {
+  //   type: 'app',
+  //   title: 'Modal',
+  //   slug: 'modal',
+  //   technologyList: ['HTML', 'CSS', 'JavaScript'],
+  //   description:
+  //     'Modal is a simple app introducing philosophy about Death and Living.',
+  //   imageSrc: '/assets/app/app-modal-cover.webp',
+  //   demoUrl: 'https://howiework.github.io/modal/',
+  //   gitHubUrl: 'https://github.com/HowieWork/modal',
+  // },
 ];
 
 export const TUTORIAL_APP_DATA = [

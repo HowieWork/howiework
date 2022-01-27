@@ -169,7 +169,7 @@ Considering this app contains both FE and BE, workflow would be:
 
 I chose Vercel, for production deployment and optimization, and GitHub, for storing repository remotely.
 
-Links: LunchBreak [Demo](FIXMEDEMOLINK.COM) | [GitHub](FIXMEGITHUBLINK.COM)
+Links: LunchBreak [Demo](https://lunch-break.vercel.app/) | [GitHub](https://github.com/howiework/lunch-break/)
 
 ## Conclusion
 
@@ -179,8 +179,8 @@ Most importantly, I got a real project done and finally revived a formal design 
 
 ### Some useful links
 
-1. [How I learn Next.js](FIXMEHOWILEARNNEXTJS.COM)
-2. [How my website was built](FIXMEHOWIBUILTMYPORTFOLIOSITE.COM)
+1. [How I learn Next.js](/posts/how-i-learn-nextjs)
+2. [Story about Lunch Break](/posts/lunch-break)
 
 ### A side note: How this project correlates with [Next.js complete course](COURSE_LINK).
 
