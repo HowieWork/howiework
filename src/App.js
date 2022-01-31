@@ -12,7 +12,7 @@ import { ThemeContext } from './shared/context/theme-context';
 
 import Home from './home/pages/Home';
 import Projects from './portfolio/pages/Projects';
-// TODO IMPORT POSTS
+import ProjectDetail from './portfolio/pages/ProjectDetail';
 import Posts from './post/pages/Posts';
 import PostDetail from './post/pages/PostDetail';
 import Photos from './photography/pages/Photos';
@@ -51,15 +51,15 @@ const App = () => {
         <Projects />
       </Route>
       <Route path='/portfolio/app' exact></Route>
-      <Route path='/portfolio/app/:projectTitle' exact></Route>
-      <Route path='/portfolio/arch' exact></Route>
-      <Route path='/portfolio/arch/:projectTitle' exact></Route>
+      <Route path='/portfolio/app/:projectSlug' exact>
+        <ProjectDetail />
+      </Route>
 
       {/* POSTS */}
       <Route path='/posts' exact>
         <Posts />
       </Route>
-      <Route path='/posts/:postTitle' exact>
+      <Route path='/posts/:postSlug' exact>
         <PostDetail />
       </Route>
 

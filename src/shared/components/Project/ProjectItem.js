@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import Button from '../FormElements/Button';
 import './ProjectItem.css';
 
@@ -5,7 +6,30 @@ const ProjectItem = (props) => {
   // GRID VIEW
   if (props.view === 'grid') {
     // 1) APPS
-    if (props.type === 'app')
+    if (props.type === 'app') {
+      let cta;
+
+      if (props.viewProject) {
+        cta = (
+          <Button to={props.viewProject} secondary hoverUnderline>
+            View Project
+          </Button>
+        );
+      }
+
+      if (!props.viewProject) {
+        cta = (
+          <Fragment>
+            <Button href={props.demoUrl} secondary hoverUnderline targetBlank>
+              Demo
+            </Button>{' '}
+            |{' '}
+            <Button href={props.gitHubUrl} secondary hoverUnderline targetBlank>
+              GitHub
+            </Button>
+          </Fragment>
+        );
+      }
       return (
         <div className='project-container--grid'>
           <div className='project-title--grid'>{props.title}</div>
@@ -22,29 +46,12 @@ const ProjectItem = (props) => {
             )}
             <div className='project-description--grid'>
               <p>{props.description}</p>
-              <div className='project-cta--grid'>
-                <Button
-                  href={props.demoUrl}
-                  secondary
-                  hoverUnderline
-                  targetBlank
-                >
-                  Demo
-                </Button>{' '}
-                |{' '}
-                <Button
-                  href={props.gitHubUrl}
-                  secondary
-                  hoverUnderline
-                  targetBlank
-                >
-                  GitHub
-                </Button>
-              </div>
+              <div className='project-cta--grid'>{cta}</div>
             </div>
           </div>
         </div>
       );
+    }
 
     // 2) DESIGN
     if (props.type === 'design')

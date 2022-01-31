@@ -9,6 +9,7 @@ export const APP_DATA = [
     imageSrc: '/assets/app/app-snap-cover.webp',
     demoUrl: 'https://howiework.github.io/snap-app/',
     gitHubUrl: 'https://github.com/HowieWork/snap-app',
+    embedId: 'UEYlXDD5DRI',
   },
   {
     type: 'app',
@@ -20,6 +21,7 @@ export const APP_DATA = [
     imageSrc: '/assets/app/app-lunch-break-cover.webp',
     demoUrl: 'https://lunch-break.vercel.app/',
     gitHubUrl: 'https://github.com/HowieWork/lunch-break/',
+    embedId: 'jIDyerwpAXw',
   },
   // TODO BRING MODAL UPDATED PROJECT BACK
   // {
