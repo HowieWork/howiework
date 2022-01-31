@@ -147,7 +147,7 @@ export const POST_DATA = [
     category: 'design',
     title: 'Lunch Break',
     slug: 'lunch-break',
-    date: 'Spring, 2019',
+    date: '2019',
     duration: '5 min read',
     keywords: ['Branding', 'Design', 'Blog'],
     excerpt:
@@ -160,7 +160,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Sounding Ground',
     slug: 'sounding-ground',
-    date: 'Fall, 2017',
+    date: ' 2017',
     duration: '12 min read',
     keywords: ['park', 'history', 'sound', 'arch'],
     excerpt:
@@ -173,7 +173,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Inclusive Center',
     slug: 'inclusive-center',
-    date: 'Fall, 2016',
+    date: ' 2016',
     duration: '8 min read',
     keywords: ['inclusive', 'activity', 'center'],
     excerpt:
@@ -186,7 +186,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Talking to History',
     slug: 'talking-to-history',
-    date: 'Fall, 2013',
+    date: ' 2013',
     duration: '6 min read',
     keywords: ['history', 'preservation', 'expansion'],
     excerpt:
@@ -199,7 +199,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Appalachia',
     slug: 'appalachia',
-    date: 'Spring, 2017',
+    date: '2017',
     duration: '7 min read',
     keywords: ['mining', 'preservation', 'industrial'],
     excerpt:
@@ -212,7 +212,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Redefine Edge',
     slug: 'redefine-edge',
-    date: 'Spring, 2012',
+    date: '2012',
     duration: '4 min read',
     keywords: ['boundary', 'edge', 'preservation'],
     excerpt:
@@ -225,7 +225,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Urban Resilience',
     slug: 'urban-resilience',
-    date: 'Fall, 2014',
+    date: ' 2014',
     duration: '4 min read',
     keywords: ['urban', 'perservation', 'module'],
     excerpt:
@@ -238,7 +238,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Moon Village',
     slug: 'moon-village',
-    date: 'Spring, 2019',
+    date: '2019',
     duration: '3 min read',
     keywords: ['moon', 'village', 'future'],
     excerpt:
@@ -251,7 +251,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Anti-office',
     slug: 'anti-office',
-    date: 'Fall, 2018',
+    date: ' 2018',
     duration: '5 min read',
     keywords: ['interior', 'office', 'material'],
     excerpt:

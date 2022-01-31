@@ -70,7 +70,7 @@ server-side render, file-based routing, full-stack
 
 ```js
 // 1. DYNAMIC ROUTES
-<Link href={{ pathname: 'PATHNAME/[QUERY_NAME]', query: {QUERY_NAME: 'SOME_NAME'} }}>LINK NAME</Link>;
+<Link href='...'>LINK NAME</Link>;
 
 // 2. PROGRAMMATICALLY
 const router = useRouter();
