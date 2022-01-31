@@ -2,7 +2,7 @@
 category: 'architecture'
 title: 'Urban Resilience'
 slug: 'urban-resilience'
-date: 'Fall, 2014'
+date: ' 2014'
 duration: '4 min read'
 keywords: ['urban', 'perservation', 'module']
 excerpt: 'An innovative, urban-scale interpretive at a defunct Urban Village, also known as "Village in City" in developing countries. Investigate breathing new life into a pressing social issue. Portray a fresh, down-to-earth community life among high-density residential buildings.'

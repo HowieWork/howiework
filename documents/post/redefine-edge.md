@@ -2,7 +2,7 @@
 category: 'architecture'
 title: 'Redefine Edge'
 slug: 'redefine-edge'
-date: 'Spring, 2012'
+date: '2012'
 duration: '4 min read'
 keywords: ['boundary', 'edge', 'preservation']
 excerpt: 'A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature.'

@@ -2,7 +2,7 @@
 category: 'architecture'
 title: 'Inclusive Center'
 slug: 'inclusive-center'
-date: 'Fall, 2016'
+date: '2016'
 duration: '8 min read'
 keywords: ['inclusive', 'activity', 'center']
 excerpt: 'A proposal to build a new student center connecting a variety of academic and recreational functions & re-connecting existing buildings. Aim to engage more audience with physical disabilities by setting a fully integrated barrier-free system.'

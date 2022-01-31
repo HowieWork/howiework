@@ -2,7 +2,7 @@
 category: 'design'
 title: 'Lunch Break'
 slug: 'lunch-break'
-date: 'Spring, 2019'
+date: '2019'
 duration: '5 min read'
 keywords: ['Branding', 'Design', 'Blog']
 excerpt: 'A product that helps people to kill the time during their lunch break.'
