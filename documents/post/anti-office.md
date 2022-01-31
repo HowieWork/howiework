@@ -2,7 +2,7 @@
 category: 'architecture'
 title: 'Anti-office'
 slug: 'anti-office'
-date: 'Fall, 2018'
+date: '2018'
 duration: '5 min read'
 keywords: ['interior', 'office', 'material']
 excerpt: 'After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements.'
