@@ -24,6 +24,7 @@ const PostDetail = () => {
           .then((res) => res.text())
           .then((res) => {
             const { data, content } = matter(res);
+            console.log(data.imageSrc);
             setPostData(data);
             setPostContent(content);
             setIsLoading(false);

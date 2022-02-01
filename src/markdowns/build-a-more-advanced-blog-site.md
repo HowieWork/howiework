@@ -11,6 +11,8 @@ imageSrc: '../../documents/post/image/build-a-more-advanced-blog-site/cover.webp
 readMoreUrl: '/posts/build-a-more-advanced-blog-site'
 ---
 
+../../documents/post/image/build-a-more-advanced-blog-site/cover.webp
+
 _I have been rethinking a better way of building blog site. Lunch Break is a more advanced blog site built with Next.js. It will include features like authentication (user sign up and log in), newsletter subscription feature, show all/featured posts, filter posts, comments etc._
 
 **UPDATE 01/24/2022:** Update content after completion of blog site development.
