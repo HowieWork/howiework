@@ -2,7 +2,7 @@
 category: 'architecture'
 title: 'Talking to History'
 slug: 'talking-to-history'
-date: ' 2013'
+date: '2013'
 duration: '6 min read'
 keywords: ['history', 'preservation', 'expansion']
 excerpt: 'An expansion of a historical building built during the Republic of China. A project brings a balance between historical heritage and contemporary architectural technics.'

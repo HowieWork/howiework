@@ -160,7 +160,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Sounding Ground',
     slug: 'sounding-ground',
-    date: ' 2017',
+    date: '2017',
     duration: '12 min read',
     keywords: ['park', 'history', 'sound', 'arch'],
     excerpt:
@@ -173,7 +173,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Inclusive Center',
     slug: 'inclusive-center',
-    date: ' 2016',
+    date: '2016',
     duration: '8 min read',
     keywords: ['inclusive', 'activity', 'center'],
     excerpt:
@@ -186,7 +186,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Talking to History',
     slug: 'talking-to-history',
-    date: ' 2013',
+    date: '2013',
     duration: '6 min read',
     keywords: ['history', 'preservation', 'expansion'],
     excerpt:
@@ -225,7 +225,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Urban Resilience',
     slug: 'urban-resilience',
-    date: ' 2014',
+    date: '2014',
     duration: '4 min read',
     keywords: ['urban', 'perservation', 'module'],
     excerpt:
@@ -251,7 +251,7 @@ export const POST_DATA = [
     category: 'architecture',
     title: 'Anti-office',
     slug: 'anti-office',
-    date: ' 2018',
+    date: '2018',
     duration: '5 min read',
     keywords: ['interior', 'office', 'material'],
     excerpt:
