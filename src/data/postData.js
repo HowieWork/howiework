@@ -1,20 +1,6 @@
 // TODO HOW TO DYNAMICALLY IMPORT/EXTRACT ALL NEEDED DATA INFO FROM PUBLIC DOCUMENTS?
 /*
 CATEGORIES: programming; design; architecture
-
-NOTE POST DATA TEMPLATE
-{
-  category: 'SOME CATEGORY',
-  title: 'SOME TITLE',
-  slug: 'SLUG NAME',
-  date: 'Dec 29, 2021',
-  duration: 'X min read',
-  keywords: ['markdown', 'CSS', 'template'],
-  excerpt: 'SOME TEXT SOME TEXT SOME TEXT',
-  isFeatured: false,
-  imageSrc: '../../documents/post/image/POST-TITLE/IMAGE-NAME.IMAGE-FORMAT',
-  readMoreUrl: 'SOME URL',
-}
 */
 
 export const POST_DATA = [
@@ -28,8 +14,7 @@ export const POST_DATA = [
     excerpt:
       'I have been rethinking a better way of building blog site. Lunch Break is a more advanced blog site built with Next.js. It will include features like authentication (user sign up and log in), newsletter subscription feature, show all/featured posts, filter posts, comments etc.',
     isFeatured: true,
-    imageSrc:
-      '../../documents/post/image/build-a-more-advanced-blog-site/cover.webp',
+    imageSrc: 'documents/post/image/build-a-more-advanced-blog-site/cover.webp',
     readMoreUrl: '/posts/build-a-more-advanced-blog-site',
   },
   {
@@ -43,7 +28,7 @@ export const POST_DATA = [
       'With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts.',
     isFeatured: true,
     imageSrc:
-      '../../documents/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp',
+      'documents/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp',
     readMoreUrl:
       '/posts/what-ive-learned-about-architecture-and-web-development',
   },
@@ -58,7 +43,7 @@ export const POST_DATA = [
       'I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress.',
     isFeatured: true,
     imageSrc:
-      '../../documents/post/image/thoughts-about-self-teaching-web-development/cover.webp',
+      'documents/post/image/thoughts-about-self-teaching-web-development/cover.webp',
     readMoreUrl: '/posts/thoughts-about-self-teaching-web-development',
   },
   {
@@ -71,7 +56,7 @@ export const POST_DATA = [
     excerpt:
       'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/markdown-post-template/cover.webp',
+    imageSrc: 'documents/post/image/markdown-post-template/cover.webp',
     readMoreUrl: 'posts/markdown-post-template',
   },
   {
@@ -84,7 +69,7 @@ export const POST_DATA = [
     excerpt:
       'This post documents my progress of learning Next.js from start to end. It includes roadmap, key concepts, multiple side project and final personal project.',
     isFeatured: true,
-    imageSrc: '../../documents/post/image/how-i-learn-nextjs/cover.webp',
+    imageSrc: 'documents/post/image/how-i-learn-nextjs/cover.webp',
     readMoreUrl: 'posts/how-i-learn-nextjs',
   },
   {
@@ -98,7 +83,7 @@ export const POST_DATA = [
       'This post documents how I built my first MERN project - Snap App. It is a photo sharing platform for people who love architecture. It will focus on the general process and key concepts.',
     isFeatured: false,
     imageSrc:
-      '../../documents/post/image/how-i-built-my-first-mern-project/cover.webp',
+      'documents/post/image/how-i-built-my-first-mern-project/cover.webp',
     readMoreUrl: '/posts/how-i-built-my-first-mern-project',
   },
 
@@ -113,7 +98,7 @@ export const POST_DATA = [
       'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     isFeatured: false,
     imageSrc:
-      '../../documents/post/image/how-to-build-a-flexible-react-button/cover.webp',
+      'documents/post/image/how-to-build-a-flexible-react-button/cover.webp',
     readMoreUrl: '/posts/how-to-build-a-flexible-react-button',
   },
 
@@ -127,7 +112,7 @@ export const POST_DATA = [
     excerpt:
       'I have been working on a museum app during the past month. This post documents the working process from research to wireframming to prototyping in great detail.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/museum/cover.webp',
+    imageSrc: 'documents/post/image/museum/cover.webp',
     readMoreUrl: 'posts/museum',
   },
   {
@@ -140,7 +125,7 @@ export const POST_DATA = [
     excerpt:
       'I have been working on a museum app during the past month. This post documents the branding pard of this project.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/nmaahc/cover.webp',
+    imageSrc: 'documents/post/image/nmaahc/cover.webp',
     readMoreUrl: 'posts/nmaahc',
   },
   {
@@ -153,7 +138,7 @@ export const POST_DATA = [
     excerpt:
       'A product that helps people to kill the time during their lunch break.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/lunch-break/cover.webp',
+    imageSrc: 'documents/post/image/lunch-break/cover.webp',
     readMoreUrl: '/posts/lunch-break',
   },
   {
@@ -166,7 +151,7 @@ export const POST_DATA = [
     excerpt:
       'A redesign for Market Street Park, a public park in Charlottesville after the proposed removal of the Robert Edward Lee sculpture on the site by the city council',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/sounding-ground/cover.webp',
+    imageSrc: 'documents/post/image/sounding-ground/cover.webp',
     readMoreUrl: 'posts/sounding-ground',
   },
   {
@@ -179,7 +164,7 @@ export const POST_DATA = [
     excerpt:
       'A proposal to build a new student center connecting a variety of academic and recreational functions & re-connecting existing buildings. Aim to engage more audience with physical disabilities by setting a fully integrated barrier-free system.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/inclusive-center/cover.webp',
+    imageSrc: 'documents/post/image/inclusive-center/cover.webp',
     readMoreUrl: 'posts/inclusive-center',
   },
   {
@@ -192,7 +177,7 @@ export const POST_DATA = [
     excerpt:
       'An expansion of a historical building built during the Republic of China. A project brings a balance between historical heritage and contemporary architectural technics.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/talking-to-history/cover.webp',
+    imageSrc: 'documents/post/image/talking-to-history/cover.webp',
     readMoreUrl: 'posts/talking-to-history',
   },
   {
@@ -205,7 +190,7 @@ export const POST_DATA = [
     excerpt:
       'Propose a visitor center at a National Park Service site, which is a historic, but now defunct, coal mine. Reinvigorate the historic site by a small intervention, then a tectonic system, then a bigger model.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/appalachia/cover.webp',
+    imageSrc: 'documents/post/image/appalachia/cover.webp',
     readMoreUrl: 'posts/appalachia',
   },
   {
@@ -218,7 +203,7 @@ export const POST_DATA = [
     excerpt:
       'A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/redefine-edge/cover.webp',
+    imageSrc: 'documents/post/image/redefine-edge/cover.webp',
     readMoreUrl: 'posts/redefine-edge',
   },
   {
@@ -231,7 +216,7 @@ export const POST_DATA = [
     excerpt:
       'An innovative, urban-scale interpretive at a defunct Urban Village, also known as "Village in City" in developing countries. Investigate breathing new life into a pressing social issue. Portray a fresh, down-to-earth community life among high-density residential buildings.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/urban-resilience/cover.webp',
+    imageSrc: 'documents/post/image/urban-resilience/cover.webp',
     readMoreUrl: 'posts/urban-resilience',
   },
   {
@@ -244,7 +229,7 @@ export const POST_DATA = [
     excerpt:
       'I was honored to be selected as a part of the Moon Village research team while I worked for SOM. My role is to help the team to generate design concepts focusing on human-scale measurement and convey these key ideas through illustration.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/moon-village/cover.webp',
+    imageSrc: 'documents/post/image/moon-village/cover.webp',
     readMoreUrl: 'posts/moon-village',
   },
   {
@@ -257,7 +242,7 @@ export const POST_DATA = [
     excerpt:
       'After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements.',
     isFeatured: false,
-    imageSrc: '../../documents/post/image/anti-office/cover.webp',
+    imageSrc: 'documents/post/image/anti-office/cover.webp',
     readMoreUrl: 'posts/anti-office',
   },
 ];
