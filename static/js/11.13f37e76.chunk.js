@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[11],{508:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/markdown-post-template.a688718d.md"}}]);
-//# sourceMappingURL=11.13f37e76.chunk.js.map
