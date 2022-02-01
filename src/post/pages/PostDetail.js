@@ -17,19 +17,36 @@ const PostDetail = () => {
     const url = window.location.href.split('/');
     const fileName = url[url.length - 1].concat('.md');
 
-    // NOTE ALTERNATIVE: useSWR CUSTOM HOOK BY NEXTJS TEAM
+    // NOTE DYNAMICALLY IMPORT MARKDOWN FILE
+    import(`../../markdowns/${fileName}`)
+      .then((res) => {
+        fetch(res.default)
+          .then((res) => res.text())
+          .then((res) => {
+            const { data, content } = matter(res);
+            setPostData(data);
+            setPostContent(content);
+            setIsLoading(false);
+          });
+      })
+      .catch(
+        // FIXME HANDLE ERROR
+        (err) => console.log(err)
+      );
+    /*
     fetch(`${process.env.PUBLIC_URL}/documents/post/${fileName}`)
       .then((res) => res.text())
       .then((res) => {
         const { data, content } = matter(res);
+        console.log(data);
         setPostData(data);
         setPostContent(content);
         setIsLoading(false);
       })
       .catch((err) => {
-        // FIXME HANDLE ERROR
         console.log(err);
       });
+      */
   }, []);
 
   const customRenderers = {
@@ -108,13 +125,14 @@ const PostDetail = () => {
           </div>
           <div className='center-flex-row extra-tiny-gap post-detail-heading-sub-container'>
             <Fragment>
-              {postData.keywords.map((keyword, index) => {
-                return (
-                  <span key={index} className='post-detail-heading--keyword'>
-                    {keyword}
-                  </span>
-                );
-              })}
+              {postData.keywords &&
+                postData.keywords.map((keyword, index) => {
+                  return (
+                    <span key={index} className='post-detail-heading--keyword'>
+                      {keyword}
+                    </span>
+                  );
+                })}
             </Fragment>
           </div>
         </div>
