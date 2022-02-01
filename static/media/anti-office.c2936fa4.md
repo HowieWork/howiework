@@ -19,7 +19,7 @@ _After visiting the site and several rounds of meetings, the team developed a wh
 
 ### 1. Comparison
 
-![workstation-comparison](../../documents/post/image/anti-office/workstation-comparison.webp)
+![workstation-comparison](documents/post/image/anti-office/workstation-comparison.webp)
 **Workstation comparison**
 
 ### 2. Options
