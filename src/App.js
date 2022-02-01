@@ -85,7 +85,7 @@ const App = () => {
         toggleDarkThemeHandler: toggleDarkTheme,
       }}
     >
-      <Router basename='/'>
+      <Router>
         <MainNavigation />
         <main>{routes}</main>
         <Footer />
