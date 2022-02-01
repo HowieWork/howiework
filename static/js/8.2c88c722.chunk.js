@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[8],{505:function(t,o,i){"use strict";i.r(o),o.default=i.p+"static/media/how-to-build-a-flexible-react-button.1572936b.md"}}]);
-//# sourceMappingURL=8.2c88c722.chunk.js.map

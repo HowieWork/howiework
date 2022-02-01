@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[18],{515:function(t,e,o){"use strict";o.r(e),e.default=o.p+"static/media/thoughts-about-self-teaching-web-development.31d96e7e.md"}}]);
-//# sourceMappingURL=18.2413d253.chunk.js.map
