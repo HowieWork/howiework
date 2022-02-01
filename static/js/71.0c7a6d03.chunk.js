@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[71],{571:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/branding-square.0f20bb93.webp"}}]);
-//# sourceMappingURL=71.0c7a6d03.chunk.js.map

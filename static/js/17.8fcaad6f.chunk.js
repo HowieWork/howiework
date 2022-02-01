@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[17],{514:function(t,o,i){"use strict";i.r(o),o.default=i.p+"static/media/talking-to-history.67d99fb5.md"}}]);
+//# sourceMappingURL=17.8fcaad6f.chunk.js.map

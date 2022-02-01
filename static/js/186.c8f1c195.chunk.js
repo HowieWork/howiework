@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[186],{619:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/interaction-2.801a31cd.gif"}}]);
-//# sourceMappingURL=186.c8f1c195.chunk.js.map

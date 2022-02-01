@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[94],{658:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/name-tag-wristband.73d4cbe5.webp"}}]);
-//# sourceMappingURL=94.e4aed495.chunk.js.map

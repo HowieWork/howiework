@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[72],{572:function(o,t,p){"use strict";p.r(t),t.default=p.p+"static/media/color-typo.f2566237.webp"}}]);
-//# sourceMappingURL=72.36d6513d.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[121],{685:function(o,s,t){"use strict";t.r(s),s.default=t.p+"static/media/research-sound-2.8335e830.webp"}}]);
-//# sourceMappingURL=121.3474402c.chunk.js.map

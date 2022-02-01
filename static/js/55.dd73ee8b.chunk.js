@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[55],{555:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/site-accessibility-analysis.aebd6820.webp"}}]);
-//# sourceMappingURL=55.dd73ee8b.chunk.js.map

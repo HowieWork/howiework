@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[18],{515:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/concept-sketch.3ac53603.webp"}}]);
-//# sourceMappingURL=18.6bbe794e.chunk.js.map

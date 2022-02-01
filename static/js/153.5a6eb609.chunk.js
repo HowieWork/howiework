@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[153],{537:function(o,s,t){"use strict";t.r(s),s.default=t.p+"static/media/design-system-color.76c40951.png"}}]);
-//# sourceMappingURL=153.5a6eb609.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[76],{580:function(i,o,t){"use strict";t.r(o),o.default=t.p+"static/media/vision.0c385e8c.webp"}}]);
-//# sourceMappingURL=76.e80e24e4.chunk.js.map

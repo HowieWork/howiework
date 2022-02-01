@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[113],{677:function(p,o,t){"use strict";t.r(o),o.default=t.p+"static/media/paper-model-2.35c50e88.webp"}}]);
-//# sourceMappingURL=113.032cf65a.chunk.js.map

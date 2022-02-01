@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[61],{561:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/site-photo-2.0aee8404.webp"}}]);
-//# sourceMappingURL=61.42f587a7.chunk.js.map

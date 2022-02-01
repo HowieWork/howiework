@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[181],{612:function(o,t,p){"use strict";p.r(t),t.default=p.p+"static/media/home-menu-prototype-2.410029e7.png"}}]);
-//# sourceMappingURL=181.02474387.chunk.js.map
