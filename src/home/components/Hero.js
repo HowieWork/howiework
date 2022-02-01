@@ -19,7 +19,7 @@ const Hero = () => {
         </div>
         <div className='center-flex-row hero-title--image'>
           <img
-            src={`/assets/headshot-${
+            src={`assets/headshot-${
               themeContext.isDarkTheme ? 'dark' : 'light'
             }.png`}
             alt='howie wang'

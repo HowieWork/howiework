@@ -85,7 +85,7 @@ const App = () => {
         toggleDarkThemeHandler: toggleDarkTheme,
       }}
     >
-      <Router>
+      <Router basename='/howiework'>
         <MainNavigation />
         <main>{routes}</main>
         <Footer />
