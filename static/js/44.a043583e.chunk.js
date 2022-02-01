@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[44],{544:function(t,e,o){"use strict";o.r(e),e.default=o.p+"static/media/design-concept.5eedba5b.webp"}}]);
+//# sourceMappingURL=44.a043583e.chunk.js.map

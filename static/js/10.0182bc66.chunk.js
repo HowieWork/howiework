@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[10],{507:function(o,p,t){"use strict";t.r(p),p.default=t.p+"static/media/arch-bar-program.8b2a4139.webp"}}]);
+//# sourceMappingURL=10.0182bc66.chunk.js.map

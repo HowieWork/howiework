@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[67],{567:function(o,t,s){"use strict";s.r(t),t.default=s.p+"static/media/Google-sheets.10565f82.webp"}}]);
+//# sourceMappingURL=67.b34c7649.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[88],{617:function(t,o,e){"use strict";e.r(o),o.default=e.p+"static/media/ia-sketch-before.106d84d9.webp"}}]);
+//# sourceMappingURL=88.2bbd24f8.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[70],{570:function(o,t,i){"use strict";i.r(t),t.default=i.p+"static/media/branding-round.18a5e00f.webp"}}]);
+//# sourceMappingURL=70.e64b9f65.chunk.js.map

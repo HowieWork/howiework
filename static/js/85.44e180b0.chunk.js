@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[85],{591:function(t,o,s){"use strict";s.r(o),o.default=s.p+"static/media/chris-story.2a08bcea.webp"}}]);
+//# sourceMappingURL=85.44e180b0.chunk.js.map

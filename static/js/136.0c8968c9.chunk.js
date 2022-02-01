@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[136],{700:function(i,t,o){"use strict";o.r(t),t.default=o.p+"static/media/site-birdview.1920dcd1.webp"}}]);
+//# sourceMappingURL=136.0c8968c9.chunk.js.map

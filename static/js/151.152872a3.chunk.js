@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[151],{715:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/urban-resilience.05e471ae.md"}}]);
+//# sourceMappingURL=151.152872a3.chunk.js.map

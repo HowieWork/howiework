@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[50],{550:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/design-section-4.4b410212.webp"}}]);
+//# sourceMappingURL=50.14919b15.chunk.js.map

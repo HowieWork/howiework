@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[147],{711:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/redefine-edge.bbd41ddb.md"}}]);
+//# sourceMappingURL=147.b7506f05.chunk.js.map

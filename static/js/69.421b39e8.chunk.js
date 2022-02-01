@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[69],{569:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/article-waiting-list.13891e7d.webp"}}]);
+//# sourceMappingURL=69.421b39e8.chunk.js.map

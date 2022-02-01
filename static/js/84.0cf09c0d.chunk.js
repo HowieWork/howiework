@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[84],{590:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/alex-story.3ca91ef9.webp"}}]);
+//# sourceMappingURL=84.0cf09c0d.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[16],{513:function(o,t,i){"use strict";i.r(t),t.default=i.p+"static/media/workstation-option-3.7187ce07.webp"}}]);
+//# sourceMappingURL=16.6b2d3b78.chunk.js.map
