@@ -1,4 +1,10 @@
-= yaml =
+---
+category: 'architecture'
+excerpt: 'After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements.'
+imageSrc: '../../documents/post/image/anti-office/cover.webp'
+readMoreUrl: 'posts/anti-office'
+---
+
 category: 'architecture'
 title: 'Anti-office'
 slug: 'anti-office'
@@ -9,7 +15,6 @@ excerpt: 'After visiting the site and several rounds of meetings, the team devel
 isFeatured: false
 imageSrc: '../../documents/post/image/anti-office/cover.webp'
 readMoreUrl: 'posts/anti-office'
-= yaml =
 
 _After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements._
 
