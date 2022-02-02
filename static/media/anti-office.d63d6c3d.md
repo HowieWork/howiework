@@ -24,7 +24,7 @@ _After visiting the site and several rounds of meetings, the team developed a wh
 
 ### 2. Options
 
-![workstation-option-1](../../documents/post/image/anti-office/workstation-option-1.webp)
+![workstation-option-1](assets/post/image/anti-office/workstation-option-1.webp)
 **Workstation option 1**
 
 ![workstation-option-2](../../documents/post/image/anti-office/workstation-option-2.webp)
