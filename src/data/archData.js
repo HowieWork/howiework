@@ -5,7 +5,7 @@ export const ARCH_DATA = [
     slug: 'sounding-ground',
     description:
       'A redesign for Market Street Park, a public park in Charlottesville after the proposed removal of the Robert Edward Lee sculpture on the site by the city council',
-    imageSrc: 'documents/post/image/sounding-ground/cover.webp',
+    imageSrc: 'assets/post/image/sounding-ground/cover.webp',
     readMoreUrl: '/posts/sounding-ground',
   },
   {
@@ -14,7 +14,7 @@ export const ARCH_DATA = [
     slug: 'inclusive-center',
     description:
       'A proposal to build a new student center connecting a variety of academic and recreational functions & re-connecting existing buildings. Aim to engage more audience with physical disabilities by setting a fully integrated barrier-free system.',
-    imageSrc: 'documents/post/image/inclusive-center/cover.webp',
+    imageSrc: 'assets/post/image/inclusive-center/cover.webp',
     readMoreUrl: '/posts/inclusive-center',
   },
   {
@@ -23,7 +23,7 @@ export const ARCH_DATA = [
     slug: 'talking-to-history',
     description:
       'An expansion of a historical building built during the Republic of China. A project brings a balance between historical heritage and contemporary architectural technics.',
-    imageSrc: 'documents/post/image/talking-to-history/cover.webp',
+    imageSrc: 'assets/post/image/talking-to-history/cover.webp',
     readMoreUrl: '/posts/talking-to-history',
   },
   {
@@ -32,7 +32,7 @@ export const ARCH_DATA = [
     slug: 'appalachia',
     description:
       'Propose a visitor center at a National Park Service site, which is a historic, but now defunct, coal mine. Reinvigorate the historic site by a small intervention, then a tectonic system, then a bigger model.',
-    imageSrc: 'documents/post/image/appalachia/cover.webp',
+    imageSrc: 'assets/post/image/appalachia/cover.webp',
     readMoreUrl: '/posts/appalachia',
   },
   {
@@ -41,7 +41,7 @@ export const ARCH_DATA = [
     slug: 'redefine-edge',
     description:
       'A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature.',
-    imageSrc: 'documents/post/image/redefine-edge/cover.webp',
+    imageSrc: 'assets/post/image/redefine-edge/cover.webp',
     readMoreUrl: '/posts/redefine-edge',
   },
   {
@@ -50,7 +50,7 @@ export const ARCH_DATA = [
     slug: 'redefine-edge',
     description:
       'An innovative, urban-scale interpretive at a defunct Urban Village, also known as "Village in City" in developing countries. Investigate breathing new life into a pressing social issue. Portray a fresh, down-to-earth community life among high-density residential buildings',
-    imageSrc: 'documents/post/image/urban-resilience/cover.webp',
+    imageSrc: 'assets/post/image/urban-resilience/cover.webp',
     readMoreUrl: '/posts/urban-resilience',
   },
   {
@@ -59,7 +59,7 @@ export const ARCH_DATA = [
     slug: 'moon-village',
     description:
       'I was honored to be selected as a part of the Moon Village research team while I worked for SOM. My role is to help the team to generate design concepts focusing on human-scale measurement and convey these key ideas through illustration',
-    imageSrc: 'documents/post/image/moon-village/cover.webp',
+    imageSrc: 'assets/post/image/moon-village/cover.webp',
     readMoreUrl: '/posts/moon-village',
   },
   {
@@ -68,7 +68,7 @@ export const ARCH_DATA = [
     slug: 'anti-office',
     description:
       'After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements.',
-    imageSrc: 'documents/post/image/anti-office/cover.webp',
+    imageSrc: 'assets/post/image/anti-office/cover.webp',
     readMoreUrl: '/posts/anti-office',
   },
 ];

@@ -4,10 +4,13 @@ import remarkGfm from 'remark-gfm';
 import matter from 'gray-matter';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { atomDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
+
+import { POST_DATA } from '../../data/postData';
+
 import './PostDetail.css';
 
 const PostDetail = () => {
-  const [postData, setPostData] = useState('');
+  const [postData, setPostData] = useState();
   const [isLoading, setIsLoading] = useState(false);
   const [postContent, setPostContent] = useState('');
 
@@ -17,16 +20,34 @@ const PostDetail = () => {
     const url = window.location.href.split('/');
     const fileName = url[url.length - 1].concat('.md');
 
+    // SETUP POST DATA
+    const targetPost = POST_DATA.filter(
+      (post) => post.slug === url[url.length - 1]
+    );
+    setPostData(targetPost[0]);
+
     // NOTE DYNAMICALLY IMPORT MARKDOWN FILE
+    const markdownPath = require(`../../markdowns/${fileName}`).default;
+    console.log(markdownPath);
+    fetch(markdownPath)
+      .then((res) => res.text())
+      .then((res) => {
+        const { content } = matter(res);
+        setPostContent(content);
+        setIsLoading(false);
+      })
+      .catch(
+        // FIXME HANDLE ERROR
+        (err) => console.log(err)
+      );
+    // NOTE ALTERNATIVE USING IMPORT
     /*
     import(`../../markdowns/${fileName}`)
       .then((res) => {
-        console.log(res.default);
         fetch(res.default)
           .then((res) => res.text())
           .then((res) => {
             const { data, content } = matter(res);
-            console.log(data);
             setPostData(data);
             setPostContent(content);
             setIsLoading(false);
@@ -36,34 +57,6 @@ const PostDetail = () => {
         // FIXME HANDLE ERROR
         (err) => console.log(err)
       );*/
-    const markdownPath = require(`../../markdowns/${fileName}`).default;
-    console.log(markdownPath);
-    fetch(markdownPath)
-      .then((res) => res.text())
-      .then((res) => {
-        const { data, content } = matter(res);
-        console.log(data);
-        setPostData(data);
-        setPostContent(content);
-        setIsLoading(false);
-      })
-      .catch(
-        // FIXME HANDLE ERROR
-        (err) => console.log(err)
-      );
-    /*
-    fetch(`${process.env.PUBLIC_URL}/documents/post/${fileName}`)
-      .then((res) => res.text())
-      .then((res) => {
-        const { data, content } = matter(res);
-        console.log(data);
-        setPostData(data);
-        setPostContent(content);
-        setIsLoading(false);
-      })
-      .catch((err) => {
-        console.log(err);
-      });*/
   }, []);
 
   const customRenderers = {
