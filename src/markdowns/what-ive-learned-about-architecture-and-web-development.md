@@ -1,16 +1,3 @@
----
-category: 'programming'
-title: "What I've learned about architecture and web development"
-slug: 'what-ive-learned-about-architecture-and-web-development'
-date: 'Jan 6, 2022'
-duration: '12 min read'
-keywords: ['web', 'development', 'architecture']
-excerpt: 'With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts.'
-isFeatured: true
-imageSrc: '../../howiework/assets/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp'
-readMoreUrl: '/posts/what-ive-learned-about-architecture-and-web-development'
----
-
 _With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts._
 
 **UPDATE 01/06/2022:** Complete first post draft.

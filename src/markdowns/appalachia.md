@@ -1,16 +1,3 @@
----
-category: 'architecture'
-title: 'Appalachia'
-slug: 'appalachia'
-date: '2017'
-duration: '7 min read'
-keywords: ['mining', 'preservation', 'industrial']
-excerpt: 'Propose a visitor center at a National Park Service site, which is a historic, but now defunct, coal mine. Reinvigorate the historic site by a small intervention, then a tectonic system, then a bigger model.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/appalachia/cover.webp'
-readMoreUrl: 'posts/appalachia'
----
-
 _Propose a visitor center at a National Park Service site, which is a historic, but now defunct, coal mine. Reinvigorate the historic site by a small intervention, then a tectonic system, then a bigger model._
 
 **UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.

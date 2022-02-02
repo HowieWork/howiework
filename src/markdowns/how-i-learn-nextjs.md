@@ -1,16 +1,3 @@
----
-category: 'programming'
-title: 'How I learn Next.js'
-slug: 'how-i-learn-nextjs'
-date: 'Jan 23, 2022'
-duration: '17 min read'
-keywords: ['next', 'framework', 'react', 'tutorial']
-excerpt: 'This post documents my progress of learning Next.js from start to end. It includes roadmap, key concepts, multiple side project and final personal project.'
-isFeatured: true
-imageSrc: '../../howiework/assets/post/image/how-i-learn-nextjs/cover.webp'
-readMoreUrl: 'posts/how-i-learn-nextjs'
----
-
 _This post documents my progress of learning Next.js from start to end. It includes roadmap, key concepts, multiple side project and final personal project._
 
 **UPDATE 01/23/2022:** Complete post.

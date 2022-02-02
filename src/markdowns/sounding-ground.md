@@ -1,16 +1,3 @@
----
-category: 'architecture'
-title: 'Sounding Ground'
-slug: 'sounding-ground'
-date: '2017'
-duration: '12 min read'
-keywords: ['park', 'history', 'sound', 'arch']
-excerpt: 'A redesign for Market Street Park, a public park in Charlottesville after the proposed removal of the Robert Edward Lee sculpture on the site by the city council'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/sounding-ground/cover.webp'
-readMoreUrl: 'posts/sounding-ground'
----
-
 _A redesign for Market Street Park, a public park in Charlottesville after the proposed removal of the Robert Edward Lee sculpture on the site by the city council._
 
 **UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.

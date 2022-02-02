@@ -1,16 +1,3 @@
----
-category: 'design'
-title: 'Lunch Break'
-slug: 'lunch-break'
-date: '2019'
-duration: '5 min read'
-keywords: ['Branding', 'Design', 'Blog']
-excerpt: 'A product that helps people to kill the time during their lunch break.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/lunch-break/cover.webp'
-readMoreUrl: 'posts/lunch-break'
----
-
 _LunchBreak is a blog, aims to help people to grow a positive mindset and live a better life by sharing design/psychology knowledge._
 
 **UPDATE 01/25/2022:** Update original post content.

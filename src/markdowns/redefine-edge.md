@@ -1,16 +1,3 @@
----
-category: 'architecture'
-title: 'Redefine Edge'
-slug: 'redefine-edge'
-date: '2012'
-duration: '4 min read'
-keywords: ['boundary', 'edge', 'preservation']
-excerpt: 'A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/redefine-edge/cover.webp'
-readMoreUrl: 'posts/redefine-edge'
----
-
 _A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature._
 
 **UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.

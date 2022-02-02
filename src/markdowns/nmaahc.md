@@ -1,16 +1,3 @@
----
-category: 'design'
-title: 'NMAAHC'
-slug: 'nmaahc'
-date: 'Jan 1, 2020'
-duration: '5 min read'
-keywords: ['Branding', 'Design', 'Museum']
-excerpt: 'I have been working on a museum app during the past month. This post documents the branding pard of this project.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/nmaahc/cover.webp'
-readMoreUrl: 'posts/nmaahc'
----
-
 _Over the past month, I have been working on a museum app redesign for the Natinal Museum of African American History and Culture (aka. NMAAHC). This post documents the branding part of this project. My challenge was to develop a distinctive brand that would reflect the organization’s values. New design language was inspired by its unique architectural form._
 
 **UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.

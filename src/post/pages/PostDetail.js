@@ -43,7 +43,6 @@ const PostDetail = () => {
       .then((res) => {
         const { data, content } = matter(res);
         console.log(data);
-        console.log(content);
         setPostData(data);
         setPostContent(content);
         setIsLoading(false);
@@ -161,14 +160,11 @@ const PostDetail = () => {
             remarkPlugins={[[remarkGfm, { singleTilde: false }]]}
             components={customRenderers}
             // FIXME TEST: CHANGE IMAGE URL
-            transformImageUri={(uri) => {
-              console.log(process.env.PUBLIC_URL);
-              console.log(uri);
-
-              return uri.startsWith('http')
-                ? uri
-                : `${process.env.PUBLIC_URL}${uri}`;
-            }}
+            // transformImageUri={(uri) => {
+            //   return uri.startsWith('http')
+            //     ? uri
+            //     : `${process.env.PUBLIC_URL}${uri}`;
+            // }}
           >
             {postContent}
           </ReactMarkdown>
