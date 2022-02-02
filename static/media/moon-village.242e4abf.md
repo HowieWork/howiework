@@ -4,14 +4,14 @@ _I was honored to be selected as a part of the Moon Village research team while 
 
 ## Moon village research
 
-![research-1](../../howiework/assets/post/image/moon-village/research-1.webp)
+![research-1](../assets/post/image/moon-village/research-1.webp)
 **Research 1**
 
-![research-2](../../howiework/assets/post/image/moon-village/research-2.webp)
+![research-2](../assets/post/image/moon-village/research-2.webp)
 **Research 2**
 
-![research-3](../../howiework/assets/post/image/moon-village/research-3.webp)
+![research-3](../assets/post/image/moon-village/research-3.webp)
 **Research 3**
 
-![research-4](../../howiework/assets/post/image/moon-village/research-4.webp)
+![research-4](../assets/post/image/moon-village/research-4.webp)
 **Research 4**

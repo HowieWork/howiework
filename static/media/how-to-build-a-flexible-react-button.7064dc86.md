@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 5. Blockquote
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. - Dr. Seuss
+> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
 
 ### 6. Footnote
 
@@ -69,25 +69,7 @@ Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
 
 Image: 100% width.
 
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-**image caption**
-
-Image groups
-
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-**Image group**
-
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-**Image group**
-
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-**Image group**
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
 
 ### 10. Horizontal Rule
 

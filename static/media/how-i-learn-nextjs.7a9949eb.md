@@ -345,5 +345,5 @@ deployment
 
 ## Get my certification
 
-![Next js certification](../../howiework/assets/post/image/how-i-learn-nextjs/next-certification-howie.jpg)
+![Next js certification](../assets/post/image/how-i-learn-nextjs/next-certification-howie.jpg)
 **Next.js certification**

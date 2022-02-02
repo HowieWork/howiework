@@ -4,17 +4,17 @@ _Over the past month, I have been working on a museum app redesign for the Natin
 
 ## Logo
 
-![logo concept and design](../../howiework/assets/post/image/nmaahc/logo.webp)
+![logo concept and design](../assets/post/image/nmaahc/logo.webp)
 **Logo concept and design**
 
 ## Name tag and wristband
 
-![name tag and wristband](../../howiework/assets/post/image/nmaahc/name-tag-wristband.webp)
+![name tag and wristband](../assets/post/image/nmaahc/name-tag-wristband.webp)
 **Name tag and wristband**
 
 ## App flyer
 
-![app flyer](../../howiework/assets/post/image/nmaahc/app-flyer.webp)
+![app flyer](../assets/post/image/nmaahc/app-flyer.webp)
 **App flyer**
 
 [Museum app project link ↗](/posts/museum)
