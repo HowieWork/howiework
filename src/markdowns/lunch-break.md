@@ -20,34 +20,34 @@ Preparing LunchBreak consists of two parts - content and form.
 
 The first thing is to figure out what the blog is about and why I am doing it. I wrote an article about it.
 
-![vision](../../howiework/assets/post/image/lunch-break/vision.webp)
+![vision](../assets/post/image/lunch-break/vision.webp)
 **Vision**
 
 **Google Drive** was the main tool helping me to manage LunchBreak contents.
 I used **Google Docs** for collecting ideas and writing and **Google Sheets** for organizing contents have been/ready to be published.
 
-![Google docs](../../howiework/assets/post/image/lunch-break/Google-docs.webp)
+![Google docs](../assets/post/image/lunch-break/Google-docs.webp)
 
-![Google sheets](../../howiework/assets/post/image/lunch-break/Google-sheets.webp)
+![Google sheets](../assets/post/image/lunch-break/Google-sheets.webp)
 
 Then I started to structure User journey (what will the reading experience be like)
 
-![user journey](../../howiework/assets/post/image/lunch-break/user-journey.png)
+![user journey](../assets/post/image/lunch-break/user-journey.png)
 **User journey**
 
 ### "Design system"
 
 I didn't know there is a term called Design System at that time. But what I did was exactly developing a Design System for my blog. I thought I it would be fun to share the original pieces:
 
-![user journey](../../howiework/assets/post/image/lunch-break/color-typo.webp)
+![user journey](../assets/post/image/lunch-break/color-typo.webp)
 **Color palette & typography**
 
 I also designed logo, QR code, banners:
 
-![branding square version](../../howiework/assets/post/image/lunch-break/branding-square.webp)
+![branding square version](../assets/post/image/lunch-break/branding-square.webp)
 **Branding - square ver.**
 
-![branding round version](../../howiework/assets/post/image/lunch-break/branding-round.webp)
+![branding round version](../assets/post/image/lunch-break/branding-round.webp)
 **Branding - round ver.**
 
 Because it is about sharing knowledge. So my understanding is not to let Form (aesthetic) "steal Content's thunder".
@@ -55,18 +55,18 @@ I started to think about how Form could better serve for Content without getting
 
 After learned product design, wireframing was great to present the idea on my mind when I was doing this project; So I did it specially for this post.
 
-![wireframe 1](../../howiework/assets/post/image/lunch-break/wireframe-1.gif)
-![prototype 1](../../howiework/assets/post/image/lunch-break/prototype-1.gif)
+![wireframe 1](../assets/post/image/lunch-break/wireframe-1.gif)
+![prototype 1](../assets/post/image/lunch-break/prototype-1.gif)
 **Wireframe & prototype example**
 
 ## Getting feedback and some updates
 
 After it launched:
 
-![first article performance](../../howiework/assets/post/image/lunch-break/first-article-performance.webp)
+![first article performance](../assets/post/image/lunch-break/first-article-performance.webp)
 **First article performance**
 
-![followers growth chart](../../howiework/assets/post/image/lunch-break/followers-growth-chart.webp)
+![followers growth chart](../assets/post/image/lunch-break/followers-growth-chart.webp)
 **Followers growth chart**
 
 Start to get feedback:
@@ -76,21 +76,21 @@ Start to get feedback:
 
 Also, as contents start to grow, add links, in the end, helps readers to find more related articles.
 
-![updated user journey](../../howiework/assets/post/image/lunch-break/updated-user-journey.png)
+![updated user journey](../assets/post/image/lunch-break/updated-user-journey.png)
 **Updated user journey**
 
-![wireframe 2](../../howiework/assets/post/image/lunch-break/wireframe-2.gif)
-![prototype 2](../../howiework/assets/post/image/lunch-break/prototype-2.gif)
+![wireframe 2](../assets/post/image/lunch-break/wireframe-2.gif)
+![prototype 2](../assets/post/image/lunch-break/prototype-2.gif)
 **Updated wireframe & prototype example**
 
-![article list](../../howiework/assets/post/image/lunch-break/article-list.webp)
+![article list](../assets/post/image/lunch-break/article-list.webp)
 **List of articles and performance**
 
 ## Conclusion
 
 The last article was published on Jan. 19 2019. It is a hard decision for me to stop updating my blog. There is plenty of content I wrote that hasn't been published yet. And I received messages from my followers about why not keep updating.
 
-![article waiting list](../../howiework/assets/post/image/lunch-break/article-waiting-list.webp)
+![article waiting list](../assets/post/image/lunch-break/article-waiting-list.webp)
 **List of articles waiting for publish**
 
 I understand there shouldn’t be any excuse for stopping doing things. Still, I listed the lessons I learned from this experience.

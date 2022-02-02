@@ -10,25 +10,25 @@ Reversely, an innovation that completely abandons classical is also only an irre
 
 Historical Resilience can be understood as Relative Innovation coming from classical. Architect gets inspiration from classical firstly and then develops into symbolic language. The goal is to realize: the strength to come back. To fulfill people with extraordinary classical architecture memory and experience.
 
-![concept](../../howiework/assets/post/image/talking-to-history/concept.webp)
+![concept](../assets/post/image/talking-to-history/concept.webp)
 **Design concept**
 
 ## Site plan
 
-![site-plan](../../howiework/assets/post/image/talking-to-history/site-plan.webp)
+![site-plan](../assets/post/image/talking-to-history/site-plan.webp)
 **Site plan**
 
 ## Render
 
-![render](../../howiework/assets/post/image/talking-to-history/render.webp)
+![render](../assets/post/image/talking-to-history/render.webp)
 **Render**
 
 ## Model
 
-![model-1](../../howiework/assets/post/image/talking-to-history/model-1.webp)
+![model-1](../assets/post/image/talking-to-history/model-1.webp)
 **Model 1**
 
-![model-2](../../howiework/assets/post/image/talking-to-history/model-2.webp)
+![model-2](../assets/post/image/talking-to-history/model-2.webp)
 **Model 2**
 
 Note: Received “Excellent Award” of 2013 Autodesk Revit Cup National Sustainable Architecture Design Competition for College Students

@@ -8,32 +8,32 @@ As one of the social and environmental issues, Coastal Resilience is brought to 
 
 ### 1. Diagram
 
-![site-diagram](../../howiework/assets/post/image/redefine-edge/site-diagram.webp)
+![site-diagram](../assets/post/image/redefine-edge/site-diagram.webp)
 **Site diagram**
 
 ### 2. Plan
 
-![site-plan](../../howiework/assets/post/image/redefine-edge/site-plan.webp)
+![site-plan](../assets/post/image/redefine-edge/site-plan.webp)
 **Site plan**
 
 ## Design
 
 ### 1. Plan
 
-![design-plan](../../howiework/assets/post/image/redefine-edge/design-plan.webp)
+![design-plan](../assets/post/image/redefine-edge/design-plan.webp)
 **Design plan**
 
 ### 2. Section
 
-![design-section-detail](../../howiework/assets/post/image/redefine-edge/design-section-detail.webp)
+![design-section-detail](../assets/post/image/redefine-edge/design-section-detail.webp)
 **Design section detail**
 
-![design-section-diagram](../../howiework/assets/post/image/redefine-edge/design-section-diagram.webp)
+![design-section-diagram](../assets/post/image/redefine-edge/design-section-diagram.webp)
 **Design section diagram**
 
 ## Render
 
-![render](../../howiework/assets/post/image/redefine-edge/render.webp)
+![render](../assets/post/image/redefine-edge/render.webp)
 **Render**
 
 Note: First Prize of the 1st Jiangsu Province Architect Cup Architecture Design Scheme Competition

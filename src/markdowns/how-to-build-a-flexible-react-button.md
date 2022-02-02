@@ -69,7 +69,7 @@ Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
 
 Image: 100% width.
 
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
 
 ### 10. Horizontal Rule
 

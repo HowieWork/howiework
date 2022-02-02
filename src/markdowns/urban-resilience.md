@@ -6,35 +6,35 @@ _An innovative, urban-scale interpretive at a defunct Urban Village, also known 
 
 ### 1. Photo
 
-![site-photos](../../howiework/assets/post/image/urban-resilience/site-photos.webp)
+![site-photos](../assets/post/image/urban-resilience/site-photos.webp)
 **Site photos**
 
-![site-birdview](../../howiework/assets/post/image/urban-resilience/site-birdview.webp)
+![site-birdview](../assets/post/image/urban-resilience/site-birdview.webp)
 **Site birdview**
 
 ### 2. Diagram
 
-![site-diagram](../../howiework/assets/post/image/urban-resilience/site-diagram.webp)
+![site-diagram](../assets/post/image/urban-resilience/site-diagram.webp)
 **Site diagram**
 
 ### 3. Concept
 
-![site-concept](../../howiework/assets/post/image/urban-resilience/site-concept.webp)
+![site-concept](../assets/post/image/urban-resilience/site-concept.webp)
 **Site concept**
 
 ## Design
 
 ### 1. Unit
 
-![design-unit](../../howiework/assets/post/image/urban-resilience/design-unit.webp)
+![design-unit](../assets/post/image/urban-resilience/design-unit.webp)
 **Design unit**
 
 ### 2. Site
 
-![design-site](../../howiework/assets/post/image/urban-resilience/design-site.webp)
+![design-site](../assets/post/image/urban-resilience/design-site.webp)
 **Design site**
 
 ### 3. Model
 
-![design-model](../../howiework/assets/post/image/urban-resilience/design-model.webp)
+![design-model](../assets/post/image/urban-resilience/design-model.webp)
 **Design model**

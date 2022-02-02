@@ -35,14 +35,14 @@ With blog content already in mind, I follow one design rule - Simplicity. Main f
 
 Some quick sketches of basic layout idea for both web and mobile devices.
 
-![layout sketch](../../howiework/assets/post/image/build-a-more-advanced-blog-site/layout-sketch.jpg)
+![layout sketch](../assets/post/image/build-a-more-advanced-blog-site/layout-sketch.jpg)
 **Layout sketches: web & mobile**
 
 ### Design system
 
 Black, white, grey as color scheme:
 
-![design system color](../../howiework/assets/post/image/build-a-more-advanced-blog-site/design-system-color.png)
+![design system color](../assets/post/image/build-a-more-advanced-blog-site/design-system-color.png)
 **Design system - color**
 
 ```css

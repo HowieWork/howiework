@@ -69,24 +69,24 @@ Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
 
 Image: 100% width.
 
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
 **image caption**
 
 Image groups
 
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
 **Image group**
 
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
 **Image group**
 
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
-![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
+![image](../assets/post/image/markdown-post-template/image-sample.webp)
 **Image group**
 
 ### 10. Horizontal Rule

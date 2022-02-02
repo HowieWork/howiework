@@ -124,7 +124,7 @@ const PostDetail = () => {
           <div
             className='post-detail-heading--image'
             style={{
-              backgroundImage: `url(${postData.imageSrc})`,
+              backgroundImage: `url(../${postData.imageSrc})`,
             }}
           />
           <div className='post-detail-heading--title'>{postData.title}</div>
