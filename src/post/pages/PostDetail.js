@@ -18,17 +18,35 @@ const PostDetail = () => {
     const fileName = url[url.length - 1].concat('.md');
 
     // NOTE DYNAMICALLY IMPORT MARKDOWN FILE
+    /*
     import(`../../markdowns/${fileName}`)
       .then((res) => {
+        console.log(res.default);
         fetch(res.default)
           .then((res) => res.text())
           .then((res) => {
             const { data, content } = matter(res);
-            console.log(data.imageSrc);
+            console.log(data);
             setPostData(data);
             setPostContent(content);
             setIsLoading(false);
           });
+      })
+      .catch(
+        // FIXME HANDLE ERROR
+        (err) => console.log(err)
+      );*/
+    const markdownPath = require(`../../markdowns/${fileName}`).default;
+    console.log(markdownPath);
+    fetch(markdownPath)
+      .then((res) => res.text())
+      .then((res) => {
+        const { data, content } = matter(res);
+        console.log(data);
+        console.log(content);
+        setPostData(data);
+        setPostContent(content);
+        setIsLoading(false);
       })
       .catch(
         // FIXME HANDLE ERROR
@@ -46,8 +64,7 @@ const PostDetail = () => {
       })
       .catch((err) => {
         console.log(err);
-      });
-      */
+      });*/
   }, []);
 
   const customRenderers = {
@@ -143,6 +160,15 @@ const PostDetail = () => {
           <ReactMarkdown
             remarkPlugins={[[remarkGfm, { singleTilde: false }]]}
             components={customRenderers}
+            // FIXME TEST: CHANGE IMAGE URL
+            transformImageUri={(uri) => {
+              console.log(process.env.PUBLIC_URL);
+              console.log(uri);
+
+              return uri.startsWith('http')
+                ? uri
+                : `${process.env.PUBLIC_URL}${uri}`;
+            }}
           >
             {postContent}
           </ReactMarkdown>

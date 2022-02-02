@@ -7,7 +7,7 @@ duration: 'X min read'
 keywords: ['markdown', 'CSS', 'template']
 excerpt: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
 isFeatured: true
-imageSrc: '../../documents/post/image/how-to-build-a-flexible-react-button/cover.webp'
+imageSrc: '../../howiework/assets/post/image/how-to-build-a-flexible-react-button/cover.webp'
 readMoreUrl: '/posts/how-to-build-a-flexible-react-button'
 ---
 
@@ -82,7 +82,7 @@ Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
 
 Image: 100% width.
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
 
 ### 10. Horizontal Rule
 

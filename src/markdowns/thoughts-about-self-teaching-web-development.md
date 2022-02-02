@@ -7,7 +7,7 @@ duration: '8 min read'
 keywords: ['self-teach', 'web', 'development', 'programming']
 excerpt: 'I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress.'
 isFeatured: true
-imageSrc: '../../documents/post/image/thoughts-about-self-teaching-web-development/cover.webp'
+imageSrc: '../../howiework/assets/post/image/thoughts-about-self-teaching-web-development/cover.webp'
 readMoreUrl: '/posts/thoughts-about-self-teaching-web-development'
 ---
 

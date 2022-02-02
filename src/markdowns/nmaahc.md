@@ -7,7 +7,7 @@ duration: '5 min read'
 keywords: ['Branding', 'Design', 'Museum']
 excerpt: 'I have been working on a museum app during the past month. This post documents the branding pard of this project.'
 isFeatured: false
-imageSrc: '../../documents/post/image/nmaahc/cover.webp'
+imageSrc: '../../howiework/assets/post/image/nmaahc/cover.webp'
 readMoreUrl: 'posts/nmaahc'
 ---
 
@@ -17,17 +17,17 @@ _Over the past month, I have been working on a museum app redesign for the Natin
 
 ## Logo
 
-![logo concept and design](../../documents/post/image/nmaahc/logo.webp)
+![logo concept and design](../../howiework/assets/post/image/nmaahc/logo.webp)
 **Logo concept and design**
 
 ## Name tag and wristband
 
-![name tag and wristband](../../documents/post/image/nmaahc/name-tag-wristband.webp)
+![name tag and wristband](../../howiework/assets/post/image/nmaahc/name-tag-wristband.webp)
 **Name tag and wristband**
 
 ## App flyer
 
-![app flyer](../../documents/post/image/nmaahc/app-flyer.webp)
+![app flyer](../../howiework/assets/post/image/nmaahc/app-flyer.webp)
 **App flyer**
 
 [Museum app project link ↗](/posts/museum)

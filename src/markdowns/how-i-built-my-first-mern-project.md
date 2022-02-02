@@ -7,7 +7,7 @@ duration: 'X min read'
 keywords: ['fullstack', 'MERN', 'app']
 excerpt: 'This post documents how I built my first MERN project - Snap App. It is a photo sharing platform for people who love architecture. It will focus on the general process and key concepts.'
 isFeatured: true
-imageSrc: '../../documents/post/image/how-i-built-my-first-mern-project/cover.webp'
+imageSrc: '../../howiework/assets/post/image/how-i-built-my-first-mern-project/cover.webp'
 readMoreUrl: '/posts/how-i-built-my-first-mern-project'
 ---
 

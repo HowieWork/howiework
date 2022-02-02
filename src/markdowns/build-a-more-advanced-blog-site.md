@@ -7,11 +7,11 @@ duration: '7 min read'
 keywords: ['next.js', 'react', 'blog', 'fullstack']
 excerpt: 'I have been rethinking a better way of building blog site. Lunch Break is a more advanced blog site built with Next.js. It will include features like authentication (user sign up and log in), newsletter subscription feature, show all/featured posts, filter posts, comments etc.'
 isFeatured: true
-imageSrc: '../../documents/post/image/build-a-more-advanced-blog-site/cover.webp'
+imageSrc: '../../howiework/assets/post/image/build-a-more-advanced-blog-site/cover.webp'
 readMoreUrl: '/posts/build-a-more-advanced-blog-site'
 ---
 
-../../documents/post/image/build-a-more-advanced-blog-site/cover.webp
+../../howiework/assets/post/image/build-a-more-advanced-blog-site/cover.webp
 
 _I have been rethinking a better way of building blog site. Lunch Break is a more advanced blog site built with Next.js. It will include features like authentication (user sign up and log in), newsletter subscription feature, show all/featured posts, filter posts, comments etc._
 
@@ -50,14 +50,14 @@ With blog content already in mind, I follow one design rule - Simplicity. Main f
 
 Some quick sketches of basic layout idea for both web and mobile devices.
 
-![layout sketch](../../documents/post/image/build-a-more-advanced-blog-site/layout-sketch.jpg)
+![layout sketch](../../howiework/assets/post/image/build-a-more-advanced-blog-site/layout-sketch.jpg)
 **Layout sketches: web & mobile**
 
 ### Design system
 
 Black, white, grey as color scheme:
 
-![design system color](../../documents/post/image/build-a-more-advanced-blog-site/design-system-color.png)
+![design system color](../../howiework/assets/post/image/build-a-more-advanced-blog-site/design-system-color.png)
 **Design system - color**
 
 ```css

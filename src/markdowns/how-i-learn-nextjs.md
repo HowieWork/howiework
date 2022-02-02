@@ -7,7 +7,7 @@ duration: '17 min read'
 keywords: ['next', 'framework', 'react', 'tutorial']
 excerpt: 'This post documents my progress of learning Next.js from start to end. It includes roadmap, key concepts, multiple side project and final personal project.'
 isFeatured: true
-imageSrc: '../../documents/post/image/how-i-learn-nextjs/cover.webp'
+imageSrc: '../../howiework/assets/post/image/how-i-learn-nextjs/cover.webp'
 readMoreUrl: 'posts/how-i-learn-nextjs'
 ---
 
@@ -358,5 +358,5 @@ deployment
 
 ## Get my certification
 
-![Next js certification](../../documents/post/image/how-i-learn-nextjs/next-certification-howie.jpg)
+![Next js certification](../../howiework/assets/post/image/how-i-learn-nextjs/next-certification-howie.jpg)
 **Next.js certification**
