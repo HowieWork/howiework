@@ -7,7 +7,7 @@ duration: '14 min read'
 keywords: ['UI/UX', 'App', 'Design', 'Museum']
 excerpt: 'I have been working on a museum app during the past month. This post documents the working process from research to wireframming to prototyping in great detail.'
 isFeatured: false
-imageSrc: '../../documents/post/image/museum/cover.webp'
+imageSrc: '../../howiework/assets/post/image/museum/cover.webp'
 readMoreUrl: 'posts/museum'
 ---
 
@@ -78,7 +78,7 @@ Based on behavioral variables, three types of visitors are hypothesized as follo
 - **Attributes**: Work in a mid-sized local theatre for more than 10 years; Appreciate rapid change of technology and how it affects daily life; Visionary and willing to try new technology; Love visiting museum in DC; Detail-oriented, organized and focus on the life quality.
 - **Goals**: Use app to plan his visit ahead; Get museum special exhibitions, events and tours notification; Share his memories to other medium.
 
-![user jouney chris](../../documents/post/image/museum/chris-story.webp)
+![user jouney chris](../../howiework/assets/post/image/museum/chris-story.webp)
 **User journey - Chris**
 
 **Primary - Alex**
@@ -87,7 +87,7 @@ Based on behavioral variables, three types of visitors are hypothesized as follo
 - **Attributes**: Major in education and history; Love technology and dedicate his efforts to combine his profession and technology in the future; Adventurous and love travelling; Social and proactive in community.
 - **Goals**: Enhance his museum experience not limited to a comprehensive understanding of history through multiple mediums; Find like-minded people through the app.
 
-![user journey alex](../../documents/post/image/museum/alex-story.webp)
+![user journey alex](../../howiework/assets/post/image/museum/alex-story.webp)
 **User journey - Alex**
 
 **Secondary - Jennifer**
@@ -129,24 +129,24 @@ Personas and their stories put me in users' shoes and help me to understand thei
 
 App features on museum's official website and mobile app appear to be different. Sketch below contains current common features and my comments about revising some features.
 
-![ia sketch before](../../documents/post/image/museum/ia-sketch-before.webp)
+![ia sketch before](../../howiework/assets/post/image/museum/ia-sketch-before.webp)
 **Information architecture (before)**
 
 Information architecture sketch after revising:
 
-![ia sketch after](../../documents/post/image/museum/ia-sketch-after.webp)
+![ia sketch after](../../howiework/assets/post/image/museum/ia-sketch-after.webp)
 **Information architecture (after)**
 
 ### 2. Alex's user flow
 
 User Flow below is based on Alex's story. It depicts main actions new users need to take when they first use this app. It helps me to identify the key screens, which need to be focused on for the next design phase.
 
-![user-flow](../../documents/post/image/museum/user-flow.webp)
+![user-flow](../../howiework/assets/post/image/museum/user-flow.webp)
 **User flow**
 
 ## Wireframes
 
-![wireframe ideation](../../documents/post/image/museum/wireframe-ideation.webp)
+![wireframe ideation](../../howiework/assets/post/image/museum/wireframe-ideation.webp)
 **Wireframe ideation**
 
 ### 1. Home & menu
@@ -155,13 +155,13 @@ Guides: Main features should be clear and visible; Navigation can be easily done
 
 Menu is substantial and concise; For each submenu, content should be tailored appropriately and shown clearly; Icons are easily understood ; Users' goals should be easily fulfilled by one hand.
 
-![home menu wireframe before 1](../../documents/post/image/museum/home-menu-before-1.png)
-![home menu wireframe before 2](../../documents/post/image/museum/home-menu-before-2.png)
-![home menu wireframe after 1](../../documents/post/image/museum/home-menu-after-1.png)
-![home menu wireframe after 2](../../documents/post/image/museum/home-menu-after-2.png)
+![home menu wireframe before 1](../../howiework/assets/post/image/museum/home-menu-before-1.png)
+![home menu wireframe before 2](../../howiework/assets/post/image/museum/home-menu-before-2.png)
+![home menu wireframe after 1](../../howiework/assets/post/image/museum/home-menu-after-1.png)
+![home menu wireframe after 2](../../howiework/assets/post/image/museum/home-menu-after-2.png)
 **Wireframe before (left 2) and after**
 
-Animated home and menu: [before ↗](../../documents/post/image/museum/home-menu-before.gif) | [after ↗](../../documents/post/image/museum/home-menu-after.gif)
+Animated home and menu: [before ↗](../../howiework/assets/post/image/museum/home-menu-before.gif) | [after ↗](../../howiework/assets/post/image/museum/home-menu-after.gif)
 
 ### 2. Search & map
 
@@ -169,108 +169,108 @@ Guides: Provide suggestions for users' search; Suggestions should be categorized
 
 Maps need to be simple and accurate; Easily zoom in/out; Show marks when profiled users add things to their "Liked".
 
-![search map wireframe before 1](../../documents/post/image/museum/search-map-before-1.png)
-![search map wireframe before 2](../../documents/post/image/museum/search-map-before-2.png)
-![search map wireframe after 1](../../documents/post/image/museum/search-map-after-1.png)
-![search map wireframe after 2](../../documents/post/image/museum/search-map-after-2.png)
+![search map wireframe before 1](../../howiework/assets/post/image/museum/search-map-before-1.png)
+![search map wireframe before 2](../../howiework/assets/post/image/museum/search-map-before-2.png)
+![search map wireframe after 1](../../howiework/assets/post/image/museum/search-map-after-1.png)
+![search map wireframe after 2](../../howiework/assets/post/image/museum/search-map-after-2.png)
 **Wireframe before (left 2) and after**
 
-Animated search map: [before ↗](../../documents/post/image/museum/search-map-before.gif) | [after ↗](../../documents/post/image/museum/search-map-after.gif)
+Animated search map: [before ↗](../../howiework/assets/post/image/museum/search-map-before.gif) | [after ↗](../../howiework/assets/post/image/museum/search-map-after.gif)
 
 ### 3. Explore
 
 Guides: Categories are shown orderly; Each artwork shows location, brief, audio (if it has) and "like/share"; Simple interface and easy navigation.
 
-![explore after wireframe before 1](../../documents/post/image/museum/explore-before-1.png)
-![explore after wireframe before 2](../../documents/post/image/museum/explore-before-2.png)
-![explore after wireframe after 1](../../documents/post/image/museum/explore-after-1.png)
-![explore after wireframe after 2](../../documents/post/image/museum/explore-after-2.png)
+![explore after wireframe before 1](../../howiework/assets/post/image/museum/explore-before-1.png)
+![explore after wireframe before 2](../../howiework/assets/post/image/museum/explore-before-2.png)
+![explore after wireframe after 1](../../howiework/assets/post/image/museum/explore-after-1.png)
+![explore after wireframe after 2](../../howiework/assets/post/image/museum/explore-after-2.png)
 **Wireframe before (left 2) and after**
 
-Animated explore: [before ↗](../../documents/post/image/museum/explore-before.gif) | [after ↗](../../documents/post/image/museum/explore-after.gif)
+Animated explore: [before ↗](../../howiework/assets/post/image/museum/explore-before.gif) | [after ↗](../../howiework/assets/post/image/museum/explore-after.gif)
 
 ### 4. Welcome
 
 Guides: Let users decide whether they want to join the community; Provide multiple ways of signing up; Assist users in creating their profile step by step; Reflect the characteristics of the museum.
 
-![welcome wireframe 1](../../documents/post/image/museum/welcome-1.png)
-![welcome wireframe 2](../../documents/post/image/museum/welcome-2.png)
-![welcome wireframe 3](../../documents/post/image/museum/welcome-3.png)
-![welcome wireframe 4](../../documents/post/image/museum/welcome-4.png)
+![welcome wireframe 1](../../howiework/assets/post/image/museum/welcome-1.png)
+![welcome wireframe 2](../../howiework/assets/post/image/museum/welcome-2.png)
+![welcome wireframe 3](../../howiework/assets/post/image/museum/welcome-3.png)
+![welcome wireframe 4](../../howiework/assets/post/image/museum/welcome-4.png)
 **Wireframe**
 
-[Animated welcome ↗](../../documents/post/image/museum/welcome.gif)
+[Animated welcome ↗](../../howiework/assets/post/image/museum/welcome.gif)
 
 ### 5. Profile
 
 Guides: Direct users to Welcome section if they haven't signed up; Information is shown clearly and orderly; Easily retrieve history for users; Provide access to get help and submit feedback; Enhance personal experience by community feature; Connect to a larger community.
 
-![profile wireframe 1](../../documents/post/image/museum/profile-1.png)
-![profile wireframe 2](../../documents/post/image/museum/profile-2.png)
-![profile wireframe 3](../../documents/post/image/museum/profile-3.png)
-![profile wireframe 4](../../documents/post/image/museum/profile-4.png)
+![profile wireframe 1](../../howiework/assets/post/image/museum/profile-1.png)
+![profile wireframe 2](../../howiework/assets/post/image/museum/profile-2.png)
+![profile wireframe 3](../../howiework/assets/post/image/museum/profile-3.png)
+![profile wireframe 4](../../howiework/assets/post/image/museum/profile-4.png)
 **Wireframe**
 
-[Animated profile ↗](../../documents/post/image/museum/profile.gif)
+[Animated profile ↗](../../howiework/assets/post/image/museum/profile.gif)
 
 ## Prototyping
 
 ### 1. Design system
 
-![design system](../../documents/post/image/museum/design-system.png)
+![design system](../../howiework/assets/post/image/museum/design-system.png)
 **Design system**
 
 ### 2. UI elements and basic interactions
 
-![ui elements](../../documents/post/image/museum/ui-elements.png)
+![ui elements](../../howiework/assets/post/image/museum/ui-elements.png)
 **UI elements**
 
-![interaction 1](../../documents/post/image/museum/interaction-1.gif)
-![interaction 2](../../documents/post/image/museum/interaction-2.gif)
-![interaction 3](../../documents/post/image/museum/interaction-3.gif)
+![interaction 1](../../howiework/assets/post/image/museum/interaction-1.gif)
+![interaction 2](../../howiework/assets/post/image/museum/interaction-2.gif)
+![interaction 3](../../howiework/assets/post/image/museum/interaction-3.gif)
 **Interaction examples**
 
 ### 3. Prototype
 
-![welcome prototype 1](../../documents/post/image/museum/welcome-prototype-1.png)
-![welcome prototype 2](../../documents/post/image/museum/welcome-prototype-2.png)
-![welcome prototype 3](../../documents/post/image/museum/welcome-prototype-3.png)
-![welcome prototype 4](../../documents/post/image/museum/welcome-prototype-4.png)
+![welcome prototype 1](../../howiework/assets/post/image/museum/welcome-prototype-1.png)
+![welcome prototype 2](../../howiework/assets/post/image/museum/welcome-prototype-2.png)
+![welcome prototype 3](../../howiework/assets/post/image/museum/welcome-prototype-3.png)
+![welcome prototype 4](../../howiework/assets/post/image/museum/welcome-prototype-4.png)
 **Welcome**
 
-[Animated welcome ↗](../../documents/post/image/museum/welcome-prototype.gif)
+[Animated welcome ↗](../../howiework/assets/post/image/museum/welcome-prototype.gif)
 
-![home and menu prototype 1](../../documents/post/image/museum/home-menu-prototype-1.png)
-![home and menu prototype 2](../../documents/post/image/museum/home-menu-prototype-2.png)
-![home and menu prototype 3](../../documents/post/image/museum/home-menu-prototype-3.png)
-![home and menu prototype 4](../../documents/post/image/museum/home-menu-prototype-4.png)
+![home and menu prototype 1](../../howiework/assets/post/image/museum/home-menu-prototype-1.png)
+![home and menu prototype 2](../../howiework/assets/post/image/museum/home-menu-prototype-2.png)
+![home and menu prototype 3](../../howiework/assets/post/image/museum/home-menu-prototype-3.png)
+![home and menu prototype 4](../../howiework/assets/post/image/museum/home-menu-prototype-4.png)
 **Home and menu**
 
-[Animated home and menu ↗](../../documents/post/image/museum/home-menu-prototype.gif)
+[Animated home and menu ↗](../../howiework/assets/post/image/museum/home-menu-prototype.gif)
 
-![search and map prototype 1](../../documents/post/image/museum/search-map-prototype-1.png)
-![search and map prototype 2](../../documents/post/image/museum/search-map-prototype-2.png)
-![search and map prototype 3](../../documents/post/image/museum/search-map-prototype-3.png)
-![search and map prototype 4](../../documents/post/image/museum/search-map-prototype-4.png)
+![search and map prototype 1](../../howiework/assets/post/image/museum/search-map-prototype-1.png)
+![search and map prototype 2](../../howiework/assets/post/image/museum/search-map-prototype-2.png)
+![search and map prototype 3](../../howiework/assets/post/image/museum/search-map-prototype-3.png)
+![search and map prototype 4](../../howiework/assets/post/image/museum/search-map-prototype-4.png)
 **Search and map**
 
-[Animated search and map ↗](../../documents/post/image/museum/search-map-prototype.gif)
+[Animated search and map ↗](../../howiework/assets/post/image/museum/search-map-prototype.gif)
 
-![explore prototype 1](../../documents/post/image/museum/explore-prototype-1.png)
-![explore prototype 2](../../documents/post/image/museum/explore-prototype-2.png)
-![explore prototype 3](../../documents/post/image/museum/explore-prototype-3.png)
-![explore prototype 4](../../documents/post/image/museum/explore-prototype-4.png)
+![explore prototype 1](../../howiework/assets/post/image/museum/explore-prototype-1.png)
+![explore prototype 2](../../howiework/assets/post/image/museum/explore-prototype-2.png)
+![explore prototype 3](../../howiework/assets/post/image/museum/explore-prototype-3.png)
+![explore prototype 4](../../howiework/assets/post/image/museum/explore-prototype-4.png)
 **Explore**
 
-[Animated explore ↗](../../documents/post/image/museum/explore-prototype.gif)
+[Animated explore ↗](../../howiework/assets/post/image/museum/explore-prototype.gif)
 
-![profile and community prototype 1](../../documents/post/image/museum/profile-community-prototype-1.png)
-![profile and community prototype 2](../../documents/post/image/museum/profile-community-prototype-2.png)
-![profile and community prototype 3](../../documents/post/image/museum/profile-community-prototype-3.png)
-![profile and community prototype 4](../../documents/post/image/museum/profile-community-prototype-4.png)
+![profile and community prototype 1](../../howiework/assets/post/image/museum/profile-community-prototype-1.png)
+![profile and community prototype 2](../../howiework/assets/post/image/museum/profile-community-prototype-2.png)
+![profile and community prototype 3](../../howiework/assets/post/image/museum/profile-community-prototype-3.png)
+![profile and community prototype 4](../../howiework/assets/post/image/museum/profile-community-prototype-4.png)
 **Profile**
 
-[Animated profile and community ↗](../../documents/post/image/museum/profile-community-prototype.gif)
+[Animated profile and community ↗](../../howiework/assets/post/image/museum/profile-community-prototype.gif)
 
 ## Reflections
 

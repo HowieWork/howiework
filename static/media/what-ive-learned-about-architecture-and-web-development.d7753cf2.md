@@ -7,7 +7,7 @@ duration: '12 min read'
 keywords: ['web', 'development', 'architecture']
 excerpt: 'With a background in architecture and now web development, I have the chance of comparing these two different industries based on my own experiences. This post concludes my thoughts.'
 isFeatured: true
-imageSrc: '../../documents/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp'
+imageSrc: '../../howiework/assets/post/image/what-ive-learned-about-architecture-and-web-development/cover.webp'
 readMoreUrl: '/posts/what-ive-learned-about-architecture-and-web-development'
 ---
 

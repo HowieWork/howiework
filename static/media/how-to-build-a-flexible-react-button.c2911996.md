@@ -1,14 +1,14 @@
 ---
 category: 'programming'
-title: 'Markdown Post Template'
-slug: 'markdown-post-template'
+title: 'How to build a flexible React button'
+slug: 'how-to-build-a-flexible-react-button'
 date: 'Dec 29, 2021'
-duration: '2 min read'
-keywords: ['markdown', 'CSS', 'template', 'tutorial']
-excerpt: 'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.'
+duration: 'X min read'
+keywords: ['markdown', 'CSS', 'template']
+excerpt: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
 isFeatured: true
-imageSrc: '../../documents/post/image/markdown-post-template/cover.webp'
-readMoreUrl: 'posts/markdown-post-template'
+imageSrc: '../../howiework/assets/post/image/how-to-build-a-flexible-react-button/cover.webp'
+readMoreUrl: '/posts/how-to-build-a-flexible-react-button'
 ---
 
 _This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it._
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 5. Blockquote
 
-> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. - Dr. Seuss
+> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
 
 ### 6. Footnote
 
@@ -82,25 +82,7 @@ Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
 
 Image: 100% width.
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-**image caption**
-
-Image groups
-
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-**Image group**
-
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-**Image group**
-
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-**Image group**
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
 
 ### 10. Horizontal Rule
 

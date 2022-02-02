@@ -7,7 +7,7 @@ duration: '2 min read'
 keywords: ['markdown', 'CSS', 'template', 'tutorial']
 excerpt: 'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.'
 isFeatured: true
-imageSrc: '../../documents/post/image/markdown-post-template/cover.webp'
+imageSrc: '../../howiework/assets/post/image/markdown-post-template/cover.webp'
 readMoreUrl: 'posts/markdown-post-template'
 ---
 
@@ -82,24 +82,24 @@ Munere in exhalat, ferre Sed [Another Link Title](https://www.example.com)
 
 Image: 100% width.
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
 **image caption**
 
 Image groups
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
 **Image group**
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
 **Image group**
 
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
-![image](../../documents/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
+![image](../../howiework/assets/post/image/markdown-post-template/image-sample.webp)
 **Image group**
 
 ### 10. Horizontal Rule

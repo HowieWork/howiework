@@ -7,7 +7,7 @@ duration: '4 min read'
 keywords: ['boundary', 'edge', 'preservation']
 excerpt: 'A new park mediates two distinct typologies - a field and a lake, inspired by the environment. This project creates not only a new relationship between architecture and landscape but also a dialogue between human and nature.'
 isFeatured: false
-imageSrc: '../../documents/post/image/redefine-edge/cover.webp'
+imageSrc: '../../howiework/assets/post/image/redefine-edge/cover.webp'
 readMoreUrl: 'posts/redefine-edge'
 ---
 
@@ -21,32 +21,32 @@ As one of the social and environmental issues, Coastal Resilience is brought to 
 
 ### 1. Diagram
 
-![site-diagram](../../documents/post/image/redefine-edge/site-diagram.webp)
+![site-diagram](../../howiework/assets/post/image/redefine-edge/site-diagram.webp)
 **Site diagram**
 
 ### 2. Plan
 
-![site-plan](../../documents/post/image/redefine-edge/site-plan.webp)
+![site-plan](../../howiework/assets/post/image/redefine-edge/site-plan.webp)
 **Site plan**
 
 ## Design
 
 ### 1. Plan
 
-![design-plan](../../documents/post/image/redefine-edge/design-plan.webp)
+![design-plan](../../howiework/assets/post/image/redefine-edge/design-plan.webp)
 **Design plan**
 
 ### 2. Section
 
-![design-section-detail](../../documents/post/image/redefine-edge/design-section-detail.webp)
+![design-section-detail](../../howiework/assets/post/image/redefine-edge/design-section-detail.webp)
 **Design section detail**
 
-![design-section-diagram](../../documents/post/image/redefine-edge/design-section-diagram.webp)
+![design-section-diagram](../../howiework/assets/post/image/redefine-edge/design-section-diagram.webp)
 **Design section diagram**
 
 ## Render
 
-![render](../../documents/post/image/redefine-edge/render.webp)
+![render](../../howiework/assets/post/image/redefine-edge/render.webp)
 **Render**
 
 Note: First Prize of the 1st Jiangsu Province Architect Cup Architecture Design Scheme Competition
