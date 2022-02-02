@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[4],{520:function(o,t,i){"use strict";i.r(t),t.default=i.p+"static/media/drawing-charcoal-flow.8851f7b7.webp"}}]);
+//# sourceMappingURL=4.24412f18.chunk.js.map

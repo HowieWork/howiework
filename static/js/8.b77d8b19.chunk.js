@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[8],{501:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/anti-office.6e651c67.md"}}]);
+//# sourceMappingURL=8.b77d8b19.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[6],{522:function(o,t,a){"use strict";a.r(t),t.default=a.p+"static/media/drawing-watercolor-boat.d7ca65c7.webp"}}]);
+//# sourceMappingURL=6.3ed2cb6d.chunk.js.map
