@@ -27,7 +27,7 @@ _After visiting the site and several rounds of meetings, the team developed a wh
 ![workstation-option-1](assets/post/image/anti-office/workstation-option-1.webp)
 **Workstation option 1**
 
-![workstation-option-2](../../assets/post/image/anti-office/workstation-option-2.webp)
+![workstation-option-2](../../howiework/assets/post/image/anti-office/workstation-option-2.webp)
 **Workstation option 2**
 
 ![workstation-option-3](../../documents/post/image/anti-office/workstation-option-3.webp)
