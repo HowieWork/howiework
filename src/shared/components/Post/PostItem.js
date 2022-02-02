@@ -4,19 +4,20 @@ import './PostItem.css';
 
 const PostItem = (props) => {
   const [imageFile, setImageFile] = useState();
+  const { type, imageSrc } = props;
 
-  const { imageSrc } = props;
   useEffect(() => {
-    import(`../../../assets/post/image/${imageSrc}`)
-      .then((res) => {
-        setImageFile(res.default);
-      })
-      .catch((err) => console.log('CATCH IMPORT ERROR:', err));
-  }, [imageSrc]);
+    type === 'featured-version' &&
+      import(`../../../assets/post/image/${imageSrc}`)
+        .then((res) => {
+          setImageFile(res.default);
+        })
+        .catch((err) => console.log('CATCH IMPORT ERROR:', err));
+  }, [type, imageSrc]);
 
   let content;
   // FEATURED VERSION IS FOR HOMEPAGE SELECTED POSTS
-  if (props.type === 'featured-version') {
+  if (type === 'featured-version') {
     content = (
       <div className='featured-post-container'>
         <img
@@ -30,7 +31,7 @@ const PostItem = (props) => {
   }
 
   // POST VERSION IS FOR POST ROUTE
-  if (props.type === 'normal-version') {
+  if (type === 'normal-version') {
     content = (
       <Link to={props.readMoreUrl} className='post-link'>
         <div className='post-container'>
