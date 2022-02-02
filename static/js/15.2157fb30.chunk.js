@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[15],{508:function(t,o,a){"use strict";a.r(o),o.default=a.p+"static/media/lunch-break.309a14a9.md"}}]);
-//# sourceMappingURL=15.2157fb30.chunk.js.map

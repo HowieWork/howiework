@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[30],{531:function(o,p,t){"use strict";t.r(p),p.default=t.p+"static/media/app-natours-cover.f2ee6c97.webp"}}]);
+//# sourceMappingURL=30.3b8a4175.chunk.js.map

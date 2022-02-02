@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[8],{113:function(o,p,t){"use strict";t.r(p),p.default=t.p+"static/media/photo-food-eggspinach.38f2389e.webp"}}]);
+//# sourceMappingURL=8.9f1fe86f.chunk.js.map

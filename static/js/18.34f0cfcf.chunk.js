@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[18],{511:function(t,o,s){"use strict";s.r(o),o.default=s.p+"static/media/museum.73e40141.md"}}]);
-//# sourceMappingURL=18.34f0cfcf.chunk.js.map

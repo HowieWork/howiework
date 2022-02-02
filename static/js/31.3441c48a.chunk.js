@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[31],{532:function(p,o,t){"use strict";t.r(o),o.default=t.p+"static/media/app-pig-game-cover.fba8f381.webp"}}]);
+//# sourceMappingURL=31.3441c48a.chunk.js.map

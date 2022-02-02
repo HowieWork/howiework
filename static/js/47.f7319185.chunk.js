@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[47],{554:function(p,t,a){"use strict";a.r(t),t.default=a.p+"static/media/appalachia.9b292775.md"}}]);
+//# sourceMappingURL=47.f7319185.chunk.js.map

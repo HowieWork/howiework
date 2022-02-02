@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[63],{570:function(t,e,a){"use strict";a.r(e),e.default=a.p+"static/media/what-ive-learned-about-architecture-and-web-development.aff15b45.md"}}]);
+//# sourceMappingURL=63.05710d74.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[12],{117:function(o,t,p){"use strict";p.r(t),t.default=p.p+"static/media/photo-human-father-and-son.3d04098c.webp"}}]);
+//# sourceMappingURL=12.e1794135.chunk.js.map
