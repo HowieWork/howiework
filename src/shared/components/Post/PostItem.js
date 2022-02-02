@@ -1,15 +1,26 @@
-import { Fragment } from 'react/cjs/react.production.min';
+import { Fragment, useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './PostItem.css';
 
 const PostItem = (props) => {
+  const [imageFile, setImageFile] = useState();
+
+  const { imageSrc } = props;
+  useEffect(() => {
+    import(`../../../assets/post/image/${imageSrc}`)
+      .then((res) => {
+        setImageFile(res.default);
+      })
+      .catch((err) => console.log('CATCH IMPORT ERROR:', err));
+  }, [imageSrc]);
+
   let content;
   // FEATURED VERSION IS FOR HOMEPAGE SELECTED POSTS
   if (props.type === 'featured-version') {
     content = (
       <div className='featured-post-container'>
         <img
-          src={props.imageSrc}
+          src={imageFile}
           alt={`${props.title} Cover`}
           className='featured-post-image'
         />
