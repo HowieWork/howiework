@@ -24,8 +24,8 @@
   height: 100%;
 }
 
-@media (max-width: 24em) {
+@media (max-width: 32em) {
   .section-works img {
-    height: 100%;
+    height: 80%;
   }
 }

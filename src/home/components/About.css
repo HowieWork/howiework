@@ -41,7 +41,7 @@
   font-weight: 600;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .about-text {
     gap: 1.6rem;
   }

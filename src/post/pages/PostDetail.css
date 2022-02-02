@@ -8,13 +8,13 @@
   font-size: 1.8rem;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .post-detail-container {
     width: 70vw;
   }
 }
 
-@media (max-width: 24em) {
+@media (max-width: 32em) {
   .post-detail-container {
     width: 90vw;
   }

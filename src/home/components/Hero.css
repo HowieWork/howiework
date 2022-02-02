@@ -33,7 +33,7 @@
   z-index: -9;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .hero-title {
     height: 30vh;
   }
@@ -43,7 +43,7 @@
   }
 }
 
-@media (max-width: 24em) {
+@media (max-width: 32em) {
   .hero-title {
     height: 24vh;
   }
@@ -61,7 +61,7 @@
   color: var(--font-color--secondary);
 }
 
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .hero-title--text h2 {
     font-size: 3.6rem;
   }
@@ -83,7 +83,7 @@
 }
 
 /* TODO SHOULD HEIGHT BE SET TO AUTO? */
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .section-hero {
     height: auto;
   }

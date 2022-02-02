@@ -44,26 +44,26 @@
 }
 
 /* SWITCH BETWEEN NAV LINKS & MENU BUTTON */
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .main-navigation__menu-btn {
     display: none;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1023px) {
   .main-navigation__links {
     display: none;
   }
 }
 
 /* MAIN NAVIGATION RESPONSIVENESS */
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .main-navigation {
     width: 70%;
   }
 }
 
-@media (max-width: 24em) {
+@media (max-width: 32em) {
   .main-navigation {
     width: 90%;
   }

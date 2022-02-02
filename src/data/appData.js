@@ -76,7 +76,8 @@ export const TUTORIAL_APP_DATA = [
     title: 'Bankist',
     slug: 'bankist',
     technologyList: ['HTML', 'CSS', 'JavaScript'],
-    description: 'A simple web tool for managing your bank account.',
+    description:
+      'A simple web tool for managing your bank account. Built with HTML, CSS and JavaScript.',
     imageSrc: 'app-bankist-cover.webp',
     demoUrl: 'https://howiework.github.io/bankist/',
     gitHubUrl: 'https://github.com/HowieWork/bankist',

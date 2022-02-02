@@ -196,18 +196,11 @@ button {
 }
 
 /* RESPONSIVENESS */
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   html {
     font-size: var(--font-size-small-percentage);
   }
 }
-
-/* TODO RETHINK SHOULD BRING MOBILE RESPONSIVENESS BACK */
-/* @media (max-width: 24em) {
-  html {
-    font-size: 50%;
-  }
-}  */
 
 /* HELPER CLASSES */
 /* CENTER */
@@ -255,15 +248,16 @@ button {
 /* RESPONSIVE WIDTH */
 .responsive-width {
   width: 50vw;
+  max-width: 1000px;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .responsive-width {
     width: 70vw;
   }
 }
 
-@media (max-width: 24em) {
+@media (max-width: 32em) {
   .responsive-width {
     width: 90vw;
   }

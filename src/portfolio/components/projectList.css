@@ -5,7 +5,7 @@
   gap: 4.8rem;
 }
 
-@media (max-width: 24em) {
+@media (max-width: 32em) {
   .app-container--grid {
     display: flex;
     flex-direction: column;

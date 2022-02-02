@@ -10,13 +10,13 @@
 }
 
 /* FOOTER RESPONSIVENESS */
-@media (max-width: 48em) {
+@media (max-width: 64em) {
   .footer {
     width: 70%;
   }
 }
 
-@media (max-width: 24em) {
+@media (max-width: 32em) {
   .footer {
     width: 90%;
   }
