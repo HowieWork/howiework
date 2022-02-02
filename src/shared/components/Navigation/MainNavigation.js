@@ -25,7 +25,7 @@ const MainNavigation = () => {
         <div className='responsive-width center-flex-row main-navigation'>
           <h1 className='center-flex-row tiny-gap main-navigation__title'>
             <span className='center-flex-row'>
-              <img src='assets/logo.png' alt='logo' />
+              <img src='../assets/logo.png' alt='logo' />
             </span>
             <Link to='/'>Howie Hao Wang</Link>
           </h1>
