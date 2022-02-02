@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/howiework/static/css/main.3eccacfc.chunk.css",
-    "main.js": "/howiework/static/js/main.14ee6036.chunk.js",
-    "main.js.map": "/howiework/static/js/main.14ee6036.chunk.js.map",
+    "main.js": "/howiework/static/js/main.1af06b83.chunk.js",
+    "main.js.map": "/howiework/static/js/main.1af06b83.chunk.js.map",
     "runtime-main.js": "/howiework/static/js/runtime-main.cc73a45a.js",
     "runtime-main.js.map": "/howiework/static/js/runtime-main.cc73a45a.js.map",
     "static/js/2.034e216c.chunk.js": "/howiework/static/js/2.034e216c.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/how-i-learn-nextjs.md": "/howiework/static/media/how-i-learn-nextjs.7a9949eb.md",
     "static/media/how-to-build-a-flexible-react-button.md": "/howiework/static/media/how-to-build-a-flexible-react-button.7064dc86.md",
     "static/media/inclusive-center.md": "/howiework/static/media/inclusive-center.32d6f027.md",
+    "static/media/logo.73fe7a7a.png": "/howiework/static/media/logo.73fe7a7a.png",
     "static/media/lunch-break.md": "/howiework/static/media/lunch-break.309a14a9.md",
     "static/media/markdown-post-template.md": "/howiework/static/media/markdown-post-template.c2dbd13d.md",
     "static/media/moon-village.md": "/howiework/static/media/moon-village.242e4abf.md",
@@ -33,6 +34,6 @@
     "static/js/runtime-main.cc73a45a.js",
     "static/js/2.034e216c.chunk.js",
     "static/css/main.3eccacfc.chunk.css",
-    "static/js/main.14ee6036.chunk.js"
+    "static/js/main.1af06b83.chunk.js"
   ]
 }
