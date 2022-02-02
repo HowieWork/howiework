@@ -1,16 +1,3 @@
----
-category: 'programming'
-title: 'Markdown Post Template'
-slug: 'markdown-post-template'
-date: 'Dec 29, 2021'
-duration: '2 min read'
-keywords: ['markdown', 'CSS', 'template', 'tutorial']
-excerpt: 'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.'
-isFeatured: true
-imageSrc: '../../howiework/assets/post/image/markdown-post-template/cover.webp'
-readMoreUrl: 'posts/markdown-post-template'
----
-
 _This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it._
 
 **UPDATE 12/29/2021:** Initial post commit. Update will give audience the latest update of this post. What has been changed or what links has been added. For example, [an empty helpful link](https://www.example.com).

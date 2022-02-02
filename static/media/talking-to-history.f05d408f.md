@@ -1,16 +1,3 @@
----
-category: 'architecture'
-title: 'Talking to History'
-slug: 'talking-to-history'
-date: '2013'
-duration: '6 min read'
-keywords: ['history', 'preservation', 'expansion']
-excerpt: 'An expansion of a historical building built during the Republic of China. A project brings a balance between historical heritage and contemporary architectural technics.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/talking-to-history/cover.webp'
-readMoreUrl: 'posts/talking-to-history'
----
-
 _An expansion of a historical building built during the Republic of China. A project brings a balance between historical heritage and contemporary architectural technics._
 
 **UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.

@@ -1,16 +1,3 @@
----
-category: 'architecture'
-title: 'Urban Resilience'
-slug: 'urban-resilience'
-date: '2014'
-duration: '4 min read'
-keywords: ['urban', 'perservation', 'module']
-excerpt: 'An innovative, urban-scale interpretive at a defunct Urban Village, also known as "Village in City" in developing countries. Investigate breathing new life into a pressing social issue. Portray a fresh, down-to-earth community life among high-density residential buildings.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/urban-resilience/cover.webp'
-readMoreUrl: 'posts/urban-resilience'
----
-
 _An innovative, urban-scale interpretive at a defunct Urban Village, also known as "Village in City" in developing countries. Investigate breathing new life into a pressing social issue. Portray a fresh, down-to-earth community life among high-density residential buildings._
 
 **UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.

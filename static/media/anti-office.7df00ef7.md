@@ -1,16 +1,3 @@
----
-category: 'architecture'
-title: 'Anti-office'
-slug: 'anti-office'
-date: '2018'
-duration: '5 min read'
-keywords: ['interior', 'office', 'material']
-excerpt: 'After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/anti-office/cover.webp'
-readMoreUrl: 'posts/anti-office'
----
-
 _After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements._
 
 **UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.

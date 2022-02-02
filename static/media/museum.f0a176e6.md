@@ -1,16 +1,3 @@
----
-category: 'design'
-title: 'Museum'
-slug: 'museum'
-date: 'Jan 1, 2020'
-duration: '14 min read'
-keywords: ['UI/UX', 'App', 'Design', 'Museum']
-excerpt: 'I have been working on a museum app during the past month. This post documents the working process from research to wireframming to prototyping in great detail.'
-isFeatured: false
-imageSrc: '../../howiework/assets/post/image/museum/cover.webp'
-readMoreUrl: 'posts/museum'
----
-
 _Over the past month, I have been working on a museum app redesign for the Natinal Museum of African American History and Culture (aka. NMAAHC). This post documents the working process from research to wireframming to prototyping. It focuses on the research part explaining why I made certain design decisions in detail._
 
 **UPDATE 12/31/2021:** Review original post and make some narrating and formatting changes.

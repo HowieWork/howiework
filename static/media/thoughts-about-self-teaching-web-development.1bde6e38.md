@@ -1,16 +1,3 @@
----
-category: 'programming'
-title: 'Thoughts about self-teaching web development'
-slug: 'thoughts-about-self-teaching-web-development'
-date: 'Jan 6, 2022'
-duration: '8 min read'
-keywords: ['self-teach', 'web', 'development', 'programming']
-excerpt: 'I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress.'
-isFeatured: true
-imageSrc: '../../howiework/assets/post/image/thoughts-about-self-teaching-web-development/cover.webp'
-readMoreUrl: '/posts/thoughts-about-self-teaching-web-development'
----
-
 _I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress._
 
 **UPDATE 01/06/2022:** Finish initial post draft.
