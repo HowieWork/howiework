@@ -11,8 +11,8 @@ import './PostDetail.css';
 
 const PostDetail = () => {
   const [postData, setPostData] = useState();
-  const [isLoading, setIsLoading] = useState(false);
   const [postContent, setPostContent] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
 
   // DYNAMICALLY LOAD MARKDOWN FILES INTO REACT
   useEffect(() => {
@@ -32,8 +32,7 @@ const PostDetail = () => {
         fetch(res.default)
           .then((res) => res.text())
           .then((res) => {
-            const { data, content } = matter(res);
-            setPostData(data);
+            const { content } = matter(res);
             setPostContent(content);
             setIsLoading(false);
           });
@@ -125,7 +124,7 @@ const PostDetail = () => {
           <div
             className='post-detail-heading--image'
             style={{
-              backgroundImage: `url(../${postData.imageSrc})`,
+              backgroundImage: `url(../assets/post/image/${postData.imageSrc})`,
             }}
           />
           <div className='post-detail-heading--title'>{postData.title}</div>
