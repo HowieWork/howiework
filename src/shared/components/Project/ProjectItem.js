@@ -1,11 +1,24 @@
-import { Fragment } from 'react';
+import { Fragment, useEffect, useState } from 'react';
 import Button from '../FormElements/Button';
 import './ProjectItem.css';
 
 const ProjectItem = (props) => {
+  const [imageFile, setImageFile] = useState();
+
+  const { type, imageSrc } = props;
+
+  useEffect(() => {
+    import(`../../../assets/site/${type}/${imageSrc}`)
+      .then((res) => {
+        setImageFile(res.default);
+      })
+      .catch((err) => console.log('CATCH IMPORT ERROR:', err));
+  }, [type, imageSrc]);
+
   // GRID VIEW
   if (props.view === 'grid') {
     // 1) APPS
+
     if (props.type === 'app') {
       let cta;
 
@@ -34,7 +47,7 @@ const ProjectItem = (props) => {
         <div className='project-container--grid'>
           <div className='project-title--grid'>{props.title}</div>
           <div className='project-image--grid'>
-            <img src={props.imageSrc} alt={`${props.title} Cover`} />
+            <img src={imageFile} alt={`${props.title} Cover`} />
           </div>
           <div className='center-flex-column tiny-gap project-content-container--grid'>
             {props.technologyList && (
@@ -54,13 +67,14 @@ const ProjectItem = (props) => {
     }
 
     // 2) DESIGN
+
     if (props.type === 'design')
       return (
         <div className='project-container--grid'>
           <div className='project-title--grid'>{props.title}</div>
 
           <div className='project-image--grid'>
-            <img src={props.imageSrc} alt={`${props.title} Cover`} />
+            <img src={imageFile} alt={`${props.title} Cover`} />
           </div>
 
           <div className='center-flex-column tiny-gap project-content-container--grid'>
@@ -73,7 +87,6 @@ const ProjectItem = (props) => {
             )}
             <div className='project-description--grid'>
               <p>{props.description}</p>
-              {/* FIXME UPDATE MUSEUM PROJECT LINK */}
               {props.readMoreUrl && (
                 <Button to={props.readMoreUrl} secondary hoverUnderline>
                   Read More
@@ -85,12 +98,13 @@ const ProjectItem = (props) => {
       );
 
     // 3) ARCHITECTURE
+
     if (props.type === 'arch')
       return (
         <div className='project-container--grid'>
           <div className='project-title--grid'>{props.title}</div>
           <div className='project-image--grid'>
-            <img src={props.imageSrc} alt={`${props.title} Cover`} />
+            <img src={imageFile} alt={`${props.title} Cover`} />
           </div>
           <div className='center-flex-column tiny-gap project-content-container--grid'>
             <div className='project-description--grid'>

@@ -5,7 +5,7 @@ export const DESIGN_DATA = [
     technologyList: ['Adobe XD', 'Photoshop', 'Illustration'],
     description:
       'A mobile app design for a museum. Its goal is to enhance visiting experience. It integrates multiple key features together.',
-    imageSrc: 'assets/design/design-museum-cover.webp',
+    imageSrc: 'design-museum-cover.webp',
     readMoreUrl: '/posts/museum',
   },
   {
@@ -14,7 +14,7 @@ export const DESIGN_DATA = [
     technologyList: ['Vectornator', 'Photoshop'],
     description:
       'My challenge was to develop a distinctive brand that would reflect the organization’s values. New design language was inspired by its unique architectural form.',
-    imageSrc: 'assets/design/design-NMAAHC-cover.webp',
+    imageSrc: 'design-NMAAHC-cover.webp',
     readMoreUrl: '/posts/nmaahc',
   },
   {
@@ -23,7 +23,7 @@ export const DESIGN_DATA = [
     technologyList: ['Photoshop', 'Illustration'],
     description:
       'Worked closely with clients on strategies for a functional alcoholic beverage — Miao. It includes marketing strategy, scalable packages and storefront design.',
-    imageSrc: 'assets/design/design-miao-cover.webp',
+    imageSrc: 'design-miao-cover.webp',
     readMoreUrl: null,
   },
   {
@@ -32,7 +32,7 @@ export const DESIGN_DATA = [
     technologyList: ['Photoshop', 'Illustration'],
     description:
       'A product that helps people to kill the time during their lunch break.',
-    imageSrc: 'assets/design/design-lunchbreak-cover.webp',
+    imageSrc: 'design-lunchbreak-cover.webp',
     readMoreUrl: '/posts/lunch-break',
   },
 ];

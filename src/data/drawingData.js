@@ -2,26 +2,26 @@ export const DRAWING_DATA = [
   {
     title: 'boat',
     description: 'PLACEHOLDER',
-    imageSrc: 'assets/drawing/drawing-watercolor-boat.webp',
+    imageSrc: 'drawing-watercolor-boat.webp',
   },
   {
     title: 'dream',
     description: 'PLACEHOLDER',
-    imageSrc: 'assets/drawing/drawing-watercolor-dream.webp',
+    imageSrc: 'drawing-watercolor-dream.webp',
   },
   {
     title: 'dancer',
     description: 'PLACEHOLDER',
-    imageSrc: 'assets/drawing/drawing-charcoal-dancer.webp',
+    imageSrc: 'drawing-charcoal-dancer.webp',
   },
   {
     title: 'flow',
     description: 'PLACEHOLDER',
-    imageSrc: 'assets/drawing/drawing-charcoal-flow.webp',
+    imageSrc: 'drawing-charcoal-flow.webp',
   },
   {
     title: 'home',
     description: 'PLACEHOLDER',
-    imageSrc: 'assets/drawing/drawing-oil-paint-home.webp',
+    imageSrc: 'drawing-oil-paint-home.webp',
   },
 ];

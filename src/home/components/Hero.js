@@ -4,6 +4,9 @@ import { MdKeyboardArrowRight } from 'react-icons/md';
 import Button from '../../shared/components/FormElements/Button';
 import { ThemeContext } from '../../shared/context/theme-context';
 
+import headshotLight from '../../assets/site/headshot-light.png';
+import headshotDark from '../../assets/site/headshot-dark.png';
+
 import './Hero.css';
 
 const Hero = () => {
@@ -19,9 +22,7 @@ const Hero = () => {
         </div>
         <div className='center-flex-row hero-title--image'>
           <img
-            src={`assets/headshot-${
-              themeContext.isDarkTheme ? 'dark' : 'light'
-            }.png`}
+            src={themeContext.isDarkTheme ? headshotDark : headshotLight}
             alt='howie wang'
           />
         </div>

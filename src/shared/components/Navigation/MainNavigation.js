@@ -7,6 +7,7 @@ import NavLinks from './NavLinks';
 import SideDrawer from './SideDrawer';
 import Backdrop from '../UIElements/Backdrop';
 import { ThemeContext } from '../../context/theme-context';
+import logo from '../../../assets/site/logo.png';
 
 import './MainNavigation.css';
 
@@ -25,7 +26,7 @@ const MainNavigation = () => {
         <div className='responsive-width center-flex-row main-navigation'>
           <h1 className='center-flex-row tiny-gap main-navigation__title'>
             <span className='center-flex-row'>
-              <img src='../assets/logo.png' alt='logo' />
+              <img src={logo} alt='logo' />
             </span>
             <Link to='/'>Howie Hao Wang</Link>
           </h1>

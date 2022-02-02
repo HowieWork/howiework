@@ -27,21 +27,6 @@ const PostDetail = () => {
     setPostData(targetPost[0]);
 
     // NOTE DYNAMICALLY IMPORT MARKDOWN FILE
-    const markdownPath = require(`../../markdowns/${fileName}`).default;
-    console.log(markdownPath);
-    fetch(markdownPath)
-      .then((res) => res.text())
-      .then((res) => {
-        const { content } = matter(res);
-        setPostContent(content);
-        setIsLoading(false);
-      })
-      .catch(
-        // FIXME HANDLE ERROR
-        (err) => console.log(err)
-      );
-    // NOTE ALTERNATIVE USING IMPORT
-    /*
     import(`../../markdowns/${fileName}`)
       .then((res) => {
         fetch(res.default)
@@ -56,7 +41,23 @@ const PostDetail = () => {
       .catch(
         // FIXME HANDLE ERROR
         (err) => console.log(err)
-      );*/
+      );
+
+    // NOTE ALTERNATIVE: USING REQUIRE
+    /*
+    const markdownPath = require(`../../markdowns/${fileName}`).default;
+    fetch(markdownPath)
+      .then((res) => res.text())
+      .then((res) => {
+        const { content } = matter(res);
+        setPostContent(content);
+        setIsLoading(false);
+      })
+      .catch(
+        // FIXME HANDLE ERROR
+        (err) => console.log(err)
+      );
+      */
   }, []);
 
   const customRenderers = {

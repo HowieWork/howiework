@@ -5,7 +5,6 @@ import './PostItem.css';
 const PostItem = (props) => {
   let content;
   // FEATURED VERSION IS FOR HOMEPAGE SELECTED POSTS
-  // FIXME UPDATE SHORTER VERSION FOR FEATURED POSTS
   if (props.type === 'featured-version') {
     content = (
       <div className='featured-post-container'>
@@ -18,8 +17,8 @@ const PostItem = (props) => {
       </div>
     );
   }
+
   // POST VERSION IS FOR POST ROUTE
-  // FIXME UPDATE NORMAL VERSION FOR POSTS
   if (props.type === 'normal-version') {
     content = (
       <Link to={props.readMoreUrl} className='post-link'>
