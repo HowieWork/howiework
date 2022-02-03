@@ -9,70 +9,24 @@
 ![Last Commit][last-commit-shield] [![MIT License][license-shield]][license-url] [![Twitter][twitter-shield]][twitter-url]
 
 </div>
-<br />
-
 <!-- ----------------------------------------- -->
-
 <!-- HEAD SECTION -->
 <div align="center">
 
   <!-- PROJECT LOGO / TITLE -->
-  <a href="https://github.com/howiework/PROJECT_NAME">
+  <a href="https://github.com/howiework/public/assets/logo.png">
     <img src="#" alt="site logo" width="160" height="80">
   </a>
 
-  <h3>TITLE / SUBTITLE</h3>
-
-  <p>
-   APPLICATION DESCRIPTION
-  </p>
-
   <br />
 
-  <!-- PROJECT LINKS -->
-  <div align="center">
-    <a href="#" target="_blank"><strong>Demo</strong></a>
-    ·
-    <a href="#" target="_blank"><strong>GitHub</strong></a>
-    ·
-    <a href="#contact"><strong>Contact</strong></a>
-  </div>
-  <br />
 </div>
 
 <!-- ----------------------------------------- -->
 
-<!-- TABLE OF CONTENTS SECTION -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#overview">Overview</a>
-      <ul>
-        <li><a href="#built-with">Built with</a></li>
-      </ul>
-    </li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#license-&-copyright">License & Copyright</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+<!-- INTRO SECTION -->
 
-<!-- ----------------------------------------- -->
-
-<!-- OVERVIEW SECTION -->
-
-## Overview
-
-<br />
-
-<div align="center">
-  <img src="#" width="720" alt="APP SCREENSHOT">
-</div>
-
-<br />
+## Welcome!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -116,40 +70,15 @@ FEATURE 2 DESCRIPTION
 
 <!-- ----------------------------------------- -->
 
-## Roadmap
+## Portfolio changelog
 
-- [x] Frontend
+- [x] 03.2021 - Designer version \*archived [GitHub](https://github.com/HowieWork/howiework-v1-archived)
 
-  - [x] Ideation
-  - [x] Wireframing
-  - [x] Design system
-  - [x] Prototyping
-  - [x] Build Structure: Pages & Routes
-  - [x] Build React Components
-  - [x] Add Google Maps
-  - [x] Add Authorization
+- [x] 02.2022 - Developer version 1.0
 
-- [x] Backend
-
-  - [x] Build a REST API
-  - [x] Create Database
-  - [x] Connect React to Backend
-  - [x] Add file upload
-  - [x] Add Authentication and Authorization
-
-- [x] Deployment
-  - [x] Set up Environment variables for both FE & BE
-  - [x] API keys & credentials
-  - [x] Deploy REST API
-  - [x] Deploy React SPA
-
-<p align="right"><a href="#top">Back to Top ↑</a></p>
-
-<!-- ----------------------------------------- -->
-
-## Contributors
-
-- Howie Wang <howiewang2020@gmail.com>
+  - [x] Ideation: website design and develop tools
+  - [x] Update design system
+  - [x] Develop using React
 
 <!-- ----------------------------------------- -->
 
@@ -164,8 +93,6 @@ Licensed under the [MIT License](LICENSE)
 ## Contact
 
 - Howie Wang <howiewang2020@gmail.com>
-
-<p align="right"><a href="#top">Back to Top ↑</a></p>
 
 <!-- ----------------------------------------- -->
 
