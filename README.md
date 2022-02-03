@@ -65,11 +65,13 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 </div>
 
 <br/>
+<br/>
 
 [![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url] [![Axios][axios-shield]][axios-url] [![Mongoose][mongoose-shield]][mongoose-url]
 
 Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together. [Watch a video](https://youtu.be/UEYlXDD5DRI) for details.
 
+<br />
 <br />
 <br />
 
@@ -87,6 +89,7 @@ Snap App focus on creating a photo sharing platform for people who love architec
   <img src="assets/readme/app-lunch-break-cover.png" width="720" align="center">
 </div>
 
+<br/>
 <br/>
 
 [![Next][next-shield]][next-url] [![React][react-shield]][react-url] [![Mongodb][mongodb-shield]][mongodb-url]
