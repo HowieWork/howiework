@@ -102,19 +102,27 @@ A blog site focus on work-life balance. Its content is around three topics: desi
 
 ## Changelog
 
-**Feb 06, 2021**: HowieWork - Designer Edition goes live!
-\*Site has been archived at [GitHub](https://github.com/HowieWork/howiework-v1-archived).
-
 <div>
-  <div><strong>Dec, 2021 - Feb, 2022</strong>: Completely re-design and re-develop HowieWork - Developer Edition.</div>
-  <details>
-    <summary>View detail</summary>
-    <ul>
-      <li>Ideation: website design and develop tools</li>
-      <li>Update design system</li>
-      <li><strong>Feb 02, 2022</strong> HowieWork v1.0 goes live!</li>
-    </ul>
-  </details>
+  <ul>
+    <li>
+      <div><strong>Feb 06, 2021</strong> HowieWork (designer edition) goes live! *Site has been archived at</div>
+      <div>*Site has been archived at <a href="https://github.com/HowieWork/howiework-v1-archived" target="_blank">GitHub</a></div>
+    </li>
+    <li>
+      <div><strong>Dec, 2021 - Feb, 2022</strong> Completely re-design and re-develop HowieWork (developer edition).</div>
+      <details>
+        <summary>View detail</summary>
+        <ul>
+          <li><strong>Dec 11, 2021</strong> Complete design ideaion including wireframing, design system and prototyping</li>
+          <li><strong>Dec 18, 2021</strong> Build basic React structure based on Routes and Pages and React components</li>
+          <li><strong>Dec 26, 2021</strong> Support for dark mode</li>
+          <li><strong>Dec 30, 2021</strong> Add post section</li>
+          <li><strong>Jan 04, 2022</strong> Update website content</li>
+          <li><strong>Feb 02, 2022</strong> HowieWork v1.0 goes live!</li>
+        </ul>
+      </details>
+    </li>
+  </ul>
 </div>
 
 <p align="right"><a href="#top">Back to Top ↑</a></p>
@@ -140,9 +148,6 @@ A blog site focus on work-life balance. Its content is around three topics: desi
 
 <!-- BADGES/SHIELDS REFERENCE -->
 <!-- Site Related -->
-
-[site-screenshot]: assets/site-screenshot.webp
-[demo-url]: https://howiework.github.io/snap-app/
 
 <!-- Built with -->
 
