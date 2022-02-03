@@ -13,17 +13,19 @@
 
 <!-- NOTE INTRO SECTION -->
 
-## Welcome !
+## Welcome!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi, my name is Howie. I'm a front-end focused web developer based in US with a background of architecture.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+My interest in tech starts with work experience at WeWork. Working with people from different background opens my mind and reveals more opportunity and potential in tech industry. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). In my spare time, I [self-taught web development](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[My diverse background prepares me with both design and develop skills](https://www.howiework.com/posts/what-ive-learned-about-architecture-and-web-development): a keen eye for design; professional experience using a wide range of digital design tools; design thinking, proven problem solving, research and analytical skills.
+
+Seeking a web developer role to grow my career as a professional web developer. My current focus is on polishing my MERN stack skills.
 
 ### Built with
 
-[![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url] [![Axios][axios-shield]][axios-url] [![Mongoose][mongoose-shield]][mongoose-url]
+[![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url]
 
 <br/>
 
@@ -83,7 +85,7 @@ FEATURE 2 DESCRIPTION
 <br/>
 <br/>
 <div align="center">
-© 2022 Designed & Built by Howie
+© 2022 Made by Howie
 </div>
 <br/>
 <!-- NOTE REFERENCE STYLE FOR READABILITY -->
@@ -109,15 +111,11 @@ FEATURE 2 DESCRIPTION
 [node-url]: https://nodejs.org/
 [express-shield]: https://img.shields.io/static/v1?label=Express&message=v4.17.1&color=lightgrey&style=flat-square
 [express-url]: https://expressjs.com/
-[axios-shield]: https://img.shields.io/static/v1?label=Axios&message=v0.24.0&color=purple&style=flat-square
-[axios-url]: https://axios-http.com/
-[mongoose-shield]: https://img.shields.io/static/v1?label=Mongoose&message=v6.0.14&color=brightgreen&style=flat-square
-[mongoose-url]: https://mongoosejs.com/
 
 <!-- General -->
 
-[last-commit-shield]: https://img.shields.io/github/last-commit/howiework/snap-app?style=flat-square
-[license-shield]: https://img.shields.io/github/license/howiework/snap-app?style=flat-square
-[license-url]: https://github.com/HowieWork/snap-app/blob/gh-pages/LICENSE
+[last-commit-shield]: https://img.shields.io/github/last-commit/howiework/howiework?style=flat-square
+[license-shield]: https://img.shields.io/github/license/howiework/howiework?style=flat-square
+[license-url]: https://github.com/HowieWork/howiework/blob/gh-pages/LICENSE
 [twitter-shield]: https://img.shields.io/twitter/follow/howiework?label=Follow%20%40howiework&logo=Twitter&style=flat-square
 [twitter-url]: https://twitter.com/howiework
