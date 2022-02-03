@@ -2,12 +2,12 @@
 
 <!-- NOTE HEAD SECTION -->
 <div align="center">
-  <a href="https://www.howiework.com/">
-    <img src="assets/logo.png" alt="site logo" width="" height="80">
+  <a href="https://www.howiework.com/" target='_blank'>
+    <img src="assets/logo.png" alt="site logo" width="" height="72">
   </a>
   <div>
-  <a href="https://www.howiework.com/">View Site</a> | 
-  <a href="https://github.com/HowieWork/howiework/">GitHub</a>
+    <a href="https://www.howiework.com/" target='_blank'>View Site</a> • 
+    <a href="https://github.com/HowieWork/howiework/" target='_blank'>GitHub</a>
   </div>
 </div>
 
@@ -53,17 +53,17 @@ FEATURE 2 DESCRIPTION
 
 ## Changelog
 
-**Feb 06, 2021** _HowieWork - Designer Edition_ goes live!
+**Feb 06, 2021**: HowieWork - Designer Edition goes live!
 \*Site has been archived at [GitHub](https://github.com/HowieWork/howiework-v1-archived).
 
 <div>
-  <div><strong>Dec, 2021 - Feb, 2022</strong>: Completely re-design and re-develop <em>HowieWork - Developer Edition</em>.</div>
+  <div><strong>Dec, 2021 - Feb, 2022</strong>: Completely re-design and re-develop HowieWork - Developer Edition.</div>
   <details>
     <summary>View detail</summary>
     <ul>
       <li>Ideation: website design and develop tools</li>
       <li>Update design system</li>
-      <li><strong>Feb 02, 2022</strong> <em>HowieWork v1.0</em> goes live!</li>
+      <li><strong>Feb 02, 2022</strong> HowieWork v1.0 goes live!</li>
     </ul>
   </details>
 </div>
