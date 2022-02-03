@@ -65,11 +65,13 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 </div>
 
 <br/>
+<br/>
 
 [![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url] [![Axios][axios-shield]][axios-url] [![Mongoose][mongoose-shield]][mongoose-url]
 
 Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together. [Watch a video](https://youtu.be/UEYlXDD5DRI) for details.
 
+<br />
 <br />
 <br />
 
@@ -88,6 +90,7 @@ Snap App focus on creating a photo sharing platform for people who love architec
 </div>
 
 <br/>
+<br/>
 
 [![Next][next-shield]][next-url] [![React][react-shield]][react-url] [![Mongodb][mongodb-shield]][mongodb-url]
 
@@ -99,19 +102,24 @@ A blog site focus on work-life balance. Its content is around three topics: desi
 
 ## Changelog
 
-**Feb 06, 2021**: HowieWork - Designer Edition goes live!
-\*Site has been archived at [GitHub](https://github.com/HowieWork/howiework-v1-archived).
-
 <div>
-  <div><strong>Dec, 2021 - Feb, 2022</strong>: Completely re-design and re-develop HowieWork - Developer Edition.</div>
-  <details>
-    <summary>View detail</summary>
-    <ul>
-      <li>Ideation: website design and develop tools</li>
-      <li>Update design system</li>
-      <li><strong>Feb 02, 2022</strong> HowieWork v1.0 goes live!</li>
-    </ul>
-  </details>
+  <ul>
+    <li>
+      <div><strong>Feb 06, 2021</strong>: HowieWork (designer edition) goes live! *Site has been archived at</div>
+      <div>*Site has been archived at <a href="https://github.com/HowieWork/howiework-v1-archived" target="_blank">GitHub</a></div>
+    </li>
+    <li>
+      <div><strong>Dec, 2021 - Feb, 2022</strong>: Completely re-design and re-develop HowieWork (developer edition).</div>
+      <details>
+        <summary>View detail</summary>
+        <ul>
+          <li>Ideation: website design and develop tools</li>
+          <li>Update design system</li>
+          <li><strong>Feb 02, 2022</strong> HowieWork v1.0 goes live!</li>
+        </ul>
+      </details>
+    </li>
+  </ul>
 </div>
 
 <p align="right"><a href="#top">Back to Top ↑</a></p>
