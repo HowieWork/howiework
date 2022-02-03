@@ -1,32 +1,19 @@
 <div id="top"></div>
 
-<!-- ----------------------------------------- -->
-
-<!-- BADGES/SHIELDS SECTION -->
-<!-- NOTE REFERENCE STYLE FOR READABILITY -->
-<div align='center' markdown="1">
-
-![Last Commit][last-commit-shield] [![MIT License][license-shield]][license-url] [![Twitter][twitter-shield]][twitter-url]
-
-</div>
-<!-- ----------------------------------------- -->
-<!-- HEAD SECTION -->
+<!-- NOTE HEAD SECTION -->
 <div align="center">
-
-  <!-- PROJECT LOGO / TITLE -->
-  <a href="https://github.com/howiework/public/assets/logo.png">
-    <img src="#" alt="site logo" width="160" height="80">
+  <a href="https://www.howiework.com/">
+    <img src="assets/logo.png" alt="site logo" width="" height="80">
   </a>
-
-  <br />
-
+  <div>
+  <a href="https://www.howiework.com/">View Site</a> | 
+  <a href="https://github.com/HowieWork/howiework/">GitHub</a>
+  </div>
 </div>
 
-<!-- ----------------------------------------- -->
+<!-- NOTE INTRO SECTION -->
 
-<!-- INTRO SECTION -->
-
-## Welcome!
+## Welcome !
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -34,19 +21,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<br />
-
 ### Built with
 
 [![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url] [![Axios][axios-shield]][axios-url] [![Mongoose][mongoose-shield]][mongoose-url]
 
-<p align="right"><a href="#top">Back to Top ↑</a></p>
+<br/>
 
-<!-- ----------------------------------------- -->
+<!-- NOTE SELECTED PROJECTS SECTION -->
 
-## Features
+## Selected Projects
 
-### Feature 1
+### Snap App
 
 FEATURE 1 DESCRIPTION
 
@@ -56,7 +41,7 @@ FEATURE 1 DESCRIPTION
 
 <br />
 
-### Feature 2
+### LunchBreak
 
 FEATURE 2 DESCRIPTION
 
@@ -64,35 +49,49 @@ FEATURE 2 DESCRIPTION
   <img src="#" width="720" align="center">
 </div>
 
-<br />
+<!-- ----------------------------------------- -->
+
+## Changelog
+
+**Feb 06, 2021** _HowieWork - Designer Edition_ goes live!
+\*Site has been archived at [GitHub](https://github.com/HowieWork/howiework-v1-archived).
+
+<div>
+  <div><strong>Dec, 2021 - Feb, 2022</strong>: Completely re-design and re-develop <em>HowieWork - Developer Edition</em>.</div>
+  <details>
+    <summary>View detail</summary>
+    <ul>
+      <li>Ideation: website design and develop tools</li>
+      <li>Update design system</li>
+      <li><strong>Feb 02, 2022</strong> <em>HowieWork v1.0</em> goes live!</li>
+    </ul>
+  </details>
+</div>
 
 <p align="right"><a href="#top">Back to Top ↑</a></p>
-
-<!-- ----------------------------------------- -->
-
-## Portfolio changelog
-
-- [x] 03.2021 - Designer version \*archived [GitHub](https://github.com/HowieWork/howiework-v1-archived)
-
-- [x] 02.2022 - Developer version 1.0
-
-  - [x] Ideation: website design and develop tools
-  - [x] Update design system
-  - [x] Develop using React
-
-<!-- ----------------------------------------- -->
-
-## License & copyright
-
-© Howie Wang
-
-Licensed under the [MIT License](LICENSE)
-
 <!-- ----------------------------------------- -->
 
 ## Contact
 
 - Howie Wang <howiewang2020@gmail.com>
+
+<!-- ----------------------------------------- -->
+
+<!-- FOOTER SECTION -->
+
+<br/>
+<br/>
+<br/>
+<div align="center">
+© 2022 Designed & Built by Howie
+</div>
+<br/>
+<!-- NOTE REFERENCE STYLE FOR READABILITY -->
+<div align='center' markdown="1">
+
+![Last Commit][last-commit-shield] [![MIT License][license-shield]][license-url] [![Twitter][twitter-shield]][twitter-url]
+
+</div>
 
 <!-- ----------------------------------------- -->
 
