@@ -52,16 +52,16 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 
 <div align="center">
   <h3>Snap App</h3>
+  <div>
+    <a href="https://howiework.github.io/snap-app/" target='_blank'>View Site</a> • 
+    <a href="https://github.com/HowieWork/snap-app" target='_blank'>GitHub</a>
+  </div>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="assets/readme/app-snap-cover.png" width="720" align="center">
-  <div>
-    <a href="https://howiework.github.io/snap-app/" target='_blank'>View Site</a> • 
-    <a href="https://github.com/HowieWork/snap-app" target='_blank'>GitHub</a>
-  </div>
 </div>
 
 <br/>
@@ -75,16 +75,16 @@ Snap App focus on creating a photo sharing platform for people who love architec
 
 <div align="center">
   <h3>Lunch Break</h3>
+  <div>
+    <a href="https://lunch-break.vercel.app/" target='_blank'>View Site</a> • 
+    <a href="https://github.com/HowieWork/lunch-break/" target='_blank'>GitHub</a>
+  </div>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="assets/readme/app-lunch-break-cover.png" width="720" align="center">
-  <div>
-    <a href="https://lunch-break.vercel.app/" target='_blank'>View Site</a> • 
-    <a href="https://github.com/HowieWork/lunch-break/" target='_blank'>GitHub</a>
-  </div>
 </div>
 
 <br/>
