@@ -3,13 +3,15 @@
 <!-- NOTE HEAD SECTION -->
 <div align="center">
   <a href="https://www.howiework.com/" target='_blank'>
-    <img src="assets/logo.png" alt="site logo" width="" height="72">
+    <img src="assets/logo.png" alt="site logo" width="" height="72"/>
   </a>
   <div>
     <a href="https://www.howiework.com/" target='_blank'>View Site</a> • 
     <a href="https://github.com/HowieWork/howiework/" target='_blank'>GitHub</a>
   </div>
 </div>
+
+<br />
 
 <!-- NOTE INTRO SECTION -->
 
@@ -23,9 +25,20 @@ My interest in tech starts with work experience at WeWork. Working with people f
 
 Seeking a web developer role to grow my career as a professional web developer. My current focus is on polishing my MERN stack skills.
 
+<br />
+
+<div>
+  <a href="https://github.com/HowieWork" target='_blank'><img src="assets/readme/github.svg" alt="site logo" width="" height="30"/></a>
+  <a href="https://www.instagram.com/howiework" target='_blank'><img src="assets/readme/instagram.svg" alt="site logo" width="" height="30"/></a>
+  <a href="https://twitter.com/howiework" target='_blank'><img src="assets/readme/twitter.svg" alt="site logo" width="" height="30"/></a>
+  <a href="https://www.linkedin.com/in/howiework" target='_blank'><img src="assets/readme/linkedin.svg" alt="site logo" width="" height="30"/></a> 
+</div>
+
+<br />
+
 ### Built with
 
-[![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url]
+[![React][react-shield]][react-url] [![react-dom][react-dom-shield]][react-dom-url] [![react-markdown][react-markdown-shield]][react-markdown-url]
 
 <br/>
 
@@ -33,23 +46,54 @@ Seeking a web developer role to grow my career as a professional web developer. 
 
 ## Selected Projects
 
-### Snap App
+I picked two projects as an indication of my full-stack develop skills. Also, apply newly learned knowledge to something I feel excited about always motivates me to keep going.
 
-FEATURE 1 DESCRIPTION
+<br/>
 
 <div align="center">
-  <img src="#" width="720" align="center">
+  <h3>Snap App</h3>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/readme/app-snap-cover.png" width="720" align="center">
+  <div>
+    <a href="https://howiework.github.io/snap-app/" target='_blank'>View Site</a> • 
+    <a href="https://github.com/HowieWork/snap-app" target='_blank'>GitHub</a>
+  </div>
+</div>
+
+<br/>
+
+[![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url] [![Axios][axios-shield]][axios-url] [![Mongoose][mongoose-shield]][mongoose-url]
+
+Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together. [Watch a video](https://youtu.be/UEYlXDD5DRI) for details.
 
 <br />
-
-### LunchBreak
-
-FEATURE 2 DESCRIPTION
+<br />
 
 <div align="center">
-  <img src="#" width="720" align="center">
+  <h3>Lunch Break</h3>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/readme/app-lunch-break-cover.png" width="720" align="center">
+  <div>
+    <a href="https://lunch-break.vercel.app/" target='_blank'>View Site</a> • 
+    <a href="https://github.com/HowieWork/lunch-break/" target='_blank'>GitHub</a>
+  </div>
+</div>
+
+<br/>
+
+[![Next][next-shield]][next-url] [![React][react-shield]][react-url] [![Mongodb][mongodb-shield]][mongodb-url]
+
+A blog site focus on work-life balance. Its content is around three topics: design, psychology and community. Built with Next.js. [Watch a video](https://youtu.be/jIDyerwpAXw) for details.
+
+<br />
 
 <!-- ----------------------------------------- -->
 
@@ -71,12 +115,6 @@ FEATURE 2 DESCRIPTION
 </div>
 
 <p align="right"><a href="#top">Back to Top ↑</a></p>
-<!-- ----------------------------------------- -->
-
-## Contact
-
-- Howie Wang <howiewang2020@gmail.com>
-
 <!-- ----------------------------------------- -->
 
 <!-- FOOTER SECTION -->
@@ -107,10 +145,22 @@ FEATURE 2 DESCRIPTION
 
 [react-shield]: https://img.shields.io/static/v1?label=React&message=v17.0.2&color=blue&style=flat-square
 [react-url]: https://reactjs.org/
+[react-dom-shield]: https://img.shields.io/static/v1?label=react-dom&message=v17.0.2&color=blue&style=flat-square
+[react-dom-url]: https://reactjs.org/docs/react-dom.html
+[react-markdown-shield]: https://img.shields.io/static/v1?label=react-markdown&message=v7.1.1&color=lightgrey&style=flat-square
+[react-markdown-url]: https://remarkjs.github.io/react-markdown/
 [node-shield]: https://img.shields.io/static/v1?label=Node&message=v14.17.4&color=green&style=flat-square
 [node-url]: https://nodejs.org/
 [express-shield]: https://img.shields.io/static/v1?label=Express&message=v4.17.1&color=lightgrey&style=flat-square
 [express-url]: https://expressjs.com/
+[axios-shield]: https://img.shields.io/static/v1?label=Axios&message=v0.24.0&color=purple&style=flat-square
+[axios-url]: https://axios-http.com/
+[mongoose-shield]: https://img.shields.io/static/v1?label=Mongoose&message=v6.0.14&color=brightgreen&style=flat-square
+[mongoose-url]: https://mongoosejs.com/
+[next-shield]: https://img.shields.io/static/v1?label=Next&message=v10.0.6&color=lightgrey&style=flat-square
+[next-url]: https://nextjs.org/
+[mongodb-shield]: https://img.shields.io/static/v1?label=MongoDB&message=v4.3.0&color=brightgreen&style=flat-square
+[mongodb-url]: https://www.mongodb.com/
 
 <!-- General -->
 
