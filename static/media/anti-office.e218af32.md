@@ -39,3 +39,12 @@ _After visiting the site and several rounds of meetings, the team developed a wh
 
 ![arch-bar-render](../assets/post/image/anti-office/arch-bar-render.webp)
 **Arch bar render**
+
+## VR
+
+In the end, the team decided to add VR in our presentation for the client. My first work experience with VR taught me a lot, especially how to integrate new technology with traditional architecture job.
+
+Click link below or [watch a demo video](https://youtu.be/arrmfWZeuec) for optimized VR experience.
+
+![arch-bar-render](../assets/post/image/anti-office/VR-demo-thumbnail.png)
+**VR link**
