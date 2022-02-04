@@ -8,7 +8,7 @@
 
 /* HERO TITLE */
 .hero-title {
-  height: 36vh;
+  height: 32vh;
 
   justify-content: space-between;
   margin-bottom: 3.2rem;
@@ -26,18 +26,14 @@
 }
 
 .hero-title--image img {
-  height: 36vh;
+  height: 34vh;
 
   border-radius: 999rem;
 
   z-index: -9;
 }
 
-@media (max-width: 64em) {
-  .hero-title {
-    height: 30vh;
-  }
-
+@media (max-width: 72em) {
   .hero-title--image img {
     height: 24vh;
   }
@@ -49,16 +45,27 @@
   }
 
   .hero-title--image img {
-    height: 16vh;
+    height: 18vh;
   }
 }
 
 /* HERO DESCRIPTION */
-.hero-description p {
+.hero-description div {
   /* FIXME ALL PARAGRAPH LINE HEIGHT NEED TO BE ADJUSTED SYSTEMMATICALLY */
   line-height: 1.6;
 
   color: var(--font-color--secondary);
+}
+
+.hero-description div a {
+  color: var(--primary-color);
+}
+
+.hero-description div a:link::after,
+.hero-description div a:visited::after,
+.hero-description div a:hover::after,
+.hero-description div a:active::after {
+  background-color: var(--primary-color);
 }
 
 @media (max-width: 64em) {

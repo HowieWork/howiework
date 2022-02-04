@@ -18,7 +18,7 @@ const Hero = () => {
       <div className='center-flex-row hero-title'>
         <div className='hero-title--text'>
           <h2>Hi, I'm Howie</h2>
-          <p>Developer / Designer</p>
+          <p>Developer | Designer</p>
         </div>
         <div className='center-flex-row hero-title--image'>
           <img
@@ -30,17 +30,38 @@ const Hero = () => {
 
       {/* HERO DESCRIPTION */}
       <div className='center-flex-column tiny-gap hero-description'>
-        <p>
+        <div>
           Howie is a front-end focused web developer based in US with a
-          background of architecture. He loves design and technologies. He
-          believes “There are no boundaries between medium.”
-        </p>
-        <p>
-          Howie self-taught web development. His current focus includes React,
-          Next.js and Node.js. His diverse background equips him with both
-          design and develop skills.
-        </p>
-        <p>Currently, he is working on his own product called Lunch Break.</p>
+          background of architecture.
+        </div>
+        <div>
+          His interest in tech starts with work experience at WeWork. Working
+          with people from different background opens his mind and reveals more
+          opportunity and potential. Later at SOM, he worked on{' '}
+          <Button to='/posts/anti-office' secondary hoverUnderline>
+            an interior project involving VR
+          </Button>{' '}
+          . He{' '}
+          <Button
+            to='/posts/thoughts-about-self-teaching-web-development'
+            secondary
+            hoverUnderline
+          >
+            self-taught web development
+          </Button>{' '}
+          and gradually realize his true passion.
+        </div>
+        <div>
+          <Button
+            to='/posts/what-ive-learned-about-architecture-and-web-development'
+            secondary
+            hoverUnderline
+          >
+            His diverse background
+          </Button>{' '}
+          equips him with both design and develop skills. Currently, he is
+          focusing on polishing his MERN stack skills.
+        </div>
       </div>
 
       {/* HERO CTA */}
