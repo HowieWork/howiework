@@ -134,10 +134,10 @@ I started to use GitHub very early during my self-teaching. In the beginning, I 
 
 <div align="center" float="left">
   <span>
-    <img src="/public/assets/readme/app-natours-cover.webp" width="240" alt="Natour cover" />
+    <img src="assets/readme/app-natours-cover.webp" width="240" alt="Natour cover" />
   </span>
   <span align="center">
-    <img src="/public/assets/readme/app-forkify-cover.webp" width="240" alt="Forkify cover" />
+    <img src="assets/readme/app-forkify-cover.webp" width="240" alt="Forkify cover" />
   </span>
 </div>
 
