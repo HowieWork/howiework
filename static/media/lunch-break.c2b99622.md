@@ -6,7 +6,7 @@ _LunchBreak is a blog, aims to help people to grow a positive mindset and live a
 
 LunchBreak is a personal WeChat Official Account (OA) I created and have been managing since the end of 2018. I came up with this idea through countless lunch-breaks:
 
-I was working as a full-time architectural designer for a large international corporation at Washington DC. [An interior office project](www.howiework.com/posts/anti-office) for a large tech company I was working on was still at the earlier stage. My role was to conduct researches relating to how the working environment affects employees' performance and how it informs office design. Meanwhile, I had the chance to talk to office workers and got a better understanding of how design affects people's daily life.
+I was working as a full-time architectural designer for a large international corporation at Washington DC. [An interior office project](https://www.howiework.com/posts/anti-office) for a large tech company I was working on was still at the earlier stage. My role was to conduct researches relating to how the working environment affects employees' performance and how it informs office design. Meanwhile, I had the chance to talk to office workers and got a better understanding of how design affects people's daily life.
 
 Gradually, I realized that bring aesthetics into people's life is only a part of designers' responsibilities; convey design ideas and educate are issues needs designers' attention. I decided to start a blog on a digital platform (WeChat OA), which I am a daily user of and more familiar with.
 
