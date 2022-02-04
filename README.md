@@ -61,7 +61,7 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 <br/>
 
 <div align="center">
-  <img src="assets/readme/app-snap-cover.png" width="720" align="center">
+  <img src="assets/readme/app-snap-cover.png" alt="Snap App cover" width="720" align="center">
 </div>
 
 <br/>
@@ -86,7 +86,7 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 
 <div align="center">
-  <img src="assets/readme/app-lunch-break-cover.png" width="720" align="center">
+  <img src="assets/readme/app-lunch-break-cover.png" alt="LunchBreak app cover" width="720" align="center">
 </div>
 
 <br/>
@@ -100,7 +100,7 @@ A blog site focus on work-life balance. Its content is around three topics: desi
 
 <!-- ----------------------------------------- -->
 
-## Changelog
+## Portfolio Changelog
 
 <div>
   <ul>
@@ -126,6 +126,72 @@ A blog site focus on work-life balance. Its content is around three topics: desi
 </div>
 
 <p align="right"><a href="#top">Back to Top ↑</a></p>
+<!-- ----------------------------------------- -->
+
+## Certifications & some tutorial projects
+
+I started to use GitHub very early during my self-teaching. In the beginning, I mainly use GH as a platform to keep a track of what I've learned. Also, I can always go back to GH for reviewing knowledge. With the help of GH pages, I was able to publish some of the projects I followed along tutorials. Here are two examples - [Natour](https://github.com/HowieWork/natours) & [Forkify](https://github.com/HowieWork/forkify):
+
+<div align="center" float="left">
+  <span>
+    <img src="/public/assets/readme/app-natours-cover.webp" width="240" alt="Natour cover" />
+  </span>
+  <span align="center">
+    <img src="/public/assets/readme/app-forkify-cover.webp" width="240" alt="Forkify cover" />
+  </span>
+</div>
+
+<br />
+
+A list of certifications I earned:
+
+<div>
+  <ul>
+    <li>  
+      <div>
+        <strong>Jan 23, 2022</strong>
+        <a href="/public/assets/readme/cert-nextjs-howie.webp">Next.js & React - The Complete Guide</a> 
+        <div>
+          *Also, I wrote a post about
+          <a href="https://www.howiework.com/posts/how-i-learn-nextjs" target="_blank"><em>How I learn Next.js</em></a>
+        </div>
+      </div>
+    </li>
+    <li>  
+      <div>
+        <strong>Dec 30, 2021</strong>
+        <a href="/public/assets/readme/cert-react-howie.webp">React - The Complete Guide (incl Hooks, React Router, Redux)</a> 
+      </div>
+    </li>
+    <li>  
+      <div>
+        <strong>Sep 20, 2021</strong>
+        <a href="/public/assets/readme/cert-node-howie.webp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2021</a> 
+      </div>
+    </li>
+    <li>  
+      <div>
+        <strong>Sep 8, 2021</strong>
+        <a href="/public/assets/readme/cert-html-css-howie.webp">Build Responsive Real-World Websites with HTML and CSS</a> 
+      </div>
+    </li>
+    <li>  
+      <div>
+        <strong>July 15, 2021</strong>
+        <a href="/public/assets/readme/cert-js-howie.webp">The Complete JavaScript Course 2021: From Zero to Expert!</a> 
+      </div>
+    </li>
+    <li>  
+      <div>
+        <strong>April 9, 2021</strong>
+        <a href="/public/assets/readme/cert-web-bootcamp-howie.webp">The Complete 2021 Web Development Bootcamp</a> 
+      </div>
+    </li>
+  </ul>
+</div>
+
+<p align="right"><a href="#top">Back to Top ↑</a></p>
+
 <!-- ----------------------------------------- -->
 
 <!-- FOOTER SECTION -->
