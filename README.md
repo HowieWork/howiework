@@ -150,7 +150,7 @@ A list of certifications I earned:
     <li>  
       <div>
         <strong>Jan 23, 2022</strong>
-        <a href="/public/assets/readme/cert-nextjs-howie.webp">Next.js & React - The Complete Guide</a> 
+        <a href="assets/readme/cert-nextjs-howie.webp">Next.js & React - The Complete Guide</a> 
         <div>
           *Also, I wrote a post about
           <a href="https://www.howiework.com/posts/how-i-learn-nextjs" target="_blank"><em>How I learn Next.js</em></a>
@@ -160,7 +160,7 @@ A list of certifications I earned:
     <li>  
       <div>
         <strong>Dec 30, 2021</strong>
-        <a href="/public/assets/readme/cert-react-howie.webp">React - The Complete Guide (incl Hooks, React Router, Redux)</a> 
+        <a href="assets/readme/cert-react-howie.webp">React - The Complete Guide (incl Hooks, React Router, Redux)</a> 
       </div>
     </li>
     <li>  
