@@ -166,25 +166,25 @@ A list of certifications I earned:
     <li>  
       <div>
         <strong>Sep 20, 2021</strong>
-        <a href="/public/assets/readme/cert-node-howie.webp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2021</a> 
+        <a href="assets/readme/cert-node-howie.webp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2021</a> 
       </div>
     </li>
     <li>  
       <div>
         <strong>Sep 8, 2021</strong>
-        <a href="/public/assets/readme/cert-html-css-howie.webp">Build Responsive Real-World Websites with HTML and CSS</a> 
+        <a href="assets/readme/cert-html-css-howie.webp">Build Responsive Real-World Websites with HTML and CSS</a> 
       </div>
     </li>
     <li>  
       <div>
         <strong>July 15, 2021</strong>
-        <a href="/public/assets/readme/cert-js-howie.webp">The Complete JavaScript Course 2021: From Zero to Expert!</a> 
+        <a href="assets/readme/cert-js-howie.webp">The Complete JavaScript Course 2021: From Zero to Expert!</a> 
       </div>
     </li>
     <li>  
       <div>
         <strong>April 9, 2021</strong>
-        <a href="/public/assets/readme/cert-web-bootcamp-howie.webp">The Complete 2021 Web Development Bootcamp</a> 
+        <a href="assets/readme/cert-web-bootcamp-howie.webp">The Complete 2021 Web Development Bootcamp</a> 
       </div>
     </li>
   </ul>
