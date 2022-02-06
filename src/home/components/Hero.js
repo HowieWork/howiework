@@ -35,7 +35,7 @@ const Hero = () => {
           background of architecture.
         </div>
         <div>
-          His interest in tech starts with work experience at WeWork. Working
+          His interest in tech started with work experience at WeWork. Working
           with people from different background opens his mind and reveals more
           opportunity and potential. Later at SOM, he worked on{' '}
           <Button to='/posts/anti-office' secondary hoverUnderline>
@@ -49,7 +49,7 @@ const Hero = () => {
           >
             self-taught web development
           </Button>{' '}
-          and gradually realize his true passion.
+          and gradually realized his true passion.
         </div>
         <div>
           <Button
@@ -59,7 +59,7 @@ const Hero = () => {
           >
             His diverse background
           </Button>{' '}
-          equips him with both design and develop skills. Currently, he is
+          equips him with both design and development skills. Currently, he is
           focusing on polishing his MERN stack skills.
         </div>
       </div>

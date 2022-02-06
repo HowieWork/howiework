@@ -17,11 +17,11 @@
 
 ## Welcome!
 
-Hi, my name is Howie. I'm a front-end focused web developer based in US with a background of architecture.
+Hi, my name is Howie. I'm a front-end focused web developer based in US with a background in architecture.
 
-My interest in tech starts with work experience at WeWork. Working with people from different background opens my mind and reveals more opportunity and potential in tech industry. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). In my spare time, I [self-taught web development](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion.
+My interest in tech started with work experience at WeWork. I was fascinated by how a data-driven approach is implemented in design. It’s also fun to work with tech-background colleagues. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). The team added a VR interaction session to final presentation for the client. It was a big success. These two experiences really open my mind and reveal more opportunity and potential in the tech industry. In my spare time, I [self-taught programming](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion of web development.
 
-[My diverse background prepares me with both design and develop skills](https://www.howiework.com/posts/what-ive-learned-about-architecture-and-web-development): a keen eye for design; professional experience using a wide range of digital design tools; design thinking, proven problem solving, research and analytical skills.
+[My diverse background prepares me with both design and development skills](https://www.howiework.com/posts/what-ive-learned-about-architecture-and-web-development): a keen eye for design; professional experience using a wide range of digital design tools; design thinking, proven problem solving, research and analytical skills.
 
 Seeking a web developer role to grow my career as a professional web developer. My current focus is on polishing my MERN stack skills.
 
