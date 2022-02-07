@@ -1,6 +1,6 @@
 _I share my thoughts about self-teaching web development in this post. It will be updated based on my learning progress._
 
-**UPDATE 01/06/2022:** Finish initial post draft.
+**UPDATE 02/07/2022:** Revise content.
 
 ## Intro
 
@@ -8,7 +8,7 @@ I have delved myself into web development for almost a year. I would like to sha
 
 ## MOOC
 
-MOOC, Massive open online course, has been the main resource I rely on during my study. Sometimes, I will feel lucky to live in this era. Because I can easily get things I want to learn. Internet is a treasure island if you take good advantage of it. MOOC is a part of it. Plus, learning web development from web itself is a natural and fun experience.
+MOOC, Massive open online course, has been the main resource I rely on during my study. I feel lucky to live in this era. Because I can easily get things I want to learn. Internet is a treasure island if you take good advantage of it. MOOC is a part of it. Plus, learning web development from web itself is a natural and fun experience.
 
 ### Go with the trend
 
@@ -28,11 +28,11 @@ Usually you can find online communities if you are enrolled in some online cours
 
 Additionally, some communities post trivial questions frequently. It is a good time to test knowledge you learned from the course.
 
-Also, Twitter is a good place to visit. I followed my instructors and community public account. And I get to know what are new trends and what technology has been updated. However, keep in mind: balance well with your study time and your social media time. Otherwise, it can easily chip away your time.
+Also, Twitter is a good place to visit. I followed my instructors and community public account. And I get to know what are trending now and what technology has been updated. However, keep in mind: balance well with your study time and your social media time. Otherwise, it can easily chip away your time.
 
 ## Reading and listening
 
-Books and podcasts are good supplement while learning web development. Though, I have to admit learning programing through reading books is hard and seems outdated. I find it helpful to sometimes switch the medium a bit. Mainly I choose product design topics as reading during my casual time.
+Books and podcasts are good supplement while learning web development. Though, I have to admit learning programing through reading books is hard and seems outdated. I find it helpful to sometimes switch the medium a bit. Mainly I choose product design topics as reading in my spare time.
 
 Also, some theory books introduce how programming develops are a good choice. I will make a list of my readings sometime in the future.
 
