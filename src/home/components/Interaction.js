@@ -24,7 +24,7 @@ const Interaction = () => {
   return (
     <section className='responsive-width section-interactive'>
       <Checkbox
-        label='Interactive'
+        label='Watch a conversation'
         onChange={checkboxChangeHandler}
         className='center-flex-row tiny-gap checkbox-interactive'
         value={isChecked}
