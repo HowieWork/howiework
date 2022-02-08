@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[61],{568:function(o,t,i){"use strict";i.r(t),t.default=i.p+"static/media/sounding-ground.4950497e.md"}}]);
+//# sourceMappingURL=61.e41f5280.chunk.js.map

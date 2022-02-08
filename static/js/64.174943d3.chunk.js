@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[64],{526:function(p,o,t){"use strict";t.r(o),o.default=t.p+"static/media/app-lunch-break-cover.ba9af918.png"}}]);
-//# sourceMappingURL=64.174943d3.chunk.js.map

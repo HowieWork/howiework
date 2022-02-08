@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[66],{546:function(o,s,t){"use strict";t.r(s),s.default=t.p+"static/media/design-museum-cover.5f331f54.png"}}]);
-//# sourceMappingURL=66.e12c2b2f.chunk.js.map

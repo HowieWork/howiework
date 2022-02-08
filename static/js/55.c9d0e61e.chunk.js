@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[55],{562:function(o,t,i){"use strict";i.r(t),t.default=i.p+"static/media/moon-village.242e4abf.md"}}]);
-//# sourceMappingURL=55.c9d0e61e.chunk.js.map
