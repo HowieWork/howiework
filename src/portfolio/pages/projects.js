@@ -48,22 +48,19 @@ const Projects = () => {
           data={APP_DATA}
         />
         <div className='center-flex-row tiny-gap category-sub-title'>
-          * Note: Below is a collection of tutorial projects.
+          * Note: click button to show a collection of tutorial projects.
         </div>
-        <ProjectList
-          category='app'
-          view={isChecked ? 'list' : 'grid'}
-          data={TUTORIAL_APP_DATA.slice(0, 4)}
-        />
         {isShowMoreClicked && (
           <ProjectList
             category='app'
             view={isChecked ? 'list' : 'grid'}
-            data={TUTORIAL_APP_DATA.slice(-4)}
+            data={TUTORIAL_APP_DATA}
           />
         )}
         <Button type='button' primary onClick={onClickShowMoreHandler}>
-          {isShowMoreClicked ? 'Show Less' : 'Show More'}
+          {isShowMoreClicked
+            ? 'Hide Tutorial Projects'
+            : 'Show Tutorial Projects'}
         </Button>
       </section>
 
