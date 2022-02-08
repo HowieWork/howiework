@@ -15,7 +15,6 @@ const ProjectDetail = () => {
   const projectData = APP_DATA.filter((data) => data.slug === projectSlug);
 
   const { title, description, demoUrl, gitHubUrl, embedId } = projectData[0];
-  console.log(projectData[0]);
 
   return (
     <div className='center-flex-column responsive-width project-detail-container'>
