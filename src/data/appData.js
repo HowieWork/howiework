@@ -5,7 +5,7 @@ export const APP_DATA = [
     slug: 'snap-app',
     technologyList: ['React', 'Node', 'Express', 'MongoDB'],
     description:
-      'Snap App focus on creating a photo sharing platform for people who love architecture.',
+      'Snap App focuses on creating a photo sharing platform for people who love architecture.',
     imageSrc: 'app-snap-cover.webp',
     demoUrl: 'https://howiework.github.io/snap-app/',
     gitHubUrl: 'https://github.com/HowieWork/snap-app',
@@ -14,7 +14,7 @@ export const APP_DATA = [
   {
     type: 'app',
     title: 'Lunch Break',
-    slug: 'lunch-break',
+    slug: 'lunch-break-app',
     technologyList: ['Next', 'React', 'MongoDB', 'Vercel'],
     description:
       'A blog site focus on work-life balance. Its content is around three topics: design, psychology and community.',

@@ -60,7 +60,7 @@ const App = () => {
         <Posts />
       </Route>
       <Route path='/posts/:postSlug' exact>
-        <PostDetail />
+        <PostDetail showTitle={true} />
       </Route>
 
       {/* PHOTOGRAPHY */}

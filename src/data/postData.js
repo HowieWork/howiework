@@ -4,6 +4,32 @@ CATEGORIES: programming; design; architecture
 
 export const POST_DATA = [
   {
+    category: 'PLACEHOLDER',
+    title: 'Snap App',
+    slug: 'snap-app',
+    date: 'Feb 08, 2022',
+    duration: 'XXX min read',
+    keywords: ['MERN', 'photo', 'sharing', 'snap', 'app'],
+    excerpt:
+      'I have been rethinking a better way of building blog site. Lunch Break is a more advanced blog site built with Next.js. It will include features like authentication (user sign up and log in), newsletter subscription feature, show all/featured posts, filter posts, comments etc.',
+    isFeatured: false,
+    imageSrc: '',
+    readMoreUrl: '/posts/snap-app',
+  },
+  {
+    category: 'PLACEHOLDER',
+    title: 'Lunch Break App',
+    slug: 'lunch-break-app',
+    date: 'Feb 08, 2022',
+    duration: 'XXX min read',
+    keywords: ['next.js', 'react', 'blog', 'fullstack'],
+    excerpt:
+      'I have been rethinking a better way of building blog site. Lunch Break is a more advanced blog site built with Next.js. It will include features like authentication (user sign up and log in), newsletter subscription feature, show all/featured posts, filter posts, comments etc.',
+    isFeatured: false,
+    imageSrc: '',
+    readMoreUrl: '/posts/snap-app',
+  },
+  {
     category: 'programming',
     title: 'Build a more advanced blog site',
     slug: 'build-a-more-advanced-blog-site',
@@ -46,19 +72,6 @@ export const POST_DATA = [
   },
   {
     category: 'programming',
-    title: 'Markdown Post Template',
-    slug: 'markdown-post-template',
-    date: 'Dec 29, 2021',
-    duration: '2 min read',
-    keywords: ['markdown', 'CSS', 'template', 'tutorial'],
-    excerpt:
-      'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.',
-    isFeatured: false,
-    imageSrc: 'markdown-post-template/cover.webp',
-    readMoreUrl: 'posts/markdown-post-template',
-  },
-  {
-    category: 'programming',
     title: 'How I learn Next.js',
     slug: 'how-i-learn-nextjs',
     date: 'Jan 23, 2022',
@@ -69,6 +82,19 @@ export const POST_DATA = [
     isFeatured: true,
     imageSrc: 'how-i-learn-nextjs/cover.webp',
     readMoreUrl: 'posts/how-i-learn-nextjs',
+  },
+  {
+    category: 'programming',
+    title: 'Markdown Post Template',
+    slug: 'markdown-post-template',
+    date: 'Dec 29, 2021',
+    duration: '2 min read',
+    keywords: ['markdown', 'CSS', 'template', 'tutorial'],
+    excerpt:
+      'This article will provide a template for most future posts on this site. The goal is to make most posts look styling consistent. As a template, this section usually works an introduction, which explain what this post is about and how audience can get most out of it.',
+    isFeatured: false,
+    imageSrc: 'markdown-post-template/cover.webp',
+    readMoreUrl: 'posts/markdown-post-template',
   },
   {
     category: 'TODOPLACEHOLDER',

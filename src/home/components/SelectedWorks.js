@@ -25,7 +25,7 @@ const SelectedWorks = () => {
         title='Lunch Break'
         technologyList={['Next', 'React', 'MongoDB', 'Vercel']}
         description='A blog site focus on work-life balance. Its content is around three topics: design, psychology and community. Built with Next.js.'
-        viewProject='/portfolio/app/lunch-break'
+        viewProject='/portfolio/app/lunch-break-app'
         imageSrc='app-lunch-break-cover.png'
         demoUrl='https://lunch-break.vercel.app/'
         gitHubUrl='https://github.com/HowieWork/lunch-break/'

@@ -9,7 +9,7 @@ import { POST_DATA } from '../../data/postData';
 
 import './PostDetail.css';
 
-const PostDetail = () => {
+const PostDetail = (props) => {
   const [postData, setPostData] = useState();
   const [postContent, setPostContent] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -118,15 +118,19 @@ const PostDetail = () => {
   return (
     <div className='center-flex-column responsive-width post-detail-container'>
       {/* BELOW IS FOR SIMILAR VIEW AS PORTFOLIO PAGE */}
-      <div className='responsive-width container-gap'></div>
-      {postData && (
+      {props.showTitle && (
+        <div className='responsive-width container-gap'></div>
+      )}
+      {postData && props.showTitle && (
         <div className='post-detail-heading-container'>
-          <div
-            className='post-detail-heading--image'
-            style={{
-              backgroundImage: `url(../assets/post/image/${postData.imageSrc})`,
-            }}
-          />
+          {postData.imageSrc && (
+            <div
+              className='post-detail-heading--image'
+              style={{
+                backgroundImage: `url(../assets/post/image/${postData.imageSrc})`,
+              }}
+            />
+          )}
           <div className='post-detail-heading--title'>{postData.title}</div>
           <div className='center-flex-row extra-tiny-gap post-detail-heading-sub-container'>
             <div>{postData.date}</div>
