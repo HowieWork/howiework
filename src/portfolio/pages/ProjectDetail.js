@@ -17,22 +17,6 @@ const ProjectDetail = () => {
 
   return (
     <div className='center-flex-column responsive-width project-detail-container'>
-      {/* TODO EDIT PRODUCT DETAIL PAGE */}
-      {/* <div className=' project-detail-heading-container'>
-        <div className='project-detail-heading--title'>{title}</div>{' '}
-        <div className='center-flex-row extra-tiny-gap post-detail-heading-sub-container'>
-          <Fragment>
-            {technologyList.map((keyword, index) => {
-              return (
-                <span key={index} className='post-detail-heading--keyword'>
-                  {keyword}
-                </span>
-              );
-            })}
-          </Fragment>
-        </div>
-      </div> */}
-
       <div className='project-video'>
         <YoutubeEmbed embedId={embedId} title={title} />
       </div>

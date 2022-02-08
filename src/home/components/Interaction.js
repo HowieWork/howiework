@@ -7,7 +7,7 @@ import Button from '../../shared/components/FormElements/Button';
 import './Interaction.css';
 
 const Interaction = () => {
-  const [isChecked, setIsChecked] = useState(true);
+  const [isChecked, setIsChecked] = useState(false);
 
   const checkboxChangeHandler = () => {
     setIsChecked((prevState) => !prevState);
