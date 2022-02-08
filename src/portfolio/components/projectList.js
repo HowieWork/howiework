@@ -4,6 +4,7 @@ import './ProjectList.css';
 
 const ProjectList = (props) => {
   let appContent;
+
   if (props.category === 'app')
     appContent = (
       <Fragment>
@@ -20,6 +21,7 @@ const ProjectList = (props) => {
               imageSrc={app.imageSrc}
               demoUrl={app.demoUrl}
               gitHubUrl={app.gitHubUrl}
+              viewProject={app.viewProject || null}
             />
           );
         })}

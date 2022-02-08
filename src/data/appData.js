@@ -10,6 +10,7 @@ export const APP_DATA = [
     demoUrl: 'https://howiework.github.io/snap-app/',
     gitHubUrl: 'https://github.com/HowieWork/snap-app',
     embedId: 'UEYlXDD5DRI',
+    viewProject: '/portfolio/app/snap-app',
   },
   {
     type: 'app',
@@ -22,6 +23,7 @@ export const APP_DATA = [
     demoUrl: 'https://lunch-break.vercel.app/',
     gitHubUrl: 'https://github.com/HowieWork/lunch-break/',
     embedId: 'jIDyerwpAXw',
+    viewProject: '/portfolio/app/lunch-break-app',
   },
   // TODO BRING MODAL UPDATED PROJECT BACK
   // {

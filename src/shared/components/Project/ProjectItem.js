@@ -123,14 +123,20 @@ const ProjectItem = (props) => {
   // LIST VIEW
   if (props.view === 'list') {
     // 1) APPS
-    if (props.type === 'app')
-      return (
-        <div className='project-container--list'>
-          <div className='project-title--list'>{props.title}</div>
-          <div className='project-description--list'>
-            <p>{props.description}</p>
-          </div>
-          <div className='project-cta--list'>
+    if (props.type === 'app') {
+      let cta;
+
+      if (props.viewProject) {
+        cta = (
+          <Button to={props.viewProject} secondary hoverUnderline>
+            View Project
+          </Button>
+        );
+      }
+
+      if (!props.viewProject) {
+        cta = (
+          <Fragment>
             <Button href={props.demoUrl} secondary hoverUnderline targetBlank>
               Demo
             </Button>{' '}
@@ -138,9 +144,19 @@ const ProjectItem = (props) => {
             <Button href={props.gitHubUrl} secondary hoverUnderline targetBlank>
               GitHub
             </Button>
+          </Fragment>
+        );
+      }
+      return (
+        <div className='project-container--list'>
+          <div className='project-title--list'>{props.title}</div>
+          <div className='project-description--list'>
+            <p>{props.description}</p>
           </div>
+          <div className='project-cta--list'>{cta}</div>
         </div>
       );
+    }
 
     // 2) DESIGN
     if (props.type === 'design')
