@@ -1,6 +1,5 @@
 // import { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { MdKeyboardArrowDown } from 'react-icons/md';
 
 import YoutubeEmbed from '../../shared/components/UIElements/YoutubeEmbed';
 import Button from '../../shared/components/FormElements/Button';
@@ -48,11 +47,6 @@ const ProjectDetail = () => {
               GitHub
             </Button>
           </div>
-        </div>
-
-        {/* CTA - SCROLL */}
-        <div className='center-flex-row project-scroll'>
-          <MdKeyboardArrowDown />
         </div>
       </div>
 
