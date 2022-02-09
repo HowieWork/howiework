@@ -25,7 +25,7 @@ My interest in tech started with work experience at WeWork. I was fascinated by 
 
 Seeking a web developer role to grow my career as a professional web developer. My current focus is on polishing my MERN stack skills.
 
-UPDATE 02/08/2022: Updating portfolio, update project detail components; Write Snap App and Lunch Break posts.
+**UPDATE 02/09/2022**: Refresh Git&Github knowledge \*dive deeper into Git; Start to work on Algorithm; Preparing for a self-introduction video.
 
 <br />
 
