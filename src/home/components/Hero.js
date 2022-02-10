@@ -32,7 +32,10 @@ const Hero = () => {
       <div className='center-flex-column tiny-gap hero-description'>
         <div>
           Howie is a front-end focused web developer based in US with a
-          background in architecture.
+          background in architecture.{' '}
+          <Button href='https://youtu.be/HY-1dhShcHk' secondary hoverUnderline>
+            * Watch a self-introduction video
+          </Button>
         </div>
         <div>
           His interest in tech started with work experience at WeWork. Working
