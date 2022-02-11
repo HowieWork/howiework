@@ -28,7 +28,7 @@ Seeking a web developer role to grow my career as a professional web developer. 
 **Watch a video**:
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 
-**UPDATE 02/10/2022**: Complete self-introduction video, update accordingly.
+**UPDATE 02/11/2022**: Refreshing Git & GitHub; A complete review of my application material with a profession.
 
 <br />
 
