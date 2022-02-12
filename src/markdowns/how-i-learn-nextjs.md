@@ -299,15 +299,18 @@ authentication
 
 1. How to understand `redirect: {...permanent: true/false}`? If set `permanent: true` it will `...cache the redirect forever...` , what will the browser do exactly? does it mean if I don't clear the cache it will always redirect to specified route?
 
-### Day 13
+### Day 13 - 16
 
 Jan 18, 2022: Continue to work on final project - Lunch Break. Start to implement global notification with the help of React context
+
 Jan 21, 2022: Complete styling, responsiveness and dark theme for blog site. And Prepare to work on deployment.
 
 **Keywords**
 context, portal
 
 **Main concepts**
+
+React context: create `notification-context.js` and `theme-context.js` in `/store/` folder
 
 **Questions**
 
