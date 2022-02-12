@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[50],{557:function(t,o,i){"use strict";i.r(o),o.default=i.p+"static/media/how-i-learn-nextjs.7a9949eb.md"}}]);
-//# sourceMappingURL=50.70197b11.chunk.js.map
