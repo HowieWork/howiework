@@ -28,7 +28,10 @@ Seeking a web developer role to grow my career as a professional web developer. 
 **Watch a video**:
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 
-**UPDATE 02/12/2022**: Arrange notes on yesterday's career review; Focus on fixing issues on Portfolio and Resume.
+**Sidenote**:
+It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
+
+**Current status 02/12/2022**: Arrange notes on yesterday's career review; Focus on fixing issues on Portfolio and Resume.
 
 <br />
 
