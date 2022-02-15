@@ -74,7 +74,7 @@ const About = () => {
           <Button to='/drawings' secondary hoverUnderline>
             <span>Drawing</span>
           </Button>
-          , Meditation, Hiking, Travelling
+          , Meditation, Hiking, Gaming, Travelling
         </div>
       </section>
     </Fragment>
