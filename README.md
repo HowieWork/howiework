@@ -17,7 +17,7 @@
 
 ## Welcome!
 
-Hi, my name is Howie. I'm a front-end focused web developer based in US with a background in architecture.
+Hi, my name is Howie. I'm a full-stack web developer based in US with a background in architecture.
 
 My interest in tech started with work experience at WeWork. I was fascinated by how a data-driven approach is implemented in design. It’s also fun to work with tech-background colleagues. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). The team added a VR interaction session to final presentation for the client. It was a big success. These two experiences really open my mind and reveal more opportunity and potential in the tech industry. In my spare time, I [self-taught programming](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion of web development.
 
