@@ -40,7 +40,7 @@ const About = () => {
           </div>
           <div className='center-flex-row medium-gap about-text'>
             <span className='about-text--year'>2020 to present</span>
-            <span>Self-teaching web development</span>
+            <span>Freelancing while self-teaching web development</span>
           </div>
         </div>
 

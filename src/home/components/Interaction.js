@@ -29,9 +29,6 @@ const Interaction = () => {
         className='center-flex-row tiny-gap checkbox-interactive'
         value={isChecked}
       />
-
-      {/* TODO CONVERT INTERACTION TO COMPONENTS? */}
-
       <div className={`interactive-container ${isChecked && 'active'}`}>
         {isChecked && (
           <div>
@@ -53,7 +50,9 @@ const Interaction = () => {
                   <p>
                     Also,{' '}
                     <Button
-                      to='/resume.pdf'
+                      href={
+                        process.env.PUBLIC_URL + '/documents/resume-howie.pdf'
+                      }
                       size='small'
                       secondary
                       hoverUnderline
@@ -69,7 +68,7 @@ const Interaction = () => {
                   <p>
                     Sure. Here is my{' '}
                     <Button
-                      href='/'
+                      href='/#contact'
                       size='small'
                       secondary
                       hoverUnderline
