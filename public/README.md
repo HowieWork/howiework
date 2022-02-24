@@ -31,7 +31,7 @@ I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 **Sidenote**:
 It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 02/23/2022**: Study Testing: Jest; Study [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms); New project - Speak Up: front end; Apply for jobs.
+**Current status 02/24/2022**: Study [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms); New project - Repeat: front end; Apply for jobs.
 
 <br />
 
