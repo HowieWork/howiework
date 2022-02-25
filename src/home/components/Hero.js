@@ -63,7 +63,23 @@ const Hero = () => {
             His diverse background
           </Button>{' '}
           equips him with both design and development skills. Currently, he is
-          focusing on polishing his MERN stack skills.
+          working on{' '}
+          <Button
+            href='https://twitter.com/howiework/status/1496848333289271300'
+            secondary
+            hoverUnderline
+          >
+            Repeat App
+          </Button>{' '}
+          - a full-stack project aims to improve language skills and solidify{' '}
+          <Button
+            href='https://github.com/HowieWork/data-structure-and-algorithms'
+            secondary
+            hoverUnderline
+          >
+            Data Structure & Algorithm
+          </Button>
+          .
         </div>
       </div>
 
