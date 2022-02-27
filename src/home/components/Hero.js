@@ -71,7 +71,7 @@ const Hero = () => {
           >
             Repeat App
           </Button>{' '}
-          - a full-stack project aims to improve language skills and solidify{' '}
+          - a full-stack project aims to improve language skills and solidifying{' '}
           <Button
             href='https://github.com/HowieWork/data-structure-and-algorithms'
             secondary
