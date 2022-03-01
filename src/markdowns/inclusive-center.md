@@ -1,6 +1,6 @@
 _A proposal to build a new student center connecting a variety of academic and recreational functions & re-connecting existing buildings. Aim to engage more audience with physical disabilities by setting a fully integrated barrier-free system._
 
-**UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.
+**UPDATE 03/01/2022:** Add Grasshopper and physical model photos.
 
 ## Site
 
