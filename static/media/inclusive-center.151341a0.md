@@ -66,8 +66,24 @@ _A proposal to build a new student center connecting a variety of academic and r
 
 ### 2. Model
 
+![structure-model](../assets/post/image/inclusive-center/structure-GH-script-1.jpg)
+**Grasshopper Script Example 1**
+
+![structure-model](../assets/post/image/inclusive-center/structure-GH-script-2.jpg)
+**Grasshopper Script Example 2**
+
 ![structure-model](../assets/post/image/inclusive-center/structure-model.webp)
-**Structure model**
+**Structure digital model**
+
+![structure-model](../assets/post/image/inclusive-center/structure-physical-model-1.jpg)
+![structure-model](../assets/post/image/inclusive-center/structure-physical-model-2.jpg)
+![structure-model](../assets/post/image/inclusive-center/structure-physical-model-3.jpg)
+**Structure physical model I**
+
+![structure-model](../assets/post/image/inclusive-center/structure-physical-model-4.jpg)
+![structure-model](../assets/post/image/inclusive-center/structure-physical-model-5.jpg)
+![structure-model](../assets/post/image/inclusive-center/structure-physical-model-6.jpg)
+**Structure physical model II**
 
 ## Render
 
