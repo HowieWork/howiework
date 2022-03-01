@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[52],{559:function(t,i,c){"use strict";c.r(i),i.default=c.p+"static/media/inclusive-center.fec60c4b.md"}}]);
+//# sourceMappingURL=52.8a08204c.chunk.js.map
