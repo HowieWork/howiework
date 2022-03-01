@@ -1,6 +1,6 @@
 _After visiting the site and several rounds of meetings, the team developed a whole-new design system, called "Anti-office", which consists of Building Scheme, Architectural Bars, and Architectural Elements._
 
-**UPDATE 01/02/2022:** Review original post and make some narrating and formatting changes.
+**UPDATE 03/01/2022:** Update Data Visualization for Workstation. Please refer to Workstation - 1. Comparison.
 
 ## Workstation
 
