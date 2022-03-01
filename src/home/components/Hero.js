@@ -38,8 +38,27 @@ const Hero = () => {
           </Button>
         </div>
         <div>
-          His interest in tech started with work experience at WeWork. Working
-          with people from different background opens his mind and reveals more
+          He is always willing to embrace new technology. At school, he took
+          'programming' courses like{' '}
+          <Button
+            href={process.env.PUBLIC_URL + '/documents/data_visualization.html'}
+            secondary
+            targetBlank
+            hoverUnderline
+          >
+            Data Visualization
+          </Button>{' '}
+          and{' '}
+          <Button
+            to='/posts/inclusive-center'
+            secondary
+            targetBlank
+            hoverUnderline
+          >
+            Grasshopper
+          </Button>
+          . His professional experience in tech started at WeWork. Working with
+          people from different backgrounds opens his mind and reveals more
           opportunity and potential. Later at SOM, he worked on{' '}
           <Button to='/posts/anti-office' secondary hoverUnderline>
             an interior project involving VR
@@ -71,7 +90,8 @@ const Hero = () => {
           >
             Repeat App
           </Button>{' '}
-          - a full-stack project aims to improve language skills and solidifying{' '}
+          - a full-stack project aims to improve language skills while
+          solidifying{' '}
           <Button
             href='https://github.com/HowieWork/data-structure-and-algorithms'
             secondary
