@@ -73,7 +73,7 @@
   .hero-title--image::after {
     font-size: 0.8rem;
     padding: 2px 4px;
-    top: 22%;
+    top: 16%;
     right: -12%;
   }
 }
