@@ -22,6 +22,24 @@
   font-size: 2rem;
 }
 
+.hero-title--image {
+  position: relative;
+}
+
+.hero-title--image::after {
+  content: 'OPEN TO WORK !';
+  position: absolute;
+  top: 24%;
+  right: -6%;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #fff;
+  background-color: var(--primary-color);
+  padding: 0.2rem 0.6rem;
+  border-radius: 1rem 1rem 1rem 0;
+}
+
 .hero-title--image img {
   height: 34vh;
 
@@ -34,6 +52,13 @@
   .hero-title--image img {
     height: 24vh;
   }
+
+  .hero-title--image::after {
+    font-size: 0.8rem;
+    padding: 2px 4px;
+    top: 26%;
+    right: -6%;
+  }
 }
 
 @media (max-width: 32em) {
@@ -43,6 +68,13 @@
 
   .hero-title--image img {
     height: 18vh;
+  }
+
+  .hero-title--image::after {
+    font-size: 0.8rem;
+    padding: 2px 4px;
+    top: 22%;
+    right: -12%;
   }
 }
 
