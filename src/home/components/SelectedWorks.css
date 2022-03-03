@@ -1,5 +1,6 @@
 .section-works {
-  margin-bottom: 6.4rem;
+  /* NOTE THE LAST SELECTED PROJECT COMPONENT ALREADY HAS MARGIN BOTTOM*/
+  /* margin-bottom: 6.4rem; */
 }
 
 .works-title {
