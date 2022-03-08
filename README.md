@@ -31,7 +31,7 @@ I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 **Sidenote**:
 It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 03/07/2022**: Recap Snap App - connect Backend to Frontend, file upload and authentication; Work on portfolio presentation for interview.
+**Current status 03/08/2022**: Recap Snap App - connect Backend to Frontend, file upload and authentication; Work on portfolio presentation for interview.
 
 <br />
 
