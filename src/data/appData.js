@@ -9,7 +9,7 @@ export const APP_DATA = [
     imageSrc: 'app-snap-cover.webp',
     demoUrl: 'https://howiework.github.io/snap-app/',
     gitHubUrl: 'https://github.com/HowieWork/snap-app',
-    embedId: 'UEYlXDD5DRI',
+    embedId: '9CF7wCwRC5c',
     viewProject: '/portfolio/app/snap-app',
   },
   {
