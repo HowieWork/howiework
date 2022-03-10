@@ -77,7 +77,7 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 
 [![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url] [![Axios][axios-shield]][axios-url] [![Mongoose][mongoose-shield]][mongoose-url]
 
-Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together. [Watch a video](https://youtu.be/UEYlXDD5DRI) for details.
+Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together. [Watch a video](https://youtu.be/9CF7wCwRC5c) for details.
 
 <br />
 <br />
