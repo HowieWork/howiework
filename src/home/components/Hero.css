@@ -117,6 +117,19 @@
   margin-bottom: 3.2rem;
 }
 
+.hero-cta--presentation a {
+  margin-top: 0.8rem;
+  color: var(--primary-color);
+  font-size: 1.4rem;
+}
+
+.hero-cta--presentation a:link::after,
+.hero-cta--presentation a:visited::after,
+.hero-cta--presentation a:hover::after,
+.hero-cta--presentation a:active::after {
+  background-color: var(--primary-color);
+}
+
 /* TODO SHOULD HEIGHT BE SET TO AUTO? */
 @media (max-width: 64em) {
   .section-hero {

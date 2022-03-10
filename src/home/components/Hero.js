@@ -113,6 +113,18 @@ const Hero = () => {
             </span>
           </div>
         </Button>
+        <div className='hero-cta--presentation'>
+          <Button
+            href={
+              process.env.PUBLIC_URL + '/documents/portfolio-presentation.pdf'
+            }
+            secondary
+            targetBlank
+            hoverUnderline
+          >
+            *Portfolio Presentation
+          </Button>
+        </div>
       </div>
 
       {/* TODO UPDATE SCROLL CURRENTLY DISABLED*/}
