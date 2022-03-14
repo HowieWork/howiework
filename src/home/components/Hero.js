@@ -99,7 +99,11 @@ const Hero = () => {
           >
             Data Structure & Algorithm
           </Button>
-          .
+          . Post videos about{' '}
+          <Button href='https://t.co/zp4piEZITt' secondary hoverUnderline>
+            how I solve React problems live
+          </Button>{' '}
+          occasionally.
         </div>
       </div>
 
