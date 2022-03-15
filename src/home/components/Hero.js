@@ -90,8 +90,15 @@ const Hero = () => {
           >
             Repeat App
           </Button>{' '}
-          - a full-stack project aims to improve language skills while
-          solidifying{' '}
+          - aims to improve language skills and building his own{' '}
+          <Button
+            href='https://howiework.github.io/react-guide/'
+            secondary
+            hoverUnderline
+          >
+            React Guide
+          </Button>{' '}
+          while solidifying{' '}
           <Button
             href='https://github.com/HowieWork/data-structure-and-algorithms'
             secondary
