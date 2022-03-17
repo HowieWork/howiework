@@ -5,6 +5,11 @@ import Button from '../../shared/components/FormElements/Button';
 import './Contact.css';
 
 const Contact = () => {
+  const requestServiceHandler = (event) => {
+    event.preventDefault();
+    window.alert('REQUEST A SERVICE!');
+  };
+
   return (
     <section id='contact' className='responsive-width section-contact'>
       <div className='center-flex-row tiny-gap contact-title'>
@@ -12,7 +17,7 @@ const Contact = () => {
       </div>
 
       {/* TODO CHANGE DIV TO LINK */}
-      <div className='center-flex-column small-gap contact-container '>
+      <div className='center-flex-column small-gap contact-container'>
         {/* FIXME BUTTON CSS STYLE AND TARGET BLANK */}
         <Button
           href='https://github.com/howiework'
@@ -54,6 +59,11 @@ const Contact = () => {
             Email <MdCallMade />
           </div>
         </Button>
+        <div>
+          <Button type='button' primary onClick={requestServiceHandler}>
+            <div className='center-flex-row tiny-gap'>Request a service</div>
+          </Button>
+        </div>
       </div>
     </section>
   );

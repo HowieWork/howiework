@@ -28,3 +28,7 @@
   font-size: 1.8rem;
   color: var(--font-color);
 }
+
+.contact-request {
+  margin: 6.4rem 0 3.2rem 0;
+}
