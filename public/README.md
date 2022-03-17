@@ -31,7 +31,7 @@ I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 **Sidenote**:
 It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 03/16/2022**: React knowledge refresh; Repeat App project; Job application; DS & Algorithm.
+**Current status 03/17/2022**: React Guide project - Modal & Form; Repeat App project; Job application; DS & Algorithm.
 
 <br />
 
