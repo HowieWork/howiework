@@ -1,0 +1,28 @@
+.modal-container {
+  position: fixed;
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 45vw;
+  border-radius: 0.4rem;
+
+  z-index: 9999;
+
+  background-color: rgba(var(--nav-background-color), 0.85);
+  box-shadow: 0 7px 30px -10px rgba(150, 170, 180, 0.4);
+  backdrop-filter: blur(10px);
+}
+
+@media (max-width: 64em) {
+  .modal-container {
+    width: 65vw;
+  }
+}
+
+@media (max-width: 32em) {
+  .modal-container {
+    width: 85vw;
+  }
+}

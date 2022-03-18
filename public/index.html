@@ -26,6 +26,19 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>Howie Hao Wang</title>
+
+    <!-- EMAILJS CONFIG -->
+    <!-- <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+      (function () {
+        emailjs.init(process.env.REACT_APP_EMAILJS_USER_ID);
+      })();
+    </script> -->
+    <!-- END OF EMAILJS CONFIG -->
+
     <!-- IMPORTANT FIX GITHUP NATIVE NON-SUPPORT SPA ISSUE -->
     <!-- Start Single Page Apps for GitHub Pages -->
     <script type="text/javascript">
@@ -75,6 +88,7 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="drawer-hook"></div>
+    <div id="modal-hook"></div>
     <div id="backdrop-hook"></div>
     <div id="root"></div>
     <!--
