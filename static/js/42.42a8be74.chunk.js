@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[42],{553:function(e,o,t){"use strict";t.r(o),o.default=t.p+"static/media/design-lunchbreak-cover.b5d6db1e.webp"}}]);
+//# sourceMappingURL=42.42a8be74.chunk.js.map

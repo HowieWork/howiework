@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[41],{543:function(o,t,e){"use strict";e.r(t),t.default=e.p+"static/media/design-NMAAHC-cover.73d4cbe5.webp"}}]);
-//# sourceMappingURL=41.ae9a170e.chunk.js.map

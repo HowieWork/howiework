@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[13],{118:function(o,t,p){"use strict";p.r(t),t.default=p.p+"static/media/photo-human-subway.b30bb8d4.webp"}}]);
-//# sourceMappingURL=13.9a3c6718.chunk.js.map

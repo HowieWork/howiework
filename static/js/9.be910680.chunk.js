@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[9],{114:function(o,t,p){"use strict";p.r(t),t.default=p.p+"static/media/photo-food-sesamechicken.a61c17d1.webp"}}]);
-//# sourceMappingURL=9.be910680.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[28],{529:function(o,p,t){"use strict";t.r(p),p.default=t.p+"static/media/app-modal-cover.0b775d85.webp"}}]);
-//# sourceMappingURL=28.c96722db.chunk.js.map

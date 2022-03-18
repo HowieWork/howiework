@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[25],{525:function(p,o,s){"use strict";s.r(o),o.default=s.p+"static/media/app-guess-my-number-cover.d5b62163.webp"}}]);
-//# sourceMappingURL=25.b8c2852a.chunk.js.map
