@@ -31,7 +31,7 @@ I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 **Sidenote**:
 It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 03/20/2022**: Update programming work-set; upgrade monitor from 20 inch to 27 inch \*curved.
+**Current status 03/21/2022**: Read offer details; Figuring out next steps; Organize files/folders.
 
 <br />
 
