@@ -17,13 +17,15 @@
 
 ## Welcome!
 
-Hi, my name is Howie. I'm a web designer/developer based in US with a background in architecture.
+Hi, my name is Howie. I'm a web designer/developer based the in US with a background in architecture.
 
-I am always willing to embrace new technology. At school, I took 'programming' courses like [Data Visualization](https://www.howiework.com/documents/data_visualization.html) and [Grasshopper](https://www.howiework.com/posts/inclusive-center). My professional experience in tech started at WeWork. I was fascinated by how a data-driven approach is implemented in design. It’s also fun to work with tech-background colleagues. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). The team added a VR interaction session to the final presentation for the client. It was a big success. These two experiences really open my mind and reveal more opportunity and potential in the tech industry. In my spare time, I [self-taught programming](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion for web development.
+I am always willing to embrace new technology. At school, I took programming courses like [Data Visualization](https://www.howiework.com/documents/data_visualization.html) and [Grasshopper](https://www.howiework.com/posts/inclusive-center). My professional experience started at WeWork. I was fascinated by how a data-driven approach is implemented in design. It’s also fun to work with tech-background colleagues. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). The team added a VR interaction session to the final presentation for the client. It was a big success. These two experiences really open my mind and reveal more opportunity and potential in the tech industry. In my spare time, I [self-taught programming](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion for web development.
 
 [My diverse background prepares me with both design and development skills](https://www.howiework.com/posts/what-ive-learned-about-architecture-and-web-development): a keen eye for design; professional experience using a wide range of digital design tools; design thinking, proven problem solving, research and analytical skills.
 
-Seeking a web developer role or relevant to grow my career as a professional web developer. Currently, I am working on [Repeat App](https://twitter.com/howiework/status/1496848333289271300) - a full-stack project aims to improve language skills and solidifying [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms).
+In my spare time, I am working on [Repeat App](https://twitter.com/howiework/status/1496848333289271300) - a full-stack project aims to improve language skills and building his own [React Guide](https://howiework.github.io/react-guide/) while solidifying [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms). Post videos about [how I solve React problems live](https://t.co/zp4piEZITt) occasionally.
+
+Currently, I'm focused on building human-centered products for Sunwater Capital.
 
 **Watch a video**:
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
@@ -127,6 +129,7 @@ A blog site focus on work-life balance. Its content is around three topics: desi
           <li><strong>Dec 30, 2021</strong> Add post section</li>
           <li><strong>Jan 04, 2022</strong> Update website content</li>
           <li><strong>Feb 02, 2022</strong> HowieWork v1.0 goes live!</li>
+          <li><strong>Mar 22, 2022</strong> Major updates: Add Portfolio presentation video, Data visualization & Grasshopper; Add Send Message feature for better UX</li>
         </ul>
       </details>
     </li>
