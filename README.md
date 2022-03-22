@@ -25,7 +25,7 @@ I am always willing to embrace new technology. At school, I took programming cou
 
 In my spare time, I am working on [Repeat App](https://twitter.com/howiework/status/1496848333289271300) - a full-stack project aims to improve language skills and building his own [React Guide](https://howiework.github.io/react-guide/) while solidifying [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms). Post videos about [how I solve React problems live](https://t.co/zp4piEZITt) occasionally.
 
-Currently, I'm focused on building human-centered products for Sunwater Capital.
+Currently, I'm focused on building human-centered products for Sunwater Institute.
 
 **Watch a video**:
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
