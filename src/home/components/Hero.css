@@ -20,6 +20,24 @@
 
 .hero-title--text p {
   font-size: 2rem;
+  padding-left: 10.5rem;
+
+  position: relative;
+}
+
+.hero-title--text p::before {
+  position: absolute;
+  content: 'Creative';
+  left: 0%;
+  z-index: -9;
+  transform: rotate(-10deg);
+
+  color: #fcf7f1;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+  background-color: var(--primary-color);
+
+  padding: 0 6px;
 }
 
 .hero-title--image {
@@ -27,14 +45,14 @@
 }
 
 .hero-title--image::after {
-  content: 'OPEN TO WORK !';
+  content: 'Thanks for stopping by !';
   position: absolute;
-  top: 24%;
-  right: -6%;
-  text-transform: uppercase;
+  top: 20%;
+  right: -16%;
   font-size: 1.2rem;
-  font-weight: 700;
-  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.25px;
+  color: #fcf7f1;
   background-color: var(--primary-color);
   padding: 0.2rem 0.6rem;
   border-radius: 1rem 1rem 1rem 0;
@@ -54,10 +72,10 @@
   }
 
   .hero-title--image::after {
-    font-size: 0.8rem;
+    font-size: 1rem;
     padding: 2px 4px;
     top: 26%;
-    right: -6%;
+    right: 0%;
   }
 }
 
@@ -75,6 +93,15 @@
     padding: 2px 4px;
     top: 16%;
     right: -12%;
+  }
+
+  /* NOTE HIDE CREATIVE BANNER */
+  .hero-title--text p {
+    padding-left: 0;
+  }
+
+  .hero-title--text p::before {
+    content: '';
   }
 }
 
@@ -110,6 +137,38 @@
 
   /* OVERWRITE FLEX CENTER */
   align-items: flex-start;
+}
+
+.popcorn-banner,
+.video-banner {
+  position: relative;
+}
+
+.popcorn-banner::after,
+.video-banner::after {
+  position: absolute;
+  /* 🎬 */
+  top: 20%;
+  right: -2%;
+  transform: rotate(30deg);
+  font-size: 2rem;
+  z-index: 9;
+}
+
+.popcorn-banner::after {
+  content: ' 🍿 ';
+}
+
+.popcorn-banner:hover::after {
+  content: '';
+}
+
+.video-banner::after {
+  content: ' 🎬 ';
+}
+
+.video-banner:hover::after {
+  content: '';
 }
 
 /* HERO CTA */

@@ -18,7 +18,7 @@ const Hero = () => {
       <div className='center-flex-row hero-title'>
         <div className='hero-title--text'>
           <h2>Hi, I'm Howie</h2>
-          <p>Developer | Designer</p>
+          <p>Designer | Developer</p>
         </div>
         <div className='center-flex-row hero-title--image'>
           <img
@@ -30,16 +30,11 @@ const Hero = () => {
 
       {/* HERO DESCRIPTION */}
       <div className='center-flex-column tiny-gap hero-description'>
+        {/* NOTE OPENING */}
         <div>
-          Howie is a full-stack web developer based in US with a background in
-          architecture.{' '}
-          <Button href='https://youtu.be/HY-1dhShcHk' secondary hoverUnderline>
-            * Watch a self-introduction video
-          </Button>
-        </div>
-        <div>
-          He is always willing to embrace new technology. At school, he took
-          'programming' courses like{' '}
+          Howie is a designer/developer based in the US with a background in
+          architecture. He is always willing to embrace new technology. At
+          school, he took programming courses like{' '}
           <Button
             href={process.env.PUBLIC_URL + '/documents/data_visualization.html'}
             secondary
@@ -57,9 +52,19 @@ const Hero = () => {
           >
             Grasshopper
           </Button>
-          . His professional experience in tech started at WeWork. Working with
-          people from different backgrounds opens his mind and reveals more
-          opportunity and potential. Later at SOM, he worked on{' '}
+          .{' '}
+          <Button href='https://youtu.be/HY-1dhShcHk' secondary hoverUnderline>
+            <span className='popcorn-banner'>
+              *Watch a self-introduction video
+            </span>
+          </Button>{' '}
+          to get to know me.
+        </div>
+        {/* NOTE PROFESSIONAL EXPERIENCE */}
+        <div>
+          His professional experience started at WeWork. Working with people
+          from different backgrounds opens his mind and reveals more opportunity
+          and potential. Later at SOM, he worked on{' '}
           <Button to='/posts/anti-office' secondary hoverUnderline>
             an interior project involving VR
           </Button>{' '}
@@ -71,8 +76,15 @@ const Hero = () => {
           >
             self-taught web development
           </Button>{' '}
-          and gradually realized his true passion.
+          and gradually realized his true passion.{' '}
+          <Button href='https://t.co/PIA5QB1v0Q' secondary hoverUnderline>
+            <span className='video-banner'>
+              *Watch a portfolio presentation
+            </span>
+          </Button>{' '}
+          to better understand how I worked on my projects.
         </div>
+        {/* NOTE CURRENT STATUS */}
         <div>
           <Button
             to='/posts/what-ive-learned-about-architecture-and-web-development'
@@ -81,8 +93,9 @@ const Hero = () => {
           >
             His diverse background
           </Button>{' '}
-          equips him with both design and development skills. Currently, he is
-          working on{' '}
+          equips him with both design and development skills. Currently, he's
+          focused on building human-centered products for Sunwater Capital. In
+          his spare time, he is working on{' '}
           <Button
             href='https://twitter.com/howiework/status/1496848333289271300'
             secondary
@@ -90,27 +103,15 @@ const Hero = () => {
           >
             Repeat App
           </Button>{' '}
-          - aims to improve language skills and building his own{' '}
+          - which aims to improve language skills and building his own{' '}
           <Button
             href='https://howiework.github.io/react-guide/'
             secondary
             hoverUnderline
           >
             React Guide
-          </Button>{' '}
-          while solidifying{' '}
-          <Button
-            href='https://github.com/HowieWork/data-structure-and-algorithms'
-            secondary
-            hoverUnderline
-          >
-            Data Structure & Algorithm
           </Button>
-          . Post videos about{' '}
-          <Button href='https://t.co/zp4piEZITt' secondary hoverUnderline>
-            how I solve React problems live
-          </Button>{' '}
-          occasionally.
+          .
         </div>
       </div>
 
@@ -133,7 +134,7 @@ const Hero = () => {
             targetBlank
             hoverUnderline
           >
-            *Portfolio Presentation
+            *Portfolio Presentation PDF
           </Button>
         </div>
       </div>
