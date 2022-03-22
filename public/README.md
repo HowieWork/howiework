@@ -17,7 +17,7 @@
 
 ## Welcome!
 
-Hi, my name is Howie. I'm a web designer/developer based the in US with a background in architecture.
+Hi, my name is Howie. I'm a web designer/developer based in the US with a background in architecture.
 
 I am always willing to embrace new technology. At school, I took programming courses like [Data Visualization](https://www.howiework.com/documents/data_visualization.html) and [Grasshopper](https://www.howiework.com/posts/inclusive-center). My professional experience started at WeWork. I was fascinated by how a data-driven approach is implemented in design. It’s also fun to work with tech-background colleagues. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). The team added a VR interaction session to the final presentation for the client. It was a big success. These two experiences really open my mind and reveal more opportunity and potential in the tech industry. In my spare time, I [self-taught programming](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion for web development.
 
