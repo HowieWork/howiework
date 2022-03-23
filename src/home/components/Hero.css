@@ -45,7 +45,7 @@
 }
 
 .hero-title--image::after {
-  content: ' 🐈‍⬛ ';
+  content: '🐈‍⬛ ';
   position: absolute;
   top: 24%;
   right: 30%;
