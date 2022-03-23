@@ -33,7 +33,7 @@ I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 **Sidenote**:
 It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 03/22/2022**: Python day 2; Organize files/folders; Update portfolio site portfolio presentation.
+**Current status 03/23/2022**: Python day 3; Organize files/folders; Repeat Application; Prepare for first week.
 
 <br />
 
