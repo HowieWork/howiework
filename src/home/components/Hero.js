@@ -93,9 +93,8 @@ const Hero = () => {
           >
             His diverse background
           </Button>{' '}
-          equips him with both design and development skills. Currently, he's
-          focused on building human-centered products for Sunwater Institute. In
-          his spare time, he is working on{' '}
+          equips him with both design and development skills. In his spare time,
+          he is working on{' '}
           <Button
             href='https://twitter.com/howiework/status/1496848333289271300'
             secondary
