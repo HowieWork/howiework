@@ -25,15 +25,13 @@ I am always willing to embrace new technology. At school, I took programming cou
 
 In my spare time, I am working on [Repeat App](https://twitter.com/howiework/status/1496848333289271300) - a full-stack project aims to improve language skills and building his own [React Guide](https://howiework.github.io/react-guide/) while solidifying [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms). Post videos about [how I solve React problems live](https://t.co/zp4piEZITt) occasionally.
 
-Currently, I'm focused on building human-centered products for Sunwater Institute.
-
 **Watch a video**:
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 
 **Sidenote**:
 It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 03/29/2022**: Sunwater Institute week 1- day 2; Python day 9; Explore D3 & Echart.
+**Current status 03/30/2022**: Sunwater Institute week 1- day 3; Python day 10; React v18.0 update.
 
 <br />
 
