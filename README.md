@@ -196,6 +196,18 @@ A list of certifications I earned:
         <a href="assets/readme/cert-web-bootcamp-howie.webp">The Complete 2021 Web Development Bootcamp</a> 
       </div>
     </li>
+    <li>  
+      <div>
+        <strong>October 10, 2020</strong>
+        <a href="assets/readme/cert-FCC-ds-algorithm-howie.webp">JavaScript Algorithm and Data Structure</a> 
+      </div>
+    </li>
+    <li>  
+      <div>
+        <strong>September 8, 2020</strong>
+        <a href="assets/readme/cert-FCC-responsive-web-howie.webp">Responsive Web Design</a> 
+      </div>
+    </li>
   </ul>
 </div>
 
