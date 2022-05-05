@@ -31,7 +31,7 @@ I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 **Sidenote**:
 It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 05/02/2022**: 100 days 39: PHP OOP project; Working new schedule coordination; Reading Google Software Engineer book.
+**Current status 05/05/2022**: 100 days 40: SQL with Max; Refresh PHP; Buffalo Groupe pre-employment.
 
 <br />
 
