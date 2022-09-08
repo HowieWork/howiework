@@ -25,13 +25,14 @@ I am always willing to embrace new technology. At school, I took programming cou
 
 In my spare time, I am working on [Repeat App](https://twitter.com/howiework/status/1496848333289271300) - a full-stack project aims to improve language skills and building his own [React Guide](https://howiework.github.io/react-guide/) while solidifying [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms). Post videos about [how I solve React problems live](https://t.co/zp4piEZITt) occasionally.
 
-**Watch a video**:
-I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
-
 **Sidenote**:
-It is worth to note I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
+It is worth noting I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
 
-**Current status 09/07/2022**: Week 4: Graph & the rest; Revise job application material; Prepare portfolio update; Anki review.
+**[LEGACY] Watch a video**:
+I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
+_Legacy, still fun to watch._
+
+**Current status 09/08/2022**: Updating content.
 
 <br />
 
