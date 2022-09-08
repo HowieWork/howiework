@@ -17,13 +17,17 @@
 
 ## Welcome!
 
-Hi, my name is Howie. I'm a web designer/developer based in the US with a background in architecture.
+Hi, my name is Howie. I’m a web designer/developer specializing in creating esthetic and unique digital experiences.
 
-I am always willing to embrace new technology. At school, I took programming courses like [Data Visualization](https://www.howiework.com/documents/data_visualization.html) and [Grasshopper](https://www.howiework.com/posts/inclusive-center). My professional experience started at WeWork. I was fascinated by how a data-driven approach is implemented in design. It’s also fun to work with tech-background colleagues. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). The team added a VR interaction session to the final presentation for the client. It was a big success. These two experiences really open my mind and reveal more opportunity and potential in the tech industry. In my spare time, I [self-taught programming](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion for web development.
+As of now, I’ve had the privilege of working at [an advertising agency](https://buffalogroupe.com/) and [a nonprofit organization](https://sunwater.org/). My current focus is to progress into a software engineer.
+
+In my spare time, I enjoy doing some freelancing work. My goal is to use technology to help clients articulate what’s in their mind to better express themselves.
+
+Though coming from a background in architecture, I am always willing to embrace new technology. At school, I took programming courses like [Data Visualization](https://www.howiework.com/documents/data_visualization.html) and [Grasshopper](https://www.howiework.com/posts/inclusive-center). My professional experience started at WeWork. I was fascinated by how a data-driven approach is implemented in design. It’s also fun to work with tech-background colleagues. Later at SOM, I worked on [an interior project involving VR](https://www.howiework.com/posts/anti-office). The team added a VR interaction session to the final presentation for the client. It was a big success. These two experiences really open my mind and reveal more opportunity and potential in the tech industry. In my spare time, I [self-taught programming](https://www.howiework.com/posts/thoughts-about-self-teaching-web-development) and gradually realize my true passion for web development.
 
 [My diverse background prepares me with both design and development skills](https://www.howiework.com/posts/what-ive-learned-about-architecture-and-web-development): a keen eye for design; professional experience using a wide range of digital design tools; design thinking, proven problem solving, research and analytical skills.
 
-In my spare time, I am working on [Repeat App](https://twitter.com/howiework/status/1496848333289271300) - a full-stack project aims to improve language skills and building his own [React Guide](https://howiework.github.io/react-guide/) while solidifying [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms). Post videos about [how I solve React problems live](https://t.co/zp4piEZITt) occasionally.
+Currently, I am working on [Repeat App](https://twitter.com/howiework/status/1496848333289271300) - a full-stack project aims to improve language skills and building his own [React Guide](https://howiework.github.io/react-guide/) while solidifying [Data structure and Algorithm](https://github.com/HowieWork/data-structure-and-algorithms). Post videos about [how I solve React problems live](https://t.co/zp4piEZITt) occasionally.
 
 **Sidenote**:
 It is worth noting I completely redesign and rebuild my portfolio website using React. It is a major update from [previous design version](https://github.com/HowieWork/howiework-v1-archived) preparing for my aspiring dev career. [View source code](https://github.com/HowieWork/howiework/tree/main).
@@ -157,6 +161,12 @@ A list of certifications I earned:
 
 <div>
   <ul>
+    <li>  
+      <div>
+        <strong>Sep 07, 2022</strong>
+        <a href="assets/readme/cert-frontend-expert.png">Frontend Expert - AlgoExpert</a> 
+      </div>
+    </li>
     <li>  
       <div>
         <strong>Jan 23, 2022</strong>
