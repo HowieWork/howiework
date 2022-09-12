@@ -36,7 +36,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 09/09/2022**: Updating portfolio website content.
+**Current status 09/12/2022**: Continue education planning.
 
 <br />
 
