@@ -36,7 +36,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 09/13/2022**: Junior to Senior: SSH; Performance Part I.
+**Current status 09/14/2022**: Junior to Senior: Performance Part I; Explore GCP for potential future hosting.
 
 <br />
 
