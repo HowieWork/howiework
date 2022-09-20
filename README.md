@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 09/19/2022**: Junior to Senior: Performance Part II. Add more items to reminders. Clear thoughts.
+**Current status 09/20/2022**: Junior to Senior: Performance Part II. Add Open source projects to LinkedIn and Job description.
 
 <br />
 
