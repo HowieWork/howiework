@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 09/21/2022**: Junior to Senior: PWA; Wrap up Performance Part 2.
+**Current status 09/22/2022**: Junior to Senior: Testing; Wrap up Performance Part 1 + Part 2.
 
 <br />
 
