@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 09/30/2022**: Revature - Step two: phone interview: Evaluation result + next steps.
+**Current status 10/03/2022**: RevaturePro programs planning; AWS - First-time course material overview.
 
 <br />
 
