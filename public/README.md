@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 11/01/2022**: Java planning; Command line planning; Assignment Desktop version.
+**Current status 11/02/2022**: Java; Command line; Assignment Sent.
 
 <br />
 
