@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 11/03/2022**: Typescript with Max. Java plan delayed.
+**Current status 11/04/2022**: Typescript with Max. Java plan.
 
 <br />
 
