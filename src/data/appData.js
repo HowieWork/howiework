@@ -48,7 +48,7 @@ export const TUTORIAL_APP_DATA = [
     description:
       'A web app for helping people choose where to travel in North America',
     imageSrc: 'app-natours-cover.webp',
-    demoUrl: 'https://natours-howie.herokuapp.com/',
+    demoUrl: 'https://natours-wv6y.onrender.com',
     gitHubUrl: 'https://github.com/HowieWork/natours',
   },
   {
