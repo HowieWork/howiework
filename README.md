@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 11/11/2022**: MERN - React 18 update.
+**Current status 11/12/2022**: MERN - React 18 update. Render.com Deployment.
 
 <br />
 
@@ -181,6 +181,12 @@ A list of certifications I earned:
 
 <div>
   <ul>
+  <li>  
+      <div>
+        <strong>Oct 28, 2022</strong>
+        <a href="assets/readme/cert-AWS-CCP.jpg">AWS Certified Cloud Practitioner</a> 
+      </div>
+    </li>
     <li>  
       <div>
         <strong>Sep 07, 2022</strong>
