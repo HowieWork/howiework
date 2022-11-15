@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 11/12/2022**: MERN - React 18 update. Render.com Deployment.
+**Current status 11/15/2022**: Remix explore; Java: Array; Capstone Project.
 
 <br />
 
