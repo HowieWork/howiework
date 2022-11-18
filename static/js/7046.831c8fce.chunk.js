@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7046],{37046:function(e,o,c){e.exports=c.p+"static/media/design-NMAAHC-cover.73d4cbe5a6d5d9c90562.webp"}}]);

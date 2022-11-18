@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[49],{565:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/how-i-built-my-first-mern-project.01c65392.md"}}]);
-//# sourceMappingURL=49.f8b19f5d.chunk.js.map

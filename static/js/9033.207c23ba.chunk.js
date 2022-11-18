@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9033],{39033:function(o,a,e){o.exports=e.p+"static/media/photo-food-yogasavage.ada76d0c2602efaa818c.webp"}}]);

@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[2],{113:function(i,o,t){"use strict";t.r(o),o.default=t.p+"static/media/drawing-oil-paint-home.00e6e9b7.webp"}}]);
-//# sourceMappingURL=2.7499e69f.chunk.js.map

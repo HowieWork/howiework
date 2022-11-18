@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2355],{92355:function(e,c,t){e.exports=t.p+"static/media/inclusive-center.1c63cc008bd51e8a0e45.md"}}]);

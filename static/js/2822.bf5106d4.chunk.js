@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2822],{32822:function(o,e,t){o.exports=t.p+"static/media/moon-village.242e4abf209955753181.md"}}]);

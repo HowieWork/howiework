@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[4180],{4180:function(e,o,p){e.exports=p.p+"static/media/app-natours-cover.f2ee6c97aa094fd6db7f.webp"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7281],{17281:function(p,e,o){p.exports=o.p+"static/media/app-snap-cover.0480914e7e15d83b2098.png"}}]);

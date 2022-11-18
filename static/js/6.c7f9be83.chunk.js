@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[6],{117:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/photo-city-nyc.b1e05553.webp"}}]);
-//# sourceMappingURL=6.c7f9be83.chunk.js.map

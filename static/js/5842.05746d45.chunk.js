@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[5842],{85842:function(o,p,e){o.exports=e.p+"static/media/app-modal-cover.0b775d851a7dbfcf0f3c.webp"}}]);

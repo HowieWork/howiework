@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[8986],{38986:function(e,o,c){e.exports=c.p+"static/media/cover.91d0ec589395d0f1cda7.webp"}}]);

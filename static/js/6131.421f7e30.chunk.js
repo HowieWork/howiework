@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6131],{66131:function(o,t,e){o.exports=e.p+"static/media/photo-human-talk.b26f3e79df6a249969bc.webp"}}]);

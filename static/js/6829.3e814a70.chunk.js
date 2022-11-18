@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6829],{16829:function(e,o,c){e.exports=c.p+"static/media/drawing-watercolor-dream.fef1326ec3ccba696f85.webp"}}]);

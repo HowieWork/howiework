@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6899],{16899:function(c,e,o){c.exports=o.p+"static/media/anti-office.1452c3c95247de53dfc9.md"}}]);

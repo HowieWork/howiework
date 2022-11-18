@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7479],{67479:function(e,t,o){e.exports=o.p+"static/media/thoughts-about-self-teaching-web-development.79a812d826a9085c7882.md"}}]);

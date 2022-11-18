@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9989],{49989:function(c,e,o){c.exports=o.p+"static/media/lunch-break.c2b9962213625c9d6491.md"}}]);
