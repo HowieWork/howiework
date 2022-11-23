@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 11/22/2022**: React Native - UPS 2.0.
+**Current status 11/23/2022**: React + TypeScript.
 
 <br />
 
