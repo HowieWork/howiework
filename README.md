@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 12/02/2022**: Day 2 - 3Advance: Focus on reading documents & assigned projects information; Personal: Next.js CSS-in-JS stitches.
+**Current status 12/05/2022**: Day 3 - 3Advance: GraphQL, CSS in JS, TS in Next.js.
 
 <br />
 
