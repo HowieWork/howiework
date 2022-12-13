@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 12/12/2022**: Day 8 - 3Advance: GraphQL, CSS in JS, TS in Next.js; Boaturu.
+**Current status 12/13/2022**: Day 9 - 3Advance: GraphQL, CSS in JS, TS in Next.js; Boaturu.
 
 <br />
 
