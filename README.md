@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 12/21/2022**: Day 15 - 3A - Boaturu; AARP review.
+**Current status 12/22/2022**: Day 16 - 3A - Boaturu; AARP review.
 
 <br />
 
