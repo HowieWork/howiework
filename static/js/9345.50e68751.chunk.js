@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9345],{39345:function(o,e,p){o.exports=p.p+"static/media/photo-human-dress.a41446987bc75a29dbf5.webp"}}]);

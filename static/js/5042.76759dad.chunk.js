@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[5042],{55042:function(e,o,i){e.exports=i.p+"static/media/design-miao-cover.33906712716281c96520.webp"}}]);

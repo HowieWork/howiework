@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[43],{568:function(o,i,t){"use strict";t.r(i),i.default=t.p+"static/media/design-miao-cover.33906712.webp"}}]);
+//# sourceMappingURL=43.6dc7933e.chunk.js.map

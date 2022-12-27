@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7826],{27826:function(e,t,a){e.exports=a.p+"static/media/what-ive-learned-about-architecture-and-web-development.aff15b45722c2012f7e6.md"}}]);

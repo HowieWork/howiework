@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[3985],{3985:function(e,o,t){e.exports=t.p+"static/media/how-i-learn-nextjs.e34bf4d489c04d664663.md"}}]);

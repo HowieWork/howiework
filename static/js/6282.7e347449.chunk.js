@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6282],{36282:function(p,e,o){p.exports=o.p+"static/media/app-bankist-cover.80f148179b3516c37231.webp"}}]);

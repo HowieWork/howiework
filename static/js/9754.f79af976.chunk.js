@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9754],{59754:function(t,o,e){t.exports=e.p+"static/media/how-to-build-a-flexible-react-button.7064dc866c21656badcb.md"}}]);

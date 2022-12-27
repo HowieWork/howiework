@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[8037],{98037:function(e,b,o){e.exports=o.p+"static/media/design-lunchbreak-cover.b5d6db1e66c25bb70ba0.webp"}}]);

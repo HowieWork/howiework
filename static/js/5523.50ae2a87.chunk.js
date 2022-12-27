@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[5523],{75523:function(t,o,i){t.exports=i.p+"static/media/talking-to-history.5dbca0343c99f1a78f36.md"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[8544],{58544:function(e,f,o){e.exports=o.p+"static/media/design-museum-cover.7f94d6599a989f932ff2.webp"}}]);

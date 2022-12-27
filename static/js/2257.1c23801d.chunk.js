@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2257],{32257:function(t,o,e){t.exports=e.p+"static/media/markdown-post-template.c2dbd13d029a8f882678.md"}}]);

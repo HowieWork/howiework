@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7395],{7395:function(p,a,o){p.exports=o.p+"static/media/snap-app.2adbf1848bccdd9a89d8.md"}}]);

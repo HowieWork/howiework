@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6905],{26905:function(e,o,s){e.exports=s.p+"static/media/museum.73e4014162241998cfd3.md"}}]);

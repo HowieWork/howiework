@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2988],{42988:function(o,e,c){o.exports=c.p+"static/media/photo-food-sesamechicken.a61c17d1af41f18885cf.webp"}}]);

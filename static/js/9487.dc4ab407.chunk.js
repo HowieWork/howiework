@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9487],{89487:function(e,o,p){e.exports=p.p+"static/media/app-monsters-rolodex-cover.d5c1fa23d9e1141a4a8c.webp"}}]);

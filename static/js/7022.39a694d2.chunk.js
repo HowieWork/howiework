@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7022],{27022:function(o,f,p){o.exports=p.p+"static/media/photo-human-subway.b30bb8d436faaf0fdfb1.webp"}}]);

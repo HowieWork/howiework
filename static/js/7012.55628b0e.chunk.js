@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7012],{37012:function(e,o,i){e.exports=i.p+"static/media/drawing-oil-paint-home.00e6e9b7f3e2d3e7262d.webp"}}]);

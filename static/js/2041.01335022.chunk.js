@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2041],{22041:function(e,a,i){e.exports=i.p+"static/media/urban-resilience.681d66aacf8afa75a6e2.md"}}]);

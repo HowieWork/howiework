@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[3193],{33193:function(o,p,e){o.exports=e.p+"static/media/app-forkify-cover.207405a3f72430a704c3.webp"}}]);

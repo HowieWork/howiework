@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6765],{26765:function(o,t,e){o.exports=e.p+"static/media/photo-human-father-and-son.3d04098c2f12a4740336.webp"}}]);

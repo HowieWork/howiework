@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[8885],{68885:function(e,a,p){e.exports=p.p+"static/media/appalachia.9b292775e6e6325a1e05.md"}}]);

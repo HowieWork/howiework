@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6228],{6228:function(e,p,o){e.exports=o.p+"static/media/app-lunch-break-cover.ba9af9187b05eb87cd11.png"}}]);

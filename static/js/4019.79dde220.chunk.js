@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[4019],{24019:function(o,t,e){o.exports=e.p+"static/media/photo-city-nyc.b1e05553753710a1a95a.webp"}}]);

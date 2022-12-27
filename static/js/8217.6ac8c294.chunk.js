@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[8217],{48217:function(t,o,e){t.exports=e.p+"static/media/how-i-built-my-first-mern-project.01c6539207f369dd2f56.md"}}]);

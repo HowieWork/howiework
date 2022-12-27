@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7690],{57690:function(p,c,e){p.exports=e.p+"static/media/app-mapty-cover.095a4d8acfc3b46f3cf3.webp"}}]);
