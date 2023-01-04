@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 01/03/2023**: Boaturu; Epic React.
+**Current status 01/04/2023**: Boaturu; Epic React.
 
 <br />
 
