@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 01/13/2023**: Epic React; Boaturu; AARP Planning Roadmap / Figma Design System.
+**Current status 01/16/2023**: Testing - Cypress; Boaturu; AARP Figma Design System.
 
 <br />
 
