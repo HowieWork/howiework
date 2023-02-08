@@ -258,7 +258,7 @@ A list of certifications I earned:
 <br/>
 <br/>
 <div align="center">
-© 2022 Made by Howie
+© 2023 Made by Howie
 </div>
 <br/>
 <!-- NOTE REFERENCE STYLE FOR READABILITY -->
