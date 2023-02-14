@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 02/13/2023**: AARP Design MVP-1.0; Boaturu Renter Site.
+**Current status 02/14/2023**: AARP Design MVP 1.0.
 
 <br />
 
