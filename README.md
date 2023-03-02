@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 03/01/2023**: React with Stephen; AARP mtg & next assignment; Finance; Misc _prioritize until it hurts_.
+**Current status 03/02/2023**: React with Stephen; AARP Staff App Design; UVA mtg; Finance; Misc _prioritize until it hurts_.
 
 <br />
 
