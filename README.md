@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 03/06/2023**: Meetings; Need to clear my head.
+**Current status 03/07/2023**: AARP Design Revision; Stephen React.
 
 <br />
 
