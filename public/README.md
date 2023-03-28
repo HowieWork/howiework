@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 03/27/2023**: 3A; Stephen GraphQL; System Design.
+**Current status 03/27/2023**: 3A; Stephen GraphQL; System Design; UVA catch up.
 
 <br />
 
