@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 03/31/2023**: 3A AARP Training; Stephen GraphQL; System Design; UVA.
+**Current status 04/03/2023**: 3A AARP; Stephen GraphQL; System Design; UVA.
 
 <br />
 
