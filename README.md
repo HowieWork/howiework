@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 04/05/2023**: 3A AARP Development - Time Entry Dropdown; Stephen GraphQL; System Design; UVA.
+**Current status 04/06/2023**: 3A AARP Development - Time Entry Dropdown; Stephen GraphQL; System Design; UVA Mtg.
 
 <br />
 
