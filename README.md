@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 04/21/2023**: 3A AARP Development; Stephen React Portfolio/TypeScript; System Design; UVA Assignments; Colt - GPT.
+**Current status 04/24/2023**: 3A Web Dev; Stephen React Portfolio/TypeScript; System Design; UVA Assignments; Colt - GPT.
 
 <br />
 
