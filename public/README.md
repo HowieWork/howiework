@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 06/03/2023**: UVA Brochure Pagination; React course/ Kent React summary
+**Current status 06/05/2023**: UVA Brochure Pagination; React course/ Kent React summary; Get ready for trip to Japan
 
 <br />
 
