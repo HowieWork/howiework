@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 06/27/2023**: UVA Banner, Brochure; React course with Jonas.
+**Current status 06/28/2023**: UVA Symposium/Brochure; React course with Jonas.
 
 <br />
 
