@@ -1,134 +1,134 @@
-import { useContext } from 'react';
-import { MdKeyboardArrowRight } from 'react-icons/md';
+import { useContext } from "react";
+import { MdKeyboardArrowRight } from "react-icons/md";
 
-import Button from '../../shared/components/FormElements/Button';
-import { ThemeContext } from '../../shared/context/theme-context';
+import Button from "../../shared/components/FormElements/Button";
+import { ThemeContext } from "../../shared/context/theme-context";
 
-import headshotLight from '../../assets/site/headshot-light.png';
-import headshotDark from '../../assets/site/headshot-dark.png';
+import headshotLight from "../../assets/site/headshot-light.png";
+import headshotDark from "../../assets/site/headshot-dark.png";
 
-import './Hero.css';
+import "./Hero.css";
 
 const Hero = () => {
   const themeContext = useContext(ThemeContext);
 
   return (
-    <section className='section-hero'>
+    <section className="section-hero">
       {/* HERO TITLE */}
-      <div className='center-flex-row hero-title'>
-        <div className='hero-title--text'>
+      <div className="center-flex-row hero-title">
+        <div className="hero-title--text">
           <h2>Hi, I'm Howie</h2>
           <p>Designer | Developer</p>
         </div>
-        <div className='center-flex-row hero-title--image'>
+        <div className="center-flex-row hero-title--image">
           <img
             src={themeContext.isDarkTheme ? headshotDark : headshotLight}
-            alt='howie wang'
+            alt="howie wang"
           />
         </div>
       </div>
 
       {/* HERO DESCRIPTION */}
-      <div className='center-flex-column tiny-gap hero-description'>
+      <div className="center-flex-column tiny-gap hero-description">
         {/* NOTE OPENING */}
         <div>
           Howie is a designer/developer based in the US with a background in
           architecture. He is always willing to embrace new technology. At
-          school, he took programming courses like{' '}
+          school, he took programming courses like{" "}
           <Button
-            href={process.env.PUBLIC_URL + '/documents/data_visualization.html'}
+            href={process.env.PUBLIC_URL + "/documents/data_visualization.html"}
             secondary
             targetBlank
             hoverUnderline
           >
             Data Visualization
-          </Button>{' '}
-          and{' '}
+          </Button>{" "}
+          and{" "}
           <Button
-            to='/posts/inclusive-center'
+            to="/posts/inclusive-center"
             secondary
             targetBlank
             hoverUnderline
           >
             Grasshopper
           </Button>
-          .{' '}
-          <Button href='https://youtu.be/HY-1dhShcHk' secondary hoverUnderline>
-            <span className='popcorn-banner'>
+          .{" "}
+          <Button href="https://youtu.be/HY-1dhShcHk" secondary hoverUnderline>
+            <span className="popcorn-banner">
               *Watch a self-introduction video
             </span>
-          </Button>{' '}
+          </Button>{" "}
           to get to know me.
         </div>
         {/* NOTE PROFESSIONAL EXPERIENCE */}
         <div>
           His professional experience started at WeWork. Working with people
           from different backgrounds opens his mind and reveals more opportunity
-          and potential. Later at SOM, he worked on{' '}
-          <Button to='/posts/anti-office' secondary hoverUnderline>
+          and potential. Later at SOM, he worked on{" "}
+          <Button to="/posts/anti-office" secondary hoverUnderline>
             an interior project involving VR
-          </Button>{' '}
-          . He{' '}
+          </Button>{" "}
+          . He{" "}
           <Button
-            to='/posts/thoughts-about-self-teaching-web-development'
+            to="/posts/thoughts-about-self-teaching-web-development"
             secondary
             hoverUnderline
           >
             self-taught web development
-          </Button>{' '}
-          and gradually realized his true passion.{' '}
-          <Button href='https://t.co/PIA5QB1v0Q' secondary hoverUnderline>
-            <span className='video-banner'>
+          </Button>{" "}
+          and gradually realized his true passion.{" "}
+          <Button href="https://t.co/PIA5QB1v0Q" secondary hoverUnderline>
+            <span className="video-banner">
               *Watch a portfolio presentation
             </span>
-          </Button>{' '}
+          </Button>{" "}
           to better understand how I worked on my projects.
         </div>
         {/* NOTE CURRENT STATUS */}
         <div>
           <Button
-            to='/posts/what-ive-learned-about-architecture-and-web-development'
+            to="/posts/what-ive-learned-about-architecture-and-web-development"
             secondary
             hoverUnderline
           >
             His diverse background
-          </Button>{' '}
+          </Button>{" "}
           equips him with both design and development skills. In his spare time,
-          he is working on{' '}
+          he is working on{" "}
           <Button
-            href='https://twitter.com/howiework/status/1496848333289271300'
+            href="https://twitter.com/howiework/status/1496848333289271300"
             secondary
             hoverUnderline
           >
             Repeat App
-          </Button>{' '}
-          - which aims to improve language skills and building his own{' '}
+          </Button>{" "}
+          - which aims to improve language skills and building his own{" "}
           <Button
-            href='https://howiework.github.io/react-guide/'
+            href="https://howiework.github.io/react-guide/"
             secondary
             hoverUnderline
           >
             React Guide
           </Button>
-          . Currently looking for opportunities to grow his career as a
-          profession.
+          . Currently, he works as a web developer at the University of Virginia
+          Comprehensive Cancer Center while also engaging in some design work.
         </div>
       </div>
 
       {/* HERO CTA */}
-      <div className='hero-cta'>
-        <Button to='/portfolio' primary>
-          <div className='center-flex-row tiny-gap'>
+      <div className="hero-cta">
+        <Button to="/portfolio" primary>
+          <div className="center-flex-row tiny-gap">
             Portfolio
-            <span className='center-flex-row'>
+            <span className="center-flex-row">
               <MdKeyboardArrowRight />
             </span>
           </div>
         </Button>
-        <div className='hero-cta--presentation'>
+        <div className="hero-cta--presentation">
           <Button
             href={
-              process.env.PUBLIC_URL + '/documents/portfolio-presentation.pdf'
+              process.env.PUBLIC_URL + "/documents/portfolio-presentation.pdf"
             }
             secondary
             targetBlank
