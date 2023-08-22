@@ -136,7 +136,7 @@
   }
 
   /* NOTE HIDE (Howie) & Pronounced ... */
-  .hero-title--text h2 > span {
+  .hero-title--text h2 > button {
     display: none;
   }
 
