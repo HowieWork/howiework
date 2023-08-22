@@ -30,7 +30,7 @@
     "static/js/13.b6150d2d.chunk.js.map": "/static/js/13.b6150d2d.chunk.js.map",
     "static/js/14.c9aef374.chunk.js": "/static/js/14.c9aef374.chunk.js",
     "static/js/14.c9aef374.chunk.js.map": "/static/js/14.c9aef374.chunk.js.map",
-    "main.css": "/static/css/main.64d46cc0.chunk.css",
+    "main.css": "/static/css/main.588a21d2.chunk.css",
     "main.js": "/static/js/main.6808fcc0.chunk.js",
     "main.js.map": "/static/js/main.6808fcc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c3d115f.js",
@@ -140,7 +140,7 @@
     "static/js/68.03b78198.chunk.js": "/static/js/68.03b78198.chunk.js",
     "static/js/68.03b78198.chunk.js.map": "/static/js/68.03b78198.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.64d46cc0.chunk.css.map": "/static/css/main.64d46cc0.chunk.css.map",
+    "static/css/main.588a21d2.chunk.css.map": "/static/css/main.588a21d2.chunk.css.map",
     "static/js/17.8c664817.chunk.js.LICENSE.txt": "/static/js/17.8c664817.chunk.js.LICENSE.txt",
     "static/media/anti-office.md": "/static/media/anti-office.1452c3c9.md",
     "static/media/app-bankist-cover.webp": "/static/media/app-bankist-cover.80f14817.webp",
@@ -205,7 +205,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c3d115f.js",
     "static/js/17.8c664817.chunk.js",
-    "static/css/main.64d46cc0.chunk.css",
+    "static/css/main.588a21d2.chunk.css",
     "static/js/main.6808fcc0.chunk.js"
   ]
 }
