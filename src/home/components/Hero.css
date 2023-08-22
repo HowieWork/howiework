@@ -37,13 +37,13 @@
 .hero-title--text h2 > button::before {
   position: absolute;
   content: "🗣️ PRONOUNCED AS";
-  left: -88%;
+  left: -70%;
   top: 90%;
   color: var(--primary-color);
   font-size: 8px;
-  letter-spacing: -0.05rem;
-  font-weight: 700;
-  border-top: 2px dashed var(--primary-color);
+  letter-spacing: -0.08rem;
+  font-weight: 500;
+  border-top: 1px dashed var(--primary-color);
 
   pointer-events: all;
 }
