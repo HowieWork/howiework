@@ -18,16 +18,47 @@
   font-weight: 700;
 }
 
+.hero-title--text button {
+  position: relative;
+  font-size: 2.4rem;
+  font-weight: 400;
+  border: none;
+  background-color: transparent;
+
+  pointer-events: none;
+}
+
+.hero-title--text button > span {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+.hero-title--text h2 > button::before {
+  position: absolute;
+  content: "🗣️ PRONOUNCED AS";
+  left: -88%;
+  top: 90%;
+  color: var(--primary-color);
+  /* font-size: 0.2rem; */
+  font-size: 0.2rem;
+  letter-spacing: -0.05rem;
+  font-weight: 700;
+  border-top: 2px dashed var(--primary-color);
+
+  pointer-events: all;
+}
+
 .hero-title--text p {
   font-size: 2rem;
   padding-left: 10.5rem;
+  margin-top: 1rem;
 
   position: relative;
 }
 
 .hero-title--text p::before {
   position: absolute;
-  content: 'Creative';
+  content: "Creative";
   left: 0%;
   z-index: -9;
   transform: rotate(-10deg);
@@ -45,7 +76,7 @@
 }
 
 .hero-title--image::after {
-  content: '🐈‍⬛ ';
+  content: "🐈‍⬛ ";
   position: absolute;
   top: 24%;
   right: 30%;
@@ -67,6 +98,11 @@
 }
 
 @media (max-width: 72em) {
+  .hero-title--text p {
+    margin-top: 2rem;
+    letter-spacing: -0.04rem;
+  }
+
   .hero-title--image img {
     height: 24vh;
   }
@@ -84,6 +120,10 @@
     height: 24vh;
   }
 
+  .hero-title--text p {
+    margin-top: 0.25rem;
+  }
+
   .hero-title--image img {
     height: 18vh;
   }
@@ -95,13 +135,18 @@
     right: 30%;
   }
 
+  /* NOTE HIDE (Howie) & Pronounced ... */
+  .hero-title--text h2 > span {
+    display: none;
+  }
+
   /* NOTE HIDE CREATIVE BANNER */
   .hero-title--text p {
     padding-left: 0;
   }
 
   .hero-title--text p::before {
-    content: '';
+    content: "";
   }
 }
 
@@ -156,19 +201,19 @@
 }
 
 .popcorn-banner::after {
-  content: ' 🍿 ';
+  content: " 🍿 ";
 }
 
 .popcorn-banner:hover::after {
-  content: '';
+  content: "";
 }
 
 .video-banner::after {
-  content: ' 🎬 ';
+  content: " 🎬 ";
 }
 
 .video-banner:hover::after {
-  content: '';
+  content: "";
 }
 
 /* HERO CTA */

@@ -6,18 +6,32 @@ import { ThemeContext } from "../../shared/context/theme-context";
 
 import headshotLight from "../../assets/site/headshot-light.png";
 import headshotDark from "../../assets/site/headshot-dark.png";
+import sound from "../../assets/sound.wav";
 
 import "./Hero.css";
 
 const Hero = () => {
   const themeContext = useContext(ThemeContext);
 
+  function play() {
+    new Audio(sound).play();
+  }
+
   return (
     <section className="section-hero">
       {/* HERO TITLE */}
       <div className="center-flex-row hero-title">
         <div className="hero-title--text">
-          <h2>Hi, I'm Howie</h2>
+          <h2>
+            Hi, I'm Hao{" "}
+            <button
+              onClick={() => {
+                play();
+              }}
+            >
+              (<span>How</span>ie)
+            </button>
+          </h2>
           <p>Designer | Developer</p>
         </div>
         <div className="center-flex-row hero-title--image">
@@ -110,8 +124,15 @@ const Hero = () => {
           >
             React Guide
           </Button>
-          . Currently, he works as a web developer at the University of Virginia
-          Comprehensive Cancer Center while also engaging in some design work.
+          . Currently, he works as a web developer at{" "}
+          <Button
+            href="https://med.virginia.edu/cancer-research/"
+            secondary
+            hoverUnderline
+          >
+            UVA Comprehensive Cancer Center
+          </Button>{" "}
+          while also engaging in some design work.
         </div>
       </div>
 
