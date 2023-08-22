@@ -30,9 +30,9 @@
     "static/js/13.b6150d2d.chunk.js.map": "/static/js/13.b6150d2d.chunk.js.map",
     "static/js/14.c9aef374.chunk.js": "/static/js/14.c9aef374.chunk.js",
     "static/js/14.c9aef374.chunk.js.map": "/static/js/14.c9aef374.chunk.js.map",
-    "main.css": "/static/css/main.bc23ab39.chunk.css",
-    "main.js": "/static/js/main.a1417ff0.chunk.js",
-    "main.js.map": "/static/js/main.a1417ff0.chunk.js.map",
+    "main.css": "/static/css/main.8ddfb1bd.chunk.css",
+    "main.js": "/static/js/main.6808fcc0.chunk.js",
+    "main.js.map": "/static/js/main.6808fcc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c3d115f.js",
     "runtime-main.js.map": "/static/js/runtime-main.7c3d115f.js.map",
     "static/js/17.8c664817.chunk.js": "/static/js/17.8c664817.chunk.js",
@@ -140,7 +140,7 @@
     "static/js/68.03b78198.chunk.js": "/static/js/68.03b78198.chunk.js",
     "static/js/68.03b78198.chunk.js.map": "/static/js/68.03b78198.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.bc23ab39.chunk.css.map": "/static/css/main.bc23ab39.chunk.css.map",
+    "static/css/main.8ddfb1bd.chunk.css.map": "/static/css/main.8ddfb1bd.chunk.css.map",
     "static/js/17.8c664817.chunk.js.LICENSE.txt": "/static/js/17.8c664817.chunk.js.LICENSE.txt",
     "static/media/anti-office.md": "/static/media/anti-office.1452c3c9.md",
     "static/media/app-bankist-cover.webp": "/static/media/app-bankist-cover.80f14817.webp",
@@ -195,6 +195,7 @@
     "static/media/photo-human-talk.webp": "/static/media/photo-human-talk.b26f3e79.webp",
     "static/media/redefine-edge.md": "/static/media/redefine-edge.eef79aee.md",
     "static/media/snap-app.md": "/static/media/snap-app.2adbf184.md",
+    "static/media/sound.e439eba6.wav": "/static/media/sound.e439eba6.wav",
     "static/media/sounding-ground.md": "/static/media/sounding-ground.4950497e.md",
     "static/media/talking-to-history.md": "/static/media/talking-to-history.5dbca034.md",
     "static/media/thoughts-about-self-teaching-web-development.md": "/static/media/thoughts-about-self-teaching-web-development.79a812d8.md",
@@ -204,7 +205,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c3d115f.js",
     "static/js/17.8c664817.chunk.js",
-    "static/css/main.bc23ab39.chunk.css",
-    "static/js/main.a1417ff0.chunk.js"
+    "static/css/main.8ddfb1bd.chunk.css",
+    "static/js/main.6808fcc0.chunk.js"
   ]
 }
