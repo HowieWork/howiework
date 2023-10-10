@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 10/09/2023**: UVA Asana Tickets. Remotasks \*Back to normal.
+**Current status 10/10/2023**: UVA Asana Tickets. Remotasks. Life Strategy Planning.
 
 <br />
 
