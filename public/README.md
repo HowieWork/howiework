@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 01/17/2024**: Remotasks - On Hold. UVACCC. Other AI platform.
+**Current status 01/18/2024**: UVACCC. Remotasks - On Hold.
 
 <br />
 
