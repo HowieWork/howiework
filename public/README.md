@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 02/22/2024**: UVACCC. Jonas's Newsletter.
+**Current status 02/23/2024**: UVACCC; Jonas's Newsletter; Planning; API Course.
 
 <br />
 
