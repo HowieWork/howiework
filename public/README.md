@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 04/29/2024**: UVACCC; Udemy: React with Jonas; eBay; Airbnb.
+**Current status 04/30/2024**: UVACCC; Udemy: React with Jonas; New phone setup
 
 <br />
 
