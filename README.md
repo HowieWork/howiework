@@ -257,7 +257,7 @@ A list of certifications I earned:
 <br/>
 <br/>
 <div align="center">
-© 2024 Made by Howie
+© 2024 Made by Hao Wang (Howie)
 </div>
 <br/>
 <!-- NOTE REFERENCE STYLE FOR READABILITY -->
