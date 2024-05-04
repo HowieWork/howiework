@@ -41,8 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 05/03/2024**: UVACCC; Udemy courses.
-
+**Current status 05/04/2024**: Update resume; website project Github readme.
 <br />
 
 <div>
@@ -258,7 +257,7 @@ A list of certifications I earned:
 <br/>
 <br/>
 <div align="center">
-© 2023 Made by Howie
+© 2024 Made by Howie
 </div>
 <br/>
 <!-- NOTE REFERENCE STYLE FOR READABILITY -->
