@@ -61,7 +61,7 @@ const About = () => {
         {/* ABOUT CTA */}
         <div className="about-cta">
           <Button
-            href={process.env.PUBLIC_URL + "/documents/resume-howie.pdf"}
+            href={process.env.PUBLIC_URL + "/documents/resume-hao-wang.pdf"}
             primary
             targetBlank
           >
