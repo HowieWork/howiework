@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 05/16/2024**: UVACCC; Udemy: React, Python & AI.
+**Current status 05/17/2024**: UVACCC; Udemy: React, Python & AI.
 <br />
 
 <div>
