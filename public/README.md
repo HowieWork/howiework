@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 05/28/2024**: UVACCC.
+**Current status 05/29/2024**: UVACCC; Udemy: React; 通风。
 <br />
 
 <div>
