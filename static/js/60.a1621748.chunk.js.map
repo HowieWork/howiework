@@ -1,1 +1,1 @@
-{"version":3,"sources":["markdowns/snap-app.md"],"names":[],"mappings":"yGAAA,OAAe,cAA0B,mC","file":"static/js/60.a1621748.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/snap-app.2adbf184.md\";"],"sourceRoot":""}
+{"version":3,"sources":["../../../../../03-projects/howiework/howiework-com/portfolio/src/markdowns/snap-app.md"],"names":[],"mappings":"yGAAA,OAAe,cAA0B,mC","file":"static/js/60.a1621748.chunk.js","sourcesContent":["export default __webpack_public_path__ + \"static/media/snap-app.2adbf184.md\";"],"sourceRoot":""}
