@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 06/24/2024**: UVACCC; Channel branding; Udemy: React, ChatGPT.
+**Current status 06/25/2024**: Udemy; Branding; Website Redesign; UVACCC.
 <br />
 
 <div>
