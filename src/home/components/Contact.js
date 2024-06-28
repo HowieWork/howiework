@@ -1,20 +1,20 @@
-import { useState } from 'react';
-import { MdCallMade } from 'react-icons/md';
-import emailjs from 'emailjs-com';
+import { useState } from "react";
+import { MdCallMade } from "react-icons/md";
+import emailjs from "emailjs-com";
 
-import Button from '../../shared/components/FormElements/Button';
-import Modal from '../../shared/components/UIElements/Modal';
-import Backdrop from '../../shared/components/UIElements/Backdrop';
-import Input from '../../shared/components/FormElements/Input';
+import Button from "../../shared/components/FormElements/Button";
+import Modal from "../../shared/components/UIElements/Modal";
+import Backdrop from "../../shared/components/UIElements/Backdrop";
+import Input from "../../shared/components/FormElements/Input";
 
-import { useForm } from '../../shared/hooks/form-hook.js';
+import { useForm } from "../../shared/hooks/form-hook.js";
 import {
   VALIDATOR_EMAIL,
   VALIDATOR_MINLENGTH,
   VALIDATOR_REQUIRE,
-} from '../../shared/util/validators.js';
+} from "../../shared/util/validators.js";
 
-import './Contact.css';
+import "./Contact.css";
 
 const Contact = () => {
   const [isSendMessage, setIsSendMessage] = useState(false);
@@ -31,8 +31,8 @@ const Contact = () => {
   // REQUEST FORM
   const [formState, inputHandler] = useForm(
     {
-      name: { value: '', isValid: false },
-      email: { value: '', isValid: false },
+      name: { value: "", isValid: false },
+      email: { value: "", isValid: false },
     },
     false
   );
@@ -58,7 +58,7 @@ const Contact = () => {
     try {
       const response = await sendEmail(event.target);
       if (response.status === 200) {
-        console.log('Thank you for your message!');
+        console.log("Thank you for your message!");
       }
     } catch (error) {
       // HANDLE ERROR
@@ -68,42 +68,42 @@ const Contact = () => {
   };
 
   return (
-    <section id='contact' className='responsive-width section-contact'>
+    <section id="contact" className="responsive-width section-contact">
       {isSendMessage && <Backdrop onClick={backdropHandler} />}
       {isSendMessage && (
         <Modal>
-          <form className='contact-send-message' onSubmit={formSubmitHandler}>
+          <form className="contact-send-message" onSubmit={formSubmitHandler}>
             <Input
-              element='input'
-              id='name'
-              type='text'
-              label='Name'
+              element="input"
+              id="name"
+              type="text"
+              label="Name"
               validators={[VALIDATOR_REQUIRE()]}
-              errorText='Please enter a name.'
+              errorText="Please enter a name."
               onInput={inputHandler}
             />
             <Input
-              element='input'
-              id='email'
-              type='email'
-              label='Email'
+              element="input"
+              id="email"
+              type="email"
+              label="Email"
               validators={[VALIDATOR_EMAIL(), VALIDATOR_REQUIRE()]}
-              errorText='Please enter a valid email address.'
+              errorText="Please enter a valid email address."
               onInput={inputHandler}
             />
             <Input
-              element='textarea'
-              id='message'
-              label='Message'
+              element="textarea"
+              id="message"
+              label="Message"
               validators={[VALIDATOR_REQUIRE(), VALIDATOR_MINLENGTH(10)]}
-              errorText='Please enter a valid message, at least 10 characters.'
+              errorText="Please enter a valid message, at least 10 characters."
               onInput={inputHandler}
             />
-            <div className='send-message-btn'>
+            <div className="send-message-btn">
               <Button
-                type='submit'
+                type="submit"
                 primary
-                size='small'
+                size="small"
                 disabled={!formState.isValid}
               >
                 Send Message
@@ -112,54 +112,54 @@ const Contact = () => {
           </form>
         </Modal>
       )}
-      <div className='center-flex-row tiny-gap contact-title'>
+      <div className="center-flex-row tiny-gap contact-title">
         <div></div> Get in touch
       </div>
 
-      <div className='center-flex-column small-gap contact-container'>
+      <div className="center-flex-column small-gap contact-container">
         <Button
-          href='https://github.com/howiework'
+          href="https://github.com/howiework"
           secondary
           hoverUnderline
           targetBlank
         >
-          <div className='center-flex-row tiny-gap contact-text'>
+          <div className="center-flex-row tiny-gap contact-text">
             GitHub <MdCallMade />
           </div>
         </Button>
         <Button
-          href='https://www.instagram.com/howiework'
+          href="https://www.instagram.com/howiework"
           secondary
           hoverUnderline
           targetBlank
         >
-          <div className='center-flex-row tiny-gap contact-text'>
+          <div className="center-flex-row tiny-gap contact-text">
             Instagram <MdCallMade />
           </div>
         </Button>
         <Button
-          href='https://www.linkedin.com/in/howiework'
+          href="https://www.linkedin.com/in/howiework"
           secondary
           hoverUnderline
           targetBlank
         >
-          <div className='center-flex-row tiny-gap contact-text'>
+          <div className="center-flex-row tiny-gap contact-text">
             LinkedIn <MdCallMade />
           </div>
         </Button>
         <Button
-          href='mailto:howiewang2020@gmail.com'
+          href="mailto:haowang.creative@gmail.com"
           secondary
           hoverUnderline
           targetBlank
         >
-          <div className='center-flex-row tiny-gap contact-text'>
+          <div className="center-flex-row tiny-gap contact-text">
             Email <MdCallMade />
           </div>
         </Button>
         <div>
-          <Button type='button' primary onClick={requestServiceHandler}>
-            <div className='center-flex-row tiny-gap'>Send Message</div>
+          <Button type="button" primary onClick={requestServiceHandler}>
+            <div className="center-flex-row tiny-gap">Send Message</div>
           </Button>
         </div>
       </div>
