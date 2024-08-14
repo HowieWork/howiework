@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 08/13/2024**: UVACCC; Howiework.com Design V2 - Content; Instagram Content.
+**Current status 08/14/2024**: UVACCC; Yu Architecture; Howiework Content.
 <br />
 
 <div>
