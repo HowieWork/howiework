@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 08/20/2024**: UVACCC; YouTube Website Tutorial.
+**Current status 08/211/2024**: UVACCC; YouTube Website Tutorial; Outlier.
 <br />
 
 <div>
