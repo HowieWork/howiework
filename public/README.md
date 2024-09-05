@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 09/04/2024**: UVACCC; Outlier; NextJS/JavaScript/MongoDB/Google Cloud/Tailwind CSS.
+**Current status 09/05/2024**: UVACCC; Outlier; NextJS/JavaScript/MongoDB/Google Cloud/Tailwind CSS.
 <br />
 
 <div>
