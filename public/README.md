@@ -41,7 +41,8 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 11/06/2024**: UVACCC; Udemy: NextJS w/ Max; Outlier.
+**Current status 11/07/2024**: UVACCC; Udemy: NextJS w/ Max; Art craft project.
+
 <br />
 
 <div>
