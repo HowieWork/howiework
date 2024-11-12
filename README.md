@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 11/11/2024**: UVACCC; Real Estate.
+**Current status 11/12/2024**: UVACCC; Real Estate.
 
 <br />
 
