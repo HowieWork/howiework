@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[23],{546:function(p,o,t){"use strict";t.r(o),o.default=t.p+"static/media/app-bankist-homepage-cover.7e48b71a.webp"}}]);
-//# sourceMappingURL=23.18daf010.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[10],{107:function(o,t,a){"use strict";a.r(t),t.default=a.p+"static/media/photo-food-yogasavage.ada76d0c.webp"}}]);
+//# sourceMappingURL=10.0032ce18.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[11],{123:function(o,t,p){"use strict";p.r(t),t.default=p.p+"static/media/photo-human-dress.a4144698.webp"}}]);
-//# sourceMappingURL=11.b9bde31a.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[60],{590:function(p,t,o){"use strict";o.r(t),t.default=o.p+"static/media/snap-app.2adbf184.md"}}]);
-//# sourceMappingURL=60.a1621748.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[67],{541:function(p,o,t){"use strict";t.r(o),o.default=t.p+"static/media/app-snap-cover.0480914e.png"}}]);
+//# sourceMappingURL=67.58412afa.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[4],{101:function(o,t,e){"use strict";e.r(t),t.default=e.p+"static/media/drawing-watercolor-dream.fef1326e.webp"}}]);
+//# sourceMappingURL=4.89c6e263.chunk.js.map

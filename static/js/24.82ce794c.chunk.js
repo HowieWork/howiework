@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[24],{547:function(o,p,t){"use strict";t.r(p),p.default=t.p+"static/media/app-forkify-cover.207405a3.webp"}}]);
-//# sourceMappingURL=24.82ce794c.chunk.js.map

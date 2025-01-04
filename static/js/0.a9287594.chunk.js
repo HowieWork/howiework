@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[0],{97:function(o,t,a){"use strict";a.r(t),t.default=a.p+"static/media/drawing-charcoal-dancer.ece73595.webp"}}]);
+//# sourceMappingURL=0.a9287594.chunk.js.map

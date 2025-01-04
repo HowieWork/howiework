@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[14],{126:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/photo-human-talk.b26f3e79.webp"}}]);
-//# sourceMappingURL=14.c9aef374.chunk.js.map
