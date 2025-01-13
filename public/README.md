@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 01/10/2024**: UVACCC; Udemy; Finance - tax documents prepares.
+**Current status 01/13/2024**: UVACCC; Finance: tax documents list; Udemy.
 
 <br />
 
@@ -258,7 +258,7 @@ A list of certifications I earned:
 <br/>
 <br/>
 <div align="center">
-© 2024 Made by Hao Wang (Howie)
+© 2025 Made by Hao Wang (Howie)
 </div>
 <br/>
 <!-- NOTE REFERENCE STYLE FOR READABILITY -->
