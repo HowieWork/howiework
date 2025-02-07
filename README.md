@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 02/06/2025**: UVACCC; Udemy: Development & Design; Howiework Branding.
+**Current status 02/07/2025**: UVACCC; Udemy: Development & Design; Howiework Branding.
 
 <br />
 
