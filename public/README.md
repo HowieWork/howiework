@@ -3,7 +3,7 @@
 <!-- NOTE HEAD SECTION -->
 <div align="center">
   <a href="https://www.howiework.com/" target='_blank'>
-    <img src="assets/logo.png" alt="site logo" width="" height="72"/>
+    <img src="assets/logo-v2.png" alt="site logo" width="" height="72"/>
   </a>
   <div>
     <a href="https://www.howiework.com/" target='_blank'>View Site</a> • 
