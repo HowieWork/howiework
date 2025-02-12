@@ -17,7 +17,7 @@
 
 ## Welcome!
 
-Hi, my name is Howie. I’m a web designer/developer specializing in creating esthetic and unique digital experiences. As of now, I’ve had the privilege of working at [an advertising agency](https://buffalogroupe.com/) and [a nonprofit organization](https://sunwater.org/). My current focus is to progress into a software engineer.
+Hi, my name is Hao (pronounced [h ow]), or you can call me Howie. I’m a web designer and developer specializing in creating aesthetic and unique digital experiences. As of now, I’ve had the privilege of working at [an advertising agency](https://buffalogroupe.com/) and [a nonprofit organization](https://sunwater.org/). Currently, he works as a web developer at [UVA Comprehensive Cancer Center](https://med.virginia.edu/cancer-research/) while also engaging in some design work.
 
 In my spare time, I enjoy doing some freelancing work. My goal is to use technology to help clients articulate what’s in their mind to better express themselves.
 
