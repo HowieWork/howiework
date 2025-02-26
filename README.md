@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 02/25/2025**: UVACCC; Udemy: Development & Design; Dane Digital Solutions.
+**Current status 02/26/2025**: UVACCC; Dane Digital Solutions; Howiework Prototype.
 
 <br />
 
