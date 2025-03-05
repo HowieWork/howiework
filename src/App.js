@@ -42,7 +42,7 @@ const App = () => {
   const routes = (
     <Switch>
       {/* HOMEPAGE */}
-      <Route path="/howiework" exact>
+      <Route path="/" exact>
         <Home />
       </Route>
 
@@ -85,7 +85,7 @@ const App = () => {
         toggleDarkThemeHandler: toggleDarkTheme,
       }}
     >
-      <Router basename="">
+      <Router basename="/howiework">
         <MainNavigation />
         <main>{routes}</main>
         <Footer />
