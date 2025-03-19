@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 03/18/2025**: UVACCC; Howiework; Digital Marketing Plan.
+**Current status 03/19/2025**: UVACCC; Starttovalue; Digital Marketing Plan.
 
 <br />
 
