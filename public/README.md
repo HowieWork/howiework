@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 03/31/2025**: UVACCC; Gateway West; Starttovalue; Howiework.
+**Current status 04/01/2025**: UVACCC; Starttovalue; Howiework; Gateway West.
 
 <br />
 
