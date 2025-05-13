@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 05/12/2025**: UVACCC; Catch up with life.
+**Current status 05/13/2025**: UVACCC; Catch up with life in the states.
 
 <br />
 
