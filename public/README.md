@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 05/28/2025**: UVACCC; House Hunting; 奇幻生活！
+**Current status 05/29/2025**: UVACCC; House Hunting; 奇幻生活！1.2.1 Update
 <br />
 
 <div>
