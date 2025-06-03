@@ -41,7 +41,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 I also made [a self-introduction video](https://youtu.be/HY-1dhShcHk).
 _Legacy, still fun to watch._
 
-**Current status 06/02/2025**: UVACCC; 10938 Home Inspection; HOA.
+**Current status 06/03/2025**: UVACCC; 10938 Home Inspection.
 <br />
 
 <div>
